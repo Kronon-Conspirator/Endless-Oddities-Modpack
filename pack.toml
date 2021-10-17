@@ -1,0 +1,12 @@
+name = "MC Endless Oddities"
+author = "Mr.Bones / KrononC"
+version = "0.2.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e5aa4f9cb7f581019ae5c95ea51e2bbde286ab75c07a473f6584e60cff554074"
+
+[versions]
+fabric = "0.11.7"
+minecraft = "1.17.1"
