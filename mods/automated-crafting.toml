@@ -1,0 +1,14 @@
+name = "Automated Crafting"
+filename = "automated-crafting-1.3.24+MC1.17-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3383/133/automated-crafting-1.3.24+MC1.17-1.17.1.jar"
+hash-format = "murmur2"
+hash = "1173316996"
+
+[update]
+[update.curseforge]
+file-id = 3383133
+project-id = 389435
+release-channel = "beta"

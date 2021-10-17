@@ -1,0 +1,75 @@
+{
+	"type": "origins:multiple",
+	"hidden": true,
+	"dark": {
+		"type": "origins:model_color",
+		"red": 0.1,
+		"green": 0.1,
+		"blue": 0.1,
+		"condition": {
+			"type": "origins:resource",
+			"comparison": "==",
+			"resource": "changeling:change_current_form",
+			"compare_to": 2
+		}
+	},
+	"flame_particles": {
+		"type": "origins:particle",
+		"particle": "minecraft:lava_particle",
+		"frequency": 4,
+		"hidden": true,
+		"condition": {
+			"type": "origins:resource",
+			"comparison": "==",
+			"resource": "changeling:change_current_form",
+			"compare_to": 3
+		}
+	},
+	"spider_like": {
+		"type": "origins:model_color",
+		"red": 0.15,
+		"green": 0.3,
+		"blue": 0.35,
+		"condition": {
+			"type": "origins:resource",
+			"comparison": "==",
+			"resource": "changeling:change_current_form",
+			"compare_to": 0
+		}
+	},
+	"fish_man": {
+		"type": "origins:particle",
+		"particle": "minecraft:water_drip_particle",
+		"frequency": 4,
+		"hidden": true,
+		"condition": {
+			"type": "origins:resource",
+			"comparison": "==",
+			"resource": "changeling:change_current_form",
+			"compare_to": 5
+		}
+	},
+	"stone_cube": {
+		"type": "origins:model_color",
+		"red": 0.73,
+		"green": 0.38,
+		"blue": 0.73,
+		"condition": {
+			"type": "origins:resource",
+			"comparison": "==",
+			"resource": "changeling:change_current_form",
+			"compare_to": 6
+		}
+	},
+	"translucent": {
+		"type": "origins:model_color",
+		"alpha": 0.5,
+		"condition": {
+			"type": "origins:resource",
+			"comparison": "==",
+			"resource": "changeling:change_current_form",
+			"compare_to": 4
+		}
+	}
+	
+}

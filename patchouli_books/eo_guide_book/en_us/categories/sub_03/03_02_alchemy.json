@@ -1,0 +1,7 @@
+{
+  "name": "Alchemy",
+  "icon": "artofalchemy:materia_omega",
+  "parent":"patchouli:03_advance",
+  "description": "Bewitchment + Art Of Alchemy",
+  "sortnum": 2
+}

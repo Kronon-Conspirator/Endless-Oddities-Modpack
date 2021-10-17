@@ -1,0 +1,24 @@
+{
+  "name": "Enchantments",
+  "icon": "minecraft:enchanted_book",
+  "category": "patchouli:01_essential",
+
+  "sortnum": 4,
+
+  "pages": 
+  [{
+    "type": "patchouli:text",
+    "text":
+    "there are many many new enchantments that have been added to your adventures. most can be looked up by searching via REI and looking for the specific enchantment book with that enchantment."
+  },
+  {
+    "type": "patchouli:text",
+    "text":
+    "Here's the ModList that holds those enchants :$(li) Soulbound$(li) Spellbound$(li) Fabric Enchantment$(li) Herb_Mc Extra Enchants$(li) MC Dungeon Weapon$(li) MC Dungeon Armor$(li) MC Dungeon Artifacts$(li) EffectEnchant"
+  },
+  {
+    "type": "patchouli:crafting",
+    "recipe": "dark-enchanting:dark_enchanter",
+    "text": "this Table allows the user to pick and choose their enchantments at a cost"
+  }]
+}

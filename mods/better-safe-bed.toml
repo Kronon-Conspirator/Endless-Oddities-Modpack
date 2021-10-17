@@ -1,0 +1,14 @@
+name = "Better Safe Bed (Forge/Fabric)"
+filename = "bettersafebed-fabric-1.17-1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3343/650/bettersafebed-fabric-1.17-1.4.jar"
+hash-format = "murmur2"
+hash = "712757247"
+
+[update]
+[update.curseforge]
+file-id = 3343650
+project-id = 484804
+release-channel = "beta"

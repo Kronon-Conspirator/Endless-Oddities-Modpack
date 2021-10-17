@@ -1,0 +1,7 @@
+{
+  "name": "Structures",
+  "icon": "minecraft:stone",
+  "parent":"patchouli:02_generation",
+  "description": "In the right person's hands, Create can be used to build amazing contraptions.$(p)These chapters will cover what's possible with the most basic materials available - without $(item)brass/$ or $(item)redstone/$.",
+  "sortnum": 3
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Portals",
+  "icon": "customportals:purple_portal_catalyst",
+  "category": "patchouli:03_advance/03_03_transportation",
+
+  "sortnum": 2,
+
+  "pages": 
+  [{
+    "type": "patchouli:spotlight",
+    "item":"slotlink:request",
+    "text": "Simple sets of machines that allows connecting between multiple chest so easily use it as a item storage bank. Its useful to not think about item sorting when its totally automated."
+  }]
+}

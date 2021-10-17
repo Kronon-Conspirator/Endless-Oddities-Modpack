@@ -1,0 +1,14 @@
+name = "Spellbound Enchantments"
+filename = "spellbound-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3479/628/spellbound-1.6.0.jar"
+hash-format = "murmur2"
+hash = "1686782076"
+
+[update]
+[update.curseforge]
+file-id = 3479628
+project-id = 434965
+release-channel = "beta"

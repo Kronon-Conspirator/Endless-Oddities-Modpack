@@ -1,0 +1,14 @@
+{
+  "name": "Slotlink",
+  "icon": "slotlink:request",
+  "category": "patchouli:03_advance/03_01_machine",
+
+  "sortnum": 1,
+
+  "pages": 
+  [{
+    "type": "patchouli:spotlight",
+    "item":"slotlink:request",
+    "text": "Simple sets of machines that allows connecting between multiple chest so easily use it as a item storage bank. Its useful to not think about item sorting when its totally automated."
+  }]
+}

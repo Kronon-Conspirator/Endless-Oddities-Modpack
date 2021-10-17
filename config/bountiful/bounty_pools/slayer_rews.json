@@ -1,0 +1,79 @@
+{
+    "content": [
+        {
+            "type": "ITEM",
+			"rarity": "EPIC",
+            "content": "doom:argent_block",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 2200.0
+        },
+        {
+            "type": "ITEM",
+            "content": "doom:shotgun_shells",
+            "amount": {
+                "min": 12,
+                "max": 12
+            },
+            "unitWorth": 450.0
+        },
+        {
+            "type": "ITEM",
+            "content": "doom:rocket",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 900.0
+        },
+        {
+            "type": "ITEM",
+            "content": "doom:chaingunbullets",
+            "amount": {
+                "min": 12,
+                "max": 24
+            },
+            "unitWorth": 1000.0
+        },
+        {
+            "type": "ITEM",
+            "content": "doom:bullets",
+            "amount": {
+                "min": 16,
+                "max": 32
+            },
+            "unitWorth": 400.0,
+        },
+        {
+            "type": "ITEM",
+            "content": "doom:bfg_cell",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 1600.0
+        },
+        {
+            "type": "ITEM",
+			"rarity": "LEGENDARY",
+            "content": "doom:daisy",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 16000.0
+        },
+        {
+            "type": "ITEM",
+			"rarity": "UNCOMMON",
+            "content": "doom:argent_plate",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 1000.0
+        }
+    ]
+}

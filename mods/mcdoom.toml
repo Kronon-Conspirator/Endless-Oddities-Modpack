@@ -1,0 +1,14 @@
+name = "MCDoom"
+filename = "MCDoom-Fabric-1.17-4.0.26.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3493/554/MCDoom-Fabric-1.17-4.0.26.jar"
+hash-format = "murmur2"
+hash = "277909069"
+
+[update]
+[update.curseforge]
+file-id = 3493554
+project-id = 368765
+release-channel = "beta"

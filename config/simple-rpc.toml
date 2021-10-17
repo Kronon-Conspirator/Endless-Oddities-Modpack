@@ -1,0 +1,182 @@
+
+#General Config Section
+[general]
+	#The Client ID of the Discord App to use
+	clientID = 882048839144570930
+	#Enable/Disable the mod
+	enabled = true
+	#Enable/Disable debugging mode. WARNING: MAY CAUSE LOG SPAM!
+	debugging = false
+	#Enable/Disable the in game config screen
+	configScreen = true
+	#Display the Icon and Pack Name in place of LargeImage from compatible launchers. DOES NOT WORK WITH CUSTOM APPS! ONLY THE DEFAULT ONE!
+	launcherIntegration = false
+	#Enable/Disabled in-game notifications about new releases
+	updater = false
+	#Internal Version Number. NO TOUCHY!
+	version = 10
+
+#The Game Loading event
+[init]
+	#Enable/Disable the Game Loading Event
+	enabled = true
+	#The first line of text under the app name
+	description = "Manifesting Reality"
+	#The second line of text under the app name
+	state = "Game Starting..."
+	#The Asset ID of the image to display as the large image
+	largeImageKey = "mclogo"
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "It's Minecraft %mcver%, but modded"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ""
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
+	buttons = []
+
+#The Main Menu event
+[main_menu]
+	#Enable/Disable the Main Menu Event
+	enabled = true
+	#The first line of text under the app name
+	description = "%player% is just vibin'"
+	#The seconds line of text under the app name
+	state = "Chilling in the menu"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = "fabric"
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "It's Minecraft %mcver%, but modded"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = "mclogo"
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
+	buttons = []
+
+#The Server List event
+[server_list]
+	#Enable/Disable the Server List Event
+	enabled = true
+	#The first line of text under the app name
+	description = "%player% is looking for a server"
+	#The second line of text under the app name
+	state = "Searching for friends"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = "mclogonew"
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "It's Minecraft %mcver%, but modded"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = "mclogo"
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
+	buttons = []
+
+#The Join Game Event
+[join_game]
+	#Enable/Disable the Join Game Event
+	enabled = false
+	#The first line of text under the app name
+	description = "%player% is joining a game"
+	#The second line of text under the app name
+	state = "Joining Game"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = "mclogonew"
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "It's Minecraft %mcver%, but modded"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = "mclogo"
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
+	buttons = []
+
+#The Single Player Event
+[single_player]
+	#Enable/Disable the Single Player Event
+	enabled = true
+	#The first line of text under the app name
+	description = "roaming in %biome%"
+	#The second line of text under the app name
+	state = "Protaganist Mode"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = "minecraft"
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "It's Modded Minecraft %mcver%"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = "mclogo"
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
+	buttons = []
+
+#The Multi Player Event
+[multi_player]
+	#Enable/Disable the Multi Player Event
+	enabled = true
+	#The first line of text under the app name
+	description = "[ %servername% ]"
+	#The second line of text under the app name
+	state = "online with %players% players"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = "crafting"
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "It's Minecraft %mcver%, but modded"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = "mclogo"
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
+	buttons = []
+
+#Fallback event for disabled events
+[generic]
+	#The first line of text under the app name
+	description = "Playing"
+	#The second line of text under the app name
+	state = "Mystical Machination "
+	#The Asset ID of the image to display as the large image
+	largeImageKey = "mclogo"
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "It's Minecraft %mcver%, but modded"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ""
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
+	buttons = []
+
+#Dimension Information Overrides
+[dimension_overrides]
+	#Allows you to override the displayed values for dimensions
+	enabled = false
+
+	#The Dimensions to override
+	[[dimension_overrides.dimensions]]
+		name = "overworld"
+		description = "%player% is in The Overworld"
+		state = ""
+		largeImageKey = "overworld"
+		largeImageText = "In the Overworld"
+		smallImageKey = "mclogo"
+		smallImageText = "%mods% mods installed"
+
+	[[dimension_overrides.dimensions]]
+		name = "the_nether"
+		description = "%player% is in The Nether"
+		state = ""
+		largeImageKey = "nether"
+		largeImageText = "In the Nether"
+		smallImageKey = "mclogo"
+		smallImageText = "%mods% mods installed"
+
+	[[dimension_overrides.dimensions]]
+		name = "the_end"
+		description = "%player% is in The End"
+		state = ""
+		largeImageKey = "end"
+		largeImageText = "In the End"
+		smallImageKey = "mclogo"
+		smallImageText = "%mods% mods installed"
+

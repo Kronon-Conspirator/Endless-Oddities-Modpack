@@ -1,0 +1,14 @@
+name = "All The Blocks You Want"
+filename = "atbyw-1.17-1.5.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3368/468/atbyw-1.17-1.5.3.jar"
+hash-format = "murmur2"
+hash = "3285469185"
+
+[update]
+[update.curseforge]
+file-id = 3368468
+project-id = 428415
+release-channel = "beta"

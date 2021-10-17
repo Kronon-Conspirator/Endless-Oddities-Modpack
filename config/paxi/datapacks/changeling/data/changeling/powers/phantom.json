@@ -1,0 +1,196 @@
+{
+	"name": "Phantom Form",
+	"description": "Your Phantom form can phantomize for a short period of time. It is still subject to the problems that come with being a phantom.",
+    "type": "origins:multiple",
+	"meter": {
+		"type": "origins:resource",
+		"min": 0,
+		"max": 6000,
+		"start_value": 6000,
+		"hud_render": {
+			"should_render": true,
+			"sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_03.png",
+			"bar_index": 12,
+			"condition": {
+				"type": "origins:resource",
+				"inverted": false,
+				"comparison": "==",
+				"resource": "changeling:change_current_form",
+				"compare_to": 4
+			}
+		}
+	},
+	"phantom_trigger": {
+		"type": "origins:active_self",
+		"key": "primary",
+		"entity_action": {
+			"type": "origins:if_else",
+			"condition": {
+				"type": "origins:resource",
+				"comparison": "==",
+				"resource": "changeling:phantom_toggle",
+				"compare_to": 1
+			},
+			"if_action": {
+				"type": "origins:change_resource",
+				"resource": "changeling:phantom_toggle",
+				"change": -1
+			},
+			"else_action": {
+			   "type": "origins:change_resource",
+				"resource": "changeling:phantom_toggle",
+				"change": 1
+			}
+		},
+		"hud_render": {
+			"should_render": false
+		},
+		"cooldown": 1,
+		"condition": {
+			"type": "origins:resource",
+			"comparison": "==",
+			"resource": "changeling:change_current_form",
+			"compare_to": 4
+		}
+	},
+	"toggle": {
+		"type": "origins:resource",
+		"min": 0,
+		"max": 1,
+		"start_value": 0,
+		"hud_render": {
+			"should_render": false
+		}
+	},
+	"update": {
+		"type": "origins:action_over_time",
+		"entity_action": {
+			"type": "origins:if_else",
+			"condition": {
+				"type": "origins:resource",
+				"comparison": "==",
+				"resource": "changeling:phantom_toggle",
+				"compare_to": 1
+			},
+			"if_action": {
+				"type": "origins:change_resource",
+				"resource": "changeling:phantom_meter",
+				"change": -1
+			},
+			"else_action": {
+				"type": "origins:change_resource",
+				"resource": "changeling:phantom_meter",
+				"change": 3
+			}
+		},
+		"interval": 1
+	},
+	"burn_in_daylight": {
+		"type": "origins:burn",
+		"interval": 20,
+		"burn_duration": 6,
+		"condition": {
+			"type": "origins:and",
+			"conditions": [
+				{
+					"type": "origins:exposed_to_sun"
+				},
+				{
+					"type": "origins:invisible",
+					"inverted": true
+				},
+				{
+					"type": "origins:resource",
+					"inverted": false,
+					"comparison": "==",
+					"resource": "changeling:change_current_form",
+					"compare_to": 4
+				}
+			]
+		}
+	},
+	"hunger_over_time": {
+		"type": "origins:exhaust",
+		"interval": 20,
+		"exhaustion": 0.812,
+		"condition": {
+			"type": "origins:and",
+			"conditions": [
+				{
+					"type": "origins:resource",
+					"comparison": "==",
+					"resource": "changeling:phantom_toggle",
+					"compare_to": 1
+				},
+				{
+					"type": "origins:resource",
+					"inverted": "false",
+					"comparison": ">",
+					"resource": "changeling:phantom_meter",
+					"compare_to": 0
+				}
+			]
+		}
+	},
+	"invisibility": {
+		"type": "origins:invisibility",
+		"render_armor": true,
+		"condition": {
+			"type": "origins:and",
+			"conditions": [
+				{
+					"type": "origins:resource",
+					"comparison": "==",
+					"resource": "changeling:phantom_toggle",
+					"compare_to": 1
+				},
+				{
+					"type": "origins:resource",
+					"inverted": "false",
+					"comparison": ">",
+					"resource": "changeling:phantom_meter",
+					"compare_to": 0
+				}
+			]
+		}
+	},
+	"phasing": {
+		"type": "origins:phasing",
+		"blacklist": true,
+		"render_type": "blindness",
+		"view_distance": 60,
+		"block_condition": {
+			"type": "origins:in_tag",
+			"tag": "origins:unphasable"
+		},
+		"phase_down_condition": {
+			"type": "origins:and",
+			"conditions": [
+				{
+					"type": "origins:sneaking"
+				},
+				{
+					"type": "origins:on_block"
+				}
+			]
+		},
+		"condition": {
+			"type": "origins:and",
+			"conditions": [
+				{
+					"type": "origins:resource",
+					"comparison": "==",
+					"resource": "changeling:phantom_toggle",
+					"compare_to": 1
+				},
+				{
+					"type": "origins:resource",
+					"inverted": "false",
+					"comparison": ">",
+					"resource": "changeling:phantom_meter",
+					"compare_to": 0
+				}
+			]
+		}
+	}
+}

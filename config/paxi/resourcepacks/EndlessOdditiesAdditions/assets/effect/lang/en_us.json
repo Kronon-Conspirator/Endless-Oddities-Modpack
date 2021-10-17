@@ -1,0 +1,17 @@
+{
+  "enchantment.effectenchants.haste": "Alchemical Rush",
+  "enchantment.effectenchants.speed": "Alchemical Boost",
+  "enchantment.effectenchants.jumpboost": "Alchemical Leap",
+  "enchantment.effectenchants.strength": "Enchanced Muscle",
+  "enchantment.effectenchants.resistance": "Alchemical Hardening",
+  "enchantment.effectenchants.exploding_arrows": "Exploding Reaction",
+  "enchantment.effectenchants.wither": "Wither Edged",
+  "enchantment.effectenchants.witherarrows": "Withering Reaction",
+  "enchantment.effectenchants.poison": "Poison Edged",
+  "enchantment.effectenchants.poisonarrows": "Poisoning Reaction",
+  "enchantment.effectenchants.regeneration": "Rejuvenating",
+  "enchantment.effectenchants.iceaspect": "Ice Aspect",
+  "enchantment.effectenchants.waterbreathing": "Fish Breath",
+  "enchantment.effectenchants.fireresistance": "Flame Shield",
+  "enchantment.effectenchants.nightvision": "Alchemical Vision"
+}

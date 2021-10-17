@@ -1,0 +1,126 @@
+{
+    "content": [
+		{
+			"type": "ENTITY",
+			"timeMult": 10.0,
+			"content": "minecraft:wither_skeleton",
+			"amount": {
+				"min": 2,
+				"max": 4
+			},
+			"unitWorth": 400,
+			"weightMult": 100.0
+		},
+				{
+			"type": "ENTITY",
+			"timeMult": 10.0,
+			"content": "minecraft:blaze",
+			"amount": {
+				"min": 2,
+				"max": 4
+			},
+			"unitWorth": 400,
+			"weightMult": 100.0
+		},
+				{
+			"type": "ENTITY",
+			"timeMult": 10.0,
+			"content": "doom:imp",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 600,
+			"weightMult": 100.0
+		},
+		{
+			"type": "ENTITY",
+			"timeMult": 10.0,
+			"content": "doom:zombieman",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 500,
+			"weightMult": 100.0
+		},
+		{
+			"type": "ENTITY",
+			"timeMult": 10.0,
+			"content": "doom:imp2016",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 400,
+			"weightMult": 100.0
+		}
+		,
+		{
+			"type": "ENTITY",
+			"timeMult": 10.0,
+			"content": "doom:summoner",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1600,
+			"weightMult": 100.0
+		},
+		{
+			"type": "ENTITY",
+			"timeMult": 10.0,
+			"content": "doom:cacodemon",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 1300,
+			"weightMult": 100.0
+		},
+		{
+			"type": "ENTITY",
+			"timeMult": 10.0,
+			"content": "doom:chaingunner",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1600,
+			"weightMult": 100.0
+		},
+		{
+			"type": "ENTITY",
+			"timeMult": 10.0,
+			"content": "doom:shotgunguy",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1600,
+			"weightMult": 100.0
+		},
+		{
+			"type": "ENTITY",
+			"timeMult": 10.0,
+			"content": "doom:baron",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1600,
+			"weightMult": 100.0
+		},
+		{
+			"type": "ENTITY",
+			"timeMult": 10.0,
+			"content": "doom:marauder",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2600,
+			"weightMult": 100.0
+		}
+    ]
+}

@@ -1,0 +1,49 @@
+{
+	"type": "origins:multiple",
+    "name": "Enviomental React",
+    "description": "Activate Instictual Reaction to morph to adapt to a certain condition. click ternary key to activate.",
+	"trigger": {
+		"type": "origins:active_self",
+		"key": "key.origins.ternary_active",
+		"entity_action": {
+			"actions":[
+				{
+					"type": "origins:if_else",
+					"condition": {
+						"type": "origins:resource",
+						"comparison": "==",
+						"resource": "changeling:automorph_toggle",
+						"compare_to": 1
+					},
+					"if_action": {
+						"type": "origins:change_resource",
+						"resource": "changeling:automorph_toggle",
+						"change": -1
+					},
+					"else_action": {
+					   "type": "origins:change_resource",
+						"resource": "changeling:automorph_toggle",
+						"change": 1
+					}
+				},
+				{
+					"type": "origins:execute_command",
+					"command": "playsound minecraft:entity.player.breath neutral @s ~ ~ ~ 100 2"
+				}
+			]
+		},
+		"hud_render": {
+			"should_render": false
+		},
+		"cooldown": 1
+	},
+	"toggle": {
+		"type": "origins:resource",
+		"min": 0,
+		"max": 1,
+		"start_value": 0,
+		"hud_render": {
+			"should_render": false
+		}
+	}
+}

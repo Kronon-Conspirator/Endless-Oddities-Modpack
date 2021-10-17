@@ -1,0 +1,14 @@
+name = "Second Chance"
+filename = "second-chance-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3451/831/second-chance-1.1.0.jar"
+hash-format = "murmur2"
+hash = "3609883437"
+
+[update]
+[update.curseforge]
+file-id = 3451831
+project-id = 501853
+release-channel = "beta"

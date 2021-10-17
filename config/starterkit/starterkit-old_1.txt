@@ -1,0 +1,70 @@
+'offhand' : '',
+'head' : '',
+'chest' : '',
+'legs' : '',
+'feet' : '',
+0 : '{Count:1b,id:"mcdw:sword_iron_sword_var",tag:{Damage:0}}',
+1 : '{Count:1b,id:"vanilla-hammers:wooden_hammer",tag:{Damage:0}}',
+2 : '{Count:5b,id:"minecraft:sweet_berries"}',
+3 : '{Count:1b,id:"minecraft:writable_book",tag:{pages:["-------------------
+
+         §lTome Of 
+  Endless Oddities§r
+    ✘✘✘✘✘✘✘✘✘✘✘✘
+-------------------
+
+By : Mr.Bones","Content:
+1- Intro
+2- REI
+3- Tools
+4- Ore
+5- Dimension
+6- Structures
+7- Progression","Intro:
+
+welp you stumble apon this random world and dunno what to do.
+
+Like Regular folks do go do something like vanilla stuff. Of course its gonna be a tad bit different.","REI:
+
+Get use to Using REI menu in your Inventory GUI, By Hovering on items and click R/U it shows recipes relating to those items.","Tools:
+Now you have access to new tools such as §2Excavators§r§§, §5Hammers§r,
+§9Hookshots§r,§1Trinkets,§r §8Artifacts §rand etc.
+
+Enchantments have been expanded apon, Guns are also here and Machines to help with production.
+Explore the mods yourself 
+","Generation:
+Ores from all kinds of mods like for progression, machines, and straight up boost are availible to help the player in all kinds of ways.
+
+World has also been cluttured with dungeons, towers and monsters with all unique perposes."]}}',
+4 : '',
+5 : '',
+6 : '',
+7 : '',
+8 : '',
+9 : '{Count:1b,id:"bewitchment:book_of_shadows"}',
+10 : '{Count:1b,id:"adorn:guide_book"}',
+11 : '{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"things:things_guide"}}',
+12 : '{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"adventurez:adventurez"}}',
+13 : '',
+14 : '',
+15 : '',
+16 : '',
+17 : '',
+18 : '{Count:1b,id:"betterend:guidebook"}',
+19 : '{Count:1b,id:"indrev:guide_book"}',
+20 : '{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"agape_space:space_guide"}}',
+21 : '{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"croptopia:guide"}}',
+22 : '',
+23 : '',
+24 : '',
+25 : '',
+26 : '',
+27 : '',
+28 : '',
+29 : '',
+30 : '',
+31 : '',
+32 : '',
+33 : '',
+34 : '',
+35 : '',

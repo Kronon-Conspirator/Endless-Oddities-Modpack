@@ -1,0 +1,70 @@
+{
+	"type": "origins:multiple",
+    "name": "Form Shift",
+    "description": "Press your secondary key (unbound by default) to cycle your form. Each form has a different set of abilities.",
+	"shift": {
+		"type": "origins:active_self",
+		"key": "secondary",
+		"entity_action": {
+			"actions": [
+				{
+					"type": "origins:if_else",
+					"condition": {
+						"type": "origins:resource",
+						"comparison": "==",
+						"resource": "changeling:change_current_form",
+						"compare_to": 6
+					},
+					"if_action": {
+						"type": "origins:and",
+						"actions": [
+							{
+								"type": "origins:change_resource",
+								"resource": "changeling:change_current_form",
+								"change": -6
+							},
+							{
+								"type": "origins:change_resource",
+								"resource": "changeling:phantom_toggle",
+								"change": -1
+							}
+						]
+					},
+					"else_action": {
+						"type": "origins:and",
+						"actions": [
+							{
+								"type": "origins:change_resource",
+								"resource": "changeling:change_current_form",
+								"change": 1
+							},
+							{
+								"type": "origins:change_resource",
+								"resource": "changeling:phantom_toggle",
+								"change": -1
+							}
+						]
+					}
+				},
+				{
+					"type": "origins:execute_command",
+					"command": "playsound minecraft:entity.zombie_villager.cure neutral @s ~ ~ ~ 100 2"
+				}
+			],
+			"type": "origins:and"
+		},
+		"hud_render": {
+			"should_render": false
+		},
+		"cooldown": 1
+	},
+	"current_form": {
+		"type": "origins:resource",
+		"min": 0,
+		"max": 6,
+		"start_value": 0,
+		"hud_render": {
+			"should_render": false
+		}
+	}
+}

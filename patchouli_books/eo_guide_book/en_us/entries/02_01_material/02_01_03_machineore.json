@@ -1,0 +1,13 @@
+{
+  "name": "Very Important Ore (VIO)",
+  "icon": "indrev:silver_purified_ore",
+  "category": "patchouli:sub_02/02_01_material",
+
+  "sortnum": 2,
+
+  "pages": 
+  [{
+    "type": "patchouli:text",
+    "text": "focus on indrev or any ore that technically required"
+  }]
+}

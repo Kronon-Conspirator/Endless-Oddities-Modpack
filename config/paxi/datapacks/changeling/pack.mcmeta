@@ -1,0 +1,13 @@
+{
+	"pack": {
+		"name": "Changeling Origin",
+		"id": "changeling",
+		"pack_format": 7,
+		"description": "An origin with multiple forms",
+		"authors": [
+			"RS_Mind",
+			"AceXHunt"
+		],
+		"version":"1.3"
+	}
+}

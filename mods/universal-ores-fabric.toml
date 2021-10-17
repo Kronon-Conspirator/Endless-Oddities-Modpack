@@ -1,0 +1,14 @@
+name = "Universal Ores (Fabric)"
+filename = "universal_ores-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3334/934/universal_ores-1.0.jar"
+hash-format = "murmur2"
+hash = "1396663982"
+
+[update]
+[update.curseforge]
+file-id = 3334934
+project-id = 489884
+release-channel = "beta"

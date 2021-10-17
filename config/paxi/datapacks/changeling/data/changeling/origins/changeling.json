@@ -1,0 +1,23 @@
+{
+    "impact": 2,
+    "name": "Changeling",
+    "description": "Changelings are devious shapeshifters who can change their forms at will. They can copy other races' abilities, but they are not as good at using them as their original owners. Of course, they don't just copy the benefits.",
+    "icon": "minecraft:bookshelf",
+    "powers": [
+        "changeling:change",
+		"changeling:unstable",
+		"changeling:climbing",
+		"changeling:gale",
+		"changeling:arachnid",
+		"changeling:elytrian",
+		"changeling:enderian",
+		"changeling:blazeborn",
+		"changeling:phantom",
+		"changeling:merling",
+		"changeling:shulk",
+		"changeling:automorph",
+		"changeling:cosmetics"
+    ],
+    "order": 14,
+    "unchoosable": false
+}

@@ -1,0 +1,13 @@
+name = "Mechanical Factory"
+filename = "mechanical-factory-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CNfeI5Ov/versions/1.0.0/mechanical-factory-1.0.0.jar"
+hash-format = "sha512"
+hash = "13ec2405f7ce9c95969dc7fb116c99f81a3cf09636422de0096f248474c24eb4d1227a770108a8a36aafb5d5fbbecfe3cf5857204959ea8baad827115471bf41"
+
+[update]
+[update.modrinth]
+mod-id = "CNfeI5Ov"
+version = "M6SF3N4q"

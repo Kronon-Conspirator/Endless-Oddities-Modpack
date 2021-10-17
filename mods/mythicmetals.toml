@@ -1,0 +1,14 @@
+name = "Mythic Metals"
+filename = "mythicmetals-0.10.0-snapshot-D.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3477/89/mythicmetals-0.10.0-snapshot-D.jar"
+hash-format = "murmur2"
+hash = "3371910566"
+
+[update]
+[update.curseforge]
+file-id = 3477089
+project-id = 410127
+release-channel = "beta"

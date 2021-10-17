@@ -1,0 +1,28 @@
+{
+  "name": "Tools",
+  "icon": "minecraft:stone_pickaxe",
+  "category": "patchouli:01_essential",
+
+  "sortnum": 1,
+
+  "pages": 
+  [{
+    "type": "patchouli:text",
+    "text": "To get started with anything you need to know what you have at your disposal. now you have access to a multitude of new tools including and not limited to Paxels, High Powered Tools, Hammers, etc."
+  },
+  {
+    "type": "patchouli:crafting",
+    "recipe": "vanilla-hammers:wooden_hammer",
+    "text": "You have access to Hammers. basically 3x3 pickaxe variant that allows the user to carve the underworld in your own image"
+  },
+  {
+    "type": "patchouli:crafting",
+    "recipe": "vanilla-excavators:wooden_excavator",
+    "text": "You have access to Excavators. basically 3x3 shovel variant that allows the user to carve the Surface in your own image"
+  },
+  {
+    "type": "patchouli:crafting",
+    "recipe": "hookshot:hookshot",
+    "text": "Hookshots allow you to grapple in the direction you fired at. you also have options to further upgrade your hookshot at the smithing table."
+  }]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dimension",
+  "icon": "minecraft:crying_obsidian",
+  "parent":"patchouli:02_generation",
+  "description": "For some time you're going to be fine just staying on your starting island.$(p)However, at some point, you're going to have to venture out to collect additional materials from $(thing)plants/$, $(thing)animals/$ and even $(thing)monsters/$, both from islands in the $(bold)Overworld/$ as well as the more dangerous $(bold)Nether/$.",
+  "sortnum": 4
+}

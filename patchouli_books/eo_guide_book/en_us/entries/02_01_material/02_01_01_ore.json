@@ -1,0 +1,21 @@
+{
+  "name": "Ore",
+  "icon": "minecraft:diamond_ore",
+  "category": "patchouli:sub_02/02_01_material",
+
+  "sortnum": 0,
+
+  "pages": 
+  [{
+    "type": "patchouli:text",
+    "text": "in world focused on mining one of the best things to do is to get familiar on what your looking for on the ground under you"
+  },
+  {
+    "type": "patchouli:text",
+    "text": "First of all if you should focus on getting the basic materials like iron, gold and diamonds such as classic Minecraft would. This will at least get you preped for more advance composites materials in the future."
+  },
+  {
+    "type": "patchouli:text",
+    "text": "Next is the Ores from Mythic Metals. these materials have many atritributes to be worth hunting for. Some are the center points on getting stronger defense, some offer innate enchantments and some are quick ways to progress. These metals are constantly on the lookout by the miner's guild so they are worth quite a bit too."
+  }]
+}

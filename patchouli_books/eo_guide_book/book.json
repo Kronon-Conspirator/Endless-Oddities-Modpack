@@ -1,0 +1,9 @@
+{
+  "name": "Wanderer's Guidebook",
+  "subtitle": "Tome Of Endless Oddities",
+  "landing_text": "Welcome to a Kitchen Sink modpack which offer a unique Journey Involving Dungeon Crawling, Dimension hopping,Automated Farming and Conquering the world with Might and Magic",
+  "book_texture": "patchouli:textures/gui/book_green.png",
+  "model": "kubejs:guide_book",
+  "show_progress": false,
+  "testing_mode" : true
+}

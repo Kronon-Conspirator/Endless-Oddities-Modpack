@@ -1,0 +1,14 @@
+name = "Expanded Trident Enchanting"
+filename = "expanded-trident-enchanting-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3360/833/expanded-trident-enchanting-1.0.2.jar"
+hash-format = "murmur2"
+hash = "3587564357"
+
+[update]
+[update.curseforge]
+file-id = 3360833
+project-id = 487100
+release-channel = "beta"

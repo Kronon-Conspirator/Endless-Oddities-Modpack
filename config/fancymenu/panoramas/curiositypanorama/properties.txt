@@ -1,0 +1,8 @@
+type = panorama
+
+panorama-meta {
+  name = Curiositypanorama
+  speed = 0.50
+  fov = 85.0
+  angle = 25.0
+}

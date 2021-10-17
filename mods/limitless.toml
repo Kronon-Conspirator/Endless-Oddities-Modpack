@@ -1,0 +1,13 @@
+name = "limitless"
+filename = "limitless-1.5.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qx0jUYY8/versions/1.5.12/limitless-1.5.12.jar"
+hash-format = "sha512"
+hash = "c988b8702651bb48997f12bdc5fcb74ec3e295c6894e281baf2ff681b2437c790c2dc19c3c6d1f9a0748d810ceee594814a7213ab483d89fd50a2a70568b7849"
+
+[update]
+[update.modrinth]
+mod-id = "Qx0jUYY8"
+version = "l7i4VbBN"

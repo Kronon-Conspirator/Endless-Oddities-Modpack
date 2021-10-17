@@ -1,0 +1,14 @@
+name = "Durability101"
+filename = "Durability101-fabric-1.17-0.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3447/869/Durability101-fabric-1.17-0.0.4.jar"
+hash-format = "murmur2"
+hash = "1646920879"
+
+[update]
+[update.curseforge]
+file-id = 3447869
+project-id = 325020
+release-channel = "beta"

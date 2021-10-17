@@ -1,0 +1,14 @@
+name = "MmmMmmMmmMmm-Fabric (target dummy)"
+filename = "MmmMmmMmmMmm-1.17-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3469/404/MmmMmmMmmMmm-1.17-1.1.0.jar"
+hash-format = "murmur2"
+hash = "1552785928"
+
+[update]
+[update.curseforge]
+file-id = 3469404
+project-id = 477961
+release-channel = "beta"

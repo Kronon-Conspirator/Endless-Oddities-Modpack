@@ -1,0 +1,14 @@
+name = "Bosses of Mass Destruction"
+filename = "BOMD-1.2.3-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3407/406/BOMD-1.2.3-1.17.1.jar"
+hash-format = "murmur2"
+hash = "3708482395"
+
+[update]
+[update.curseforge]
+file-id = 3407406
+project-id = 438365
+release-channel = "beta"

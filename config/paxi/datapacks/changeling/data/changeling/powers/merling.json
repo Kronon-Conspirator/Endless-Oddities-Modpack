@@ -1,0 +1,48 @@
+{
+    "hidden": false,
+	"name": "Merling Form",
+	"description": "Your Merling form transform your body to have gills to survive underwater without any other additional perks.",
+	"type": "origins:multiple",
+	"meter": {
+		"type": "origins:resource",
+		"min": 0,
+		"max": 1,
+		"start_value": 1,
+		"hud_render": {
+			"should_render": true,
+			"sprite_location": "origins:textures/gui/resource_bar.png",
+			"bar_index": 1,
+			"condition": {
+				"type": "origins:resource",
+				"inverted": false,
+				"comparison": "==",
+				"resource": "changeling:change_current_form",
+				"compare_to": 5
+			}
+		}
+	},
+	"water_breathing":{
+		"type": "origins:action_over_time",
+		"entity_action":{
+		  "type": "origins:if_else",
+		  "condition": {
+			"type": "origins:resource",
+			"inverted": false,
+			"comparison": "==",
+			"resource": "changeling:change_current_form",
+			"compare_to": 5
+		  },
+		  "if_action": {
+			"type": "origins:execute_command",
+			"permission_level": 4,
+			"command": "power grant @p[limit = 1] origins:water_breathing"
+		  },
+		  "else_action": {
+			"type": "origins:execute_command",
+			"permission_level": 4,
+			"command": "power revoke @p[limit = 1] origins:water_breathing"
+		  }
+		},
+		"interval": 10
+	}
+}

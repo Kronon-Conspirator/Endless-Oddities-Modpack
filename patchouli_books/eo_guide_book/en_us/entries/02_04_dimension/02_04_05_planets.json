@@ -1,0 +1,13 @@
+{
+  "name": "Interstellar Bodies",
+  "icon": "minecraft:iron_block",
+  "category": "patchouli:sub_02/02_04_dimension",
+
+  "sortnum": 0,
+
+  "pages": 
+  [{
+    "type": "patchouli:text",
+    "text": "-"
+  }]
+}

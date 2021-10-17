@@ -1,0 +1,14 @@
+name = "Explorer's Compass"
+filename = "ExplorersCompass-1.17.1-2.0.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3414/835/ExplorersCompass-1.17.1-2.0.2-fabric.jar"
+hash-format = "murmur2"
+hash = "3366753941"
+
+[update]
+[update.curseforge]
+file-id = 3414835
+project-id = 491794
+release-channel = "beta"

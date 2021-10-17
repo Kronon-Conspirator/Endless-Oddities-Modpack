@@ -1,0 +1,29 @@
+# LibBlockAttributes options file (fluids module)
+# Removing an option will reset it back to the default value
+# Removing or altering comments doesn't replace them.
+
+# False to use long names (buckets, ticks) or true to use symbols (B, t)
+symbols=false
+
+# False to use seconds or true to use ticks (1/20th of a second)
+ticks=false
+
+# False to use long descriptions, or true to use shorter ones. For example:
+#  false: '3 Buckets of Water in a 16 Bucket Tank'
+#  true:  '3 / 16 Buckets of Water'
+short_desc=false
+
+# False to allow fluids to use their own text colour, true to remove it.
+disable_fluid_colours=false
+
+# True to colour tooltips to emphasise numbers, false to use the default colour.
+disable_emphasis_colours=false
+
+# True to join the name with the amount in tooltips. For example:
+# 'true':
+#   '3 Buckets of Water in a 16 Bucket Tank'
+# 'false':
+#   'Water'
+#   '3 Buckets in a 16 Bucket Tank'
+tooltip_join_name_amount=false
+

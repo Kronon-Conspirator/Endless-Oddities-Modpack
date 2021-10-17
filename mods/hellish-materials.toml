@@ -1,0 +1,14 @@
+name = "Hellish Materials"
+filename = "hellish-materials-0.13.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3479/635/hellish-materials-0.13.1.jar"
+hash-format = "murmur2"
+hash = "4119062396"
+
+[update]
+[update.curseforge]
+file-id = 3479635
+project-id = 410015
+release-channel = "beta"

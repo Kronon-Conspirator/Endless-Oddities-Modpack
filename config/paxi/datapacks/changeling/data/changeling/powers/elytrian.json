@@ -1,0 +1,103 @@
+{
+    "hidden": false,
+	"name": "Elytrian Form",
+	"description": "Your Elytrian form has elytra, but can't perform the Elytrians' maneuvers that long. It has a natural aversion to enclosed spaces and brittle bones.",
+	"type": "origins:multiple",
+	"meter": {
+		"type": "origins:resource",
+		"min": 0,
+		"max": 300,
+		"start_value": 300,
+		"hud_render": {
+			"should_render": true,
+			"sprite_location": "origins:textures/gui/resource_bar.png",
+			"bar_index": 4,
+			"condition": {
+				"type": "origins:resource",
+				"inverted": false,
+				"comparison": "==",
+				"resource": "changeling:change_current_form",
+				"compare_to": 1
+			}
+		}
+	},
+	"elytra": {
+		"type": "origins:elytra_flight",
+		"render_elytra": true,
+		"condition": {
+			"type": "origins:resource",
+			"inverted": false,
+			"comparison": "==",
+			"resource": "changeling:change_current_form",
+			"compare_to": 1
+		}
+	},
+	"claustrophobia": {
+		"type": "origins:stacking_status_effect",
+		"min_stacks": -20,
+		"max_stacks": 361,
+		"duration_per_stack": 10,
+		"effects": [
+			{
+				"effect": "minecraft:weakness",
+				"is_ambient": true,
+				"show_particles": false,
+				"show_icon": true
+			},
+			{
+				"effect": "minecraft:slowness",
+				"is_ambient": true,
+				"show_particles": false,
+				"show_icon": true
+			}
+		],
+		"condition": {
+			"type": "origins:and",
+			"conditions": [
+				{
+					"type": "origins:block_collision",
+					"offset_x": 0,
+					"offset_y": 1,
+					"offset_z": 0
+				},
+				{
+					"type": "origins:resource",
+					"inverted": false,
+					"comparison": "==",
+					"resource": "changeling:change_current_form",
+					"compare_to": 1
+				}
+			]
+		}
+	},
+	"tick": {
+		"type": "origins:action_over_time",
+		"entity_action": {
+			"type": "origins:change_resource",
+			"resource": "changeling:elytrian_meter",
+			"change": 1
+		},
+		"interval": 1
+	},
+	"brittle": {
+		"type": "origins:modify_damage_taken",
+		"modifier": {
+			"name": "More kinetic damage taken",
+			"value": 0.5,
+			"operation": "multiply_base"
+		},
+		"damage_condition": {
+			"type": "origins:or",
+			"conditions": [
+				{
+					"type": "origins:name",
+					"name": "fall"
+				},
+				{
+					"type": "origins:name",
+					"name": "flyIntoWall"
+				}
+			]
+		}
+	}
+}

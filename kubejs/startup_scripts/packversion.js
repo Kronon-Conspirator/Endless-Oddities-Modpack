@@ -1,0 +1,1 @@
+console.info('Loading Euphoric Curiosity 1.7')

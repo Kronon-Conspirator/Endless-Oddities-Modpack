@@ -1,0 +1,14 @@
+name = "Harder Zombies"
+filename = "HarderZombies-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3385/409/HarderZombies-1.0.0.jar"
+hash-format = "murmur2"
+hash = "3110880187"
+
+[update]
+[update.curseforge]
+file-id = 3385409
+project-id = 502900
+release-channel = "beta"

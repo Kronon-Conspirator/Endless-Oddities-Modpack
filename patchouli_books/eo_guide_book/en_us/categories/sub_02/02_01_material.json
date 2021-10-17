@@ -1,0 +1,7 @@
+{
+  "name": "Materials",
+  "icon": "minecraft:raw_iron",
+  "parent":"patchouli:02_generation",
+  "description": "As you might already know, SkyBlock-style modpacks generally focus around the creation of materials from essentially nothing, or resource loops that give you more items than you've put in.$(p)Of course, $(bold)Slime Skies/$ is no exception. These chapters give you an idea of how these resources can be created.",
+  "sortnum": 1
+}

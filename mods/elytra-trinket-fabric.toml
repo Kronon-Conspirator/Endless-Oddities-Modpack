@@ -1,0 +1,14 @@
+name = "Elytra Trinket (Fabric)"
+filename = "elytratrinket-fabric-2.0.1-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3343/240/elytratrinket-fabric-2.0.1-1.17.jar"
+hash-format = "murmur2"
+hash = "764138571"
+
+[update]
+[update.curseforge]
+file-id = 3343240
+project-id = 397903
+release-channel = "beta"

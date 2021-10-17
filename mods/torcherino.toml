@@ -1,0 +1,14 @@
+name = "Torcherino"
+filename = "torcherino-15.0.0+1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3420/24/torcherino-15.0.0+1.17.1.jar"
+hash-format = "murmur2"
+hash = "1054613095"
+
+[update]
+[update.curseforge]
+file-id = 3420024
+project-id = 236794
+release-channel = "beta"

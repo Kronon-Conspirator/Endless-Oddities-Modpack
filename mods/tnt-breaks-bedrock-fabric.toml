@@ -1,0 +1,14 @@
+name = "TNT Breaks Bedrock (Fabric)"
+filename = "tntbreaksbedrock-fabric_1.17.x-1.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3461/37/tntbreaksbedrock-fabric_1.17.x-1.8.jar"
+hash-format = "murmur2"
+hash = "359571473"
+
+[update]
+[update.curseforge]
+file-id = 3461037
+project-id = 527766
+release-channel = "beta"

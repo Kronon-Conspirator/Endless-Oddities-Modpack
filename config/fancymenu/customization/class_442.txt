@@ -1,0 +1,225 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = Curiositypanorama
+  action = setbackgroundpanorama
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400310%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 14
+}
+
+customization {
+  identifier = %id=400310%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400358%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400358%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=604394%
+  orientation = mid-centered
+  x = 104
+  action = movebutton
+  y = 50
+}
+
+customization {
+  identifier = %id=604394%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400286%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -9
+}
+
+customization {
+  identifier = %id=400286%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400334%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400334%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400394%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 50
+}
+
+customization {
+  identifier = %id=400394%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=502394%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = 50
+}
+
+customization {
+  identifier = %id=502394%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=376394%
+  orientation = mid-centered
+  x = -124
+  action = movebutton
+  y = 50
+}
+
+customization {
+  identifier = %id=376394%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  path = config/paxi/resourcepacks/Graphics/logo.png
+  orientation = mid-centered
+  x = -101
+  width = 203
+  action = addtexture
+  actionid = 3213301f-a0ec-452e-b846-e3914e1d0ff61632812135290
+  y = -113
+  height = 84
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  x = 104
+  width = 20
+  actionid = 836df530-354f-453b-b191-993fd9dbf0811631252124772
+  action = addbutton
+  y = 14
+  label = 
+  value = com.terraformersmc.modmenu.gui.ModsScreen
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = -124
+  width = 20
+  actionid = 73f3f637-d77f-4241-893b-ee1aefd9d5921631252124772
+  action = addbutton
+  y = 14
+  label = D
+  value = https://discord.gg/YXm7vSBjdW
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 2
+  actionid = d9ba04d7-a148-47c1-b39b-b476f5b8ade51622569281187
+  action = addtext
+  y = -21
+  scale = 1.0
+  alignment = left
+  value = Endless Oddities [%loadedmods% Active Mods]
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 2
+  actionid = d9ba04d7-a148-47c1-b39b-b476f5b8ade51622569281187
+  action = addtext
+  y = -32
+  scale = 1.0
+  alignment = left
+  value = Playing As %playername%
+}
+
+customization {
+  orientation = mid-centered
+  basecolor = #ffff00
+  shadow = true
+  splashfilepath = config\paxi\resourcepacks\Graphics\splash.txt
+  rotation = 0.0
+  x = -27
+  actionid = 29379a7b-69f9-4abe-ac3b-a6cc978a754d1632812270146
+  action = addsplash
+  y = -30
+  scale = 1.0
+  refresh = true
+  bouncing = true
+}
+
+customization {
+  path = config/paxi/resourcepacks/Graphics/discord.png
+  orientation = mid-centered
+  x = -121
+  width = 14
+  action = addtexture
+  actionid = e22ab4ac-3df0-43a7-b53c-fee98674eeff1632812340581
+  y = 17
+  height = 14
+}
+
+customization {
+  path = config/paxi/resourcepacks/Graphics/fabricapi.png
+  orientation = mid-centered
+  x = 107
+  width = 14
+  action = addtexture
+  actionid = 407c2104-16e3-456d-872c-5ee78065e1e51632812403629
+  y = 17
+  height = 14
+}
+

@@ -1,0 +1,14 @@
+name = "Effect Enchants"
+filename = "Effect_Enchants-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3442/327/Effect_Enchants-1.0.0.jar"
+hash-format = "murmur2"
+hash = "786830834"
+
+[update]
+[update.curseforge]
+file-id = 3442327
+project-id = 426595
+release-channel = "beta"

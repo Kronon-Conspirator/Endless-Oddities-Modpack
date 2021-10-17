@@ -1,0 +1,12 @@
+{
+  "common": {
+    "disableStrongholdComment": "Enable/Disable the Stronghold",
+    "DISABLE_STRONGHOLD": true,
+    "disableEyeOfEnderComment": "Enable/Disable usage of Ender Eyes",
+    "DISABLE_EYE_OF_ENDER": true,
+    "eyesLocateStructureComment": "Changes the structure that End Remastered eyes track (set value to \"null\" to disable)",
+    "EYES_LOCATE_STRUCTURE": "endrem:end_gate",
+    "mapLocateStructureComment": "Changes the structure that End Remastered map locate (set value to \"null\" to disable)",
+    "MAP_LOCATES_STRUCTURE": "endrem:end_castle"
+  }
+}

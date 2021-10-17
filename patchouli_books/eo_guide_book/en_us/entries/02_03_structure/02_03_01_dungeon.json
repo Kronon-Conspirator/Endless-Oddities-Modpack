@@ -1,0 +1,13 @@
+{
+  "name": "dungeon",
+  "icon": "minecraft:stone_pickaxe",
+  "category": "patchouli:sub_02/02_03_structure",
+
+  "sortnum": 0,
+
+  "pages": 
+  [{
+    "type": "patchouli:text",
+    "text": "-"
+  }]
+}

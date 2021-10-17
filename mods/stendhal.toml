@@ -1,0 +1,14 @@
+name = "Stendhal"
+filename = "stendhal-1.2.0-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3422/54/stendhal-1.2.0-1.17.1.jar"
+hash-format = "murmur2"
+hash = "1940628359"
+
+[update]
+[update.curseforge]
+file-id = 3422054
+project-id = 463457
+release-channel = "beta"

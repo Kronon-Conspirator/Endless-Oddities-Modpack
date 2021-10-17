@@ -1,0 +1,29 @@
+{
+  "name": "Equipment",
+  "icon": "mcdw:sword_iron_sword_var",
+  "category": "patchouli:01_essential",
+
+  "sortnum": 3,
+
+  "pages": 
+  [{
+    "type": "patchouli:text",
+    "text": "with all the oddities you find in your ventures you will have to defend yourself in equipment prep the job. mind you the strongest armor in your possible possesion can not by itself protect you from the dangers lurk beneath the land."
+  },
+  {
+    "type": "patchouli:text",
+    "text": "$(l)armor/$ "
+  },
+  {
+    "type": "patchouli:text",
+    "text": "$(l)Melee/$ $(o)'Elegant Weapon for a More Civilized Age'/$ the catalogue has been expanded to have to not just Simple Sword, now there are multitude of weapons from hammers, waraxe, broadsword even spears. some are bettter than others but it the choice of the user. explore yourself"
+  },
+  {
+    "type": "patchouli:text",
+    "text": "$(l)Ranged/$ you might say in a block game focuses on building doesnt need guns then you sir are wrong.there are multiple monsters and dangers you should be wary of and should stay far enough away that requires you to have a projectile weapon strong enough to fend them off. Intrested? get the gun table to get started."
+  },  
+  {
+    "type": "patchouli:crafting",
+    "recipe": "hwg:gun_table"
+  }]
+}

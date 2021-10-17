@@ -1,0 +1,36 @@
+{
+  "name": "Utilities",
+  "icon": "hookshot:black_hookshot",
+  "category": "patchouli:01_essential",
+
+  "sortnum": 2,
+
+  "pages": 
+  [{
+    "type": "patchouli:text",
+    "text": "you have access to craft new utilities to help you venture the new treacherous lands. some allow you to fight better and some allows you to move a lot easier."
+  },
+  {
+    "type": "patchouli:crafting",
+    "recipe": "storagebox:storagebox",
+    "text": "allows infinite storage of a single item in one item. useful when mining large chunks of the world"
+  },
+  {
+    "type": "patchouli:crafting",
+    "title": "XP storage Tomes",
+    "recipe": "xp_storage:xp_book",
+    "text": "allows storage of limited amounts of experience. in a world where dangers lurks about, one must be resourceful enough to expect the worst."
+  },
+  {
+    "type": "patchouli:spotlight",
+    "title": "Artifacts",
+    "item":"mcdar:totem_of_soul_protection",
+    "text": "on your adventures you will encounter things call $(item)artifacts. random items that allows the user to powers more than the regular man. have fun figuring it out."
+  },
+  {
+    "type": "patchouli:spotlight",
+    "title": "Storage Upgrades",
+    "item":"expandedstorage:wood_to_iron_conversion_kit",
+    "text": "Chest is a good method storing your items. Chest Can be Expanded using the conversion kits. these can double even quaduple your storage size."
+  }]
+}

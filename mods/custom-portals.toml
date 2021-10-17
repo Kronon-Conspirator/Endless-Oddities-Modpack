@@ -1,0 +1,14 @@
+name = "Custom Portals"
+filename = "custom-portals-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3381/29/custom-portals-2.1.0.jar"
+hash-format = "murmur2"
+hash = "76118953"
+
+[update]
+[update.curseforge]
+file-id = 3381029
+project-id = 409341
+release-channel = "beta"

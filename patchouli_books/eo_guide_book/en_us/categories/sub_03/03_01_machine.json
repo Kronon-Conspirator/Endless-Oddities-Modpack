@@ -1,0 +1,7 @@
+{
+  "name": "Machines",
+  "icon": "indrev:machine_block",
+  "parent":"patchouli:03_advance",
+  "description": "after developing your base and having enough material to build a kingdom, you should be prepared to learn new concepts to take on the world. indrev + Agape + Lift + Kibe + slotlink + cabinet",
+  "sortnum": 1
+}

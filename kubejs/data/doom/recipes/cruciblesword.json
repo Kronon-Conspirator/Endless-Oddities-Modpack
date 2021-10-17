@@ -1,0 +1,29 @@
+{
+	"type": "doom:gun_table",
+	"pattern": "abcde",
+	"key": {
+		"a": {
+			"item": "doom:argent_block",
+			"count": 20
+		},
+		"b": {
+			"item": "minecraft:ghast_tear",
+			"count": 2
+		},
+		"c": {
+			"item": "gobber2:dragon_star",
+			"count": 1
+		},
+		"d": {
+			"item": "doom:cruciblesword_closed",
+			"count": 1
+		},
+		"e": {
+			"item": "doom:argent_plate",
+			"count": 5
+		}
+	},
+	"result": {
+		"item": "doom:cruciblesword"
+	}
+}

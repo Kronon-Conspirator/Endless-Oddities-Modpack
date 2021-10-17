@@ -1,0 +1,14 @@
+name = "Schmucks!"
+filename = "Schmucks-1.17-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3395/645/Schmucks-1.17-1.4.0.jar"
+hash-format = "murmur2"
+hash = "1678969549"
+
+[update]
+[update.curseforge]
+file-id = 3395645
+project-id = 486676
+release-channel = "beta"

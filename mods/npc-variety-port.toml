@@ -1,0 +1,14 @@
+name = "NPC Variety - Port"
+filename = "npc-variety-1.17.0-2.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3472/184/npc-variety-1.17.0-2.1.3.jar"
+hash-format = "murmur2"
+hash = "874852307"
+
+[update]
+[update.curseforge]
+file-id = 3472184
+project-id = 476200
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Herb's Extra Enchants"
+filename = "extra_enchants-0.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3452/560/extra_enchants-0.1.4.jar"
+hash-format = "murmur2"
+hash = "1809514948"
+
+[update]
+[update.curseforge]
+file-id = 3452560
+project-id = 509550
+release-channel = "beta"

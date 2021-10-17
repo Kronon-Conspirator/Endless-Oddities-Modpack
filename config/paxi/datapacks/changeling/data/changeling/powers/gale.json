@@ -1,0 +1,48 @@
+{
+	"type": "origins:active_self",
+	"key": {
+		"key": "key.origins.primary_active",
+		"continuous": false
+	},
+	"entity_action": {
+		"type": "origins:and",
+		"actions": [
+			{
+				"type": "origins:change_resource",
+				"resource": "changeling:elytrian_meter",
+				"change": -300
+			},
+			{
+				"type": "origins:add_velocity",
+				"z": 1.125,
+				"space": "local"
+			}
+		]
+	},
+	"hud_render": {
+		"should_render": false,
+		"sprite_location": "origins:textures/gui/resource_bar.png",
+		"bar_index": 1
+	},
+	"cooldown": 300,
+	"condition": {
+		"type": "origins:and",
+		"conditions": [
+			{
+				"type": "origins:resource",
+				"inverted": false,
+				"comparison": "==",
+				"resource": "changeling:change_current_form",
+				"compare_to": 1
+			},
+			{
+				"type": "origins:resource",
+				"inverted": false,
+				"comparison": "==",
+				"resource": "changeling:elytrian_meter",
+				"compare_to": 300
+			}
+		]
+		
+	}
+}

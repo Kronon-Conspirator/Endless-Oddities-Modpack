@@ -1,0 +1,14 @@
+name = "DragonLoot"
+filename = "dragonloot-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3437/929/dragonloot-1.0.9.jar"
+hash-format = "murmur2"
+hash = "1574793270"
+
+[update]
+[update.curseforge]
+file-id = 3437929
+project-id = 424480
+release-channel = "beta"

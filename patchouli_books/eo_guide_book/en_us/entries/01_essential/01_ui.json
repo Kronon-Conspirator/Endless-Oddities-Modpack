@@ -1,0 +1,21 @@
+{
+  "name": "User Interface",
+  "icon": "minecraft:stone_pickaxe",
+  "category": "patchouli:01_essential",
+
+  "sortnum": 0,
+
+  "pages": 
+  [{
+    "type": "patchouli:text",
+    "text": "Knowing is half the battle. First you need to get used to using the new UI. it will many differences between this and the classic."
+  },
+  {
+    "type": "patchouli:text",
+    "text": "$(li) $(l:https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)REI/$ is used to look up uses and recipes. this is giant list of block on the left and the right side of your screen. it does have a search filter feature that highlights the item searched which also includes your inventory. get use to using this as it will be a great asset for the rest of your adventure."
+  },
+  {
+    "type": "patchouli:text",
+    "text": "$(li) get familiar to new slots on your character.trinket slots which allows you to add accessories and other items on your arsenal. these trinkets can assist you in more ways than one so keep a look out for them. you also have a second armor slot which is totally cosmetic but does require another armor to work."
+  }]
+}

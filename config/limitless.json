@@ -1,0 +1,1037 @@
+{
+  "enchantment": {
+    "globalMaxLevel": 2147483647,
+    "allowTreasure": true,
+    "revealEnchantments": false,
+    "conflicts": {
+      "generate": false,
+      "merge": false
+    },
+    "normalization": {
+      "enabled": true,
+      "offset": 30
+    },
+    "reenchanting": {
+      "enabled": true,
+      "removeConflicts": true,
+      "allowEnchantedBooks": true,
+      "allowEquipment": true
+    },
+    "enchantingBlocks": {
+      "maxBlocks": 512,
+      "maxPower": 1024,
+      "radius": {
+        "xz": {
+          "min": 0,
+          "max": 8
+        },
+        "y": {
+          "min": -8,
+          "max": 8
+        }
+      },
+      "whitelist": {
+        "examplemod:example_block": 5.0
+      },
+      "blacklist": [
+        "examplemod:example_block"
+      ]
+    },
+    "particles": {
+      "enabled": true,
+      "inherit": true,
+      "radius": {
+        "xz": {
+          "min": 0,
+          "max": 8
+        },
+        "y": {
+          "min": -8,
+          "max": 8
+        }
+      }
+    },
+    "maxLevels": [
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:ace"
+      },
+      {
+        "maxLevel": 3,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcdw:ambush"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:antigravity"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:aqua_affinity"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:architect"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:arrow_speed"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:attractive"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "fabricenchantments:auto_smelt"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcda:bag_of_souls"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:bane_of_arthropods"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:barbaric"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcdar:beast_boss"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcdar:beast_burst"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcdar:beast_surge"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "fabricenchantments:beheading"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:berserk"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:binding_curse"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:blast_protection"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:blaze_affinity"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "gobber2:blinders"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:boosting"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:bounding"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "incantationem:bunnys_hop"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcda:burning"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:cave_in"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:channeling"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "incantationem:charmed"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcda:chilling"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:cleaving"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "fabricenchantments:consumer"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcdar:cooldown"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:core_of_neptune"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:core_of_purity"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:core_of_the_blood_god"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:core_of_the_warp"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcda:cowardice"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:curse_of_instability"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcda:death_barter"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "incantationem:decay"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcda:deflect"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:depth_strider"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:dextrous"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "fabricenchantments:double_swing"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:dullness"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:dwarven"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:efficiency"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:ender"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "fabricenchantments:ender_mind"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "fabricenchantments:experience"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "effectenchants:exploding_arrows"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:explosive"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:exposing"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "gobber2:faster_obsidian"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:feather_falling"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:featherweight"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:fire_aspect"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcda:fire_focus"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:fire_protection"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcda:fire_trail"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:fireproof"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "effectenchants:fireresistance"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:flame"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:flesh_wound"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcda:food_reserves"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "incantationem:forging_touch"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:fortune"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcda:frenzied"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:frost_walker"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "magna:gigantism_curse"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "fabricenchantments:god_of_the_sea"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "fabricenchantments:god_of_thunder"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "effectenchants:haste"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcda:heal_allies"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:hearty"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "fabricenchantments:ice_aspect"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "effectenchants:iceaspect"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:impaling"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:impersonal"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:infinity"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:jousting"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "effectenchants:jumpboost"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:knockback"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "incantationem:last_stand"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:launching"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:launching"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:leaping"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:legacy"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:lifesteal"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:looting"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:loyalty"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:luck_of_the_sea"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:lunging"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:lure"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:magic_guard"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "bewitchment:magic_protection"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:magnetic"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "incantationem:magnetic"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:mending"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:monogamous"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:mounted"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:multishot"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:night_vision"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "effectenchants:nightvision"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:nimble"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "fabricenchantments:nocturnal"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:outburst"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "fabricenchantments:paralysis"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:phase_leap"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:phase_strafe"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:photosynthetic"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:piercing"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "effectenchants:poison"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "fabricenchantments:poison_aspect"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcda:poison_focus"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "effectenchants:poisonarrows"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:polygamous"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcda:potion_barrier"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:power"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:priming"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:projectile_protection"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:propelling"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:protection"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:psychic"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "fabricenchantments:pumpkin_head"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:punch"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:quick_charge"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:rampage"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "incantationem:reaping_rod"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "gobber2:rebuffing"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcda:reckless"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "incantationem:recklessness"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcda:recycler"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:red_alert"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:reflecting"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:reflex"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "effectenchants:regeneration"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:repulsive"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "effectenchants:resistance"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:respiration"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "incantationem:retreat"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "things:retribution"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:riptide"
+      },
+      {
+        "maxLevel": 3,
+        "useGlobalMaxLevel": false,
+        "identifier": "fabricenchantments:rise"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:rock_collecting"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:selfish"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:sharpness"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:sharpshooter"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:shock_resistant"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:silk_touch"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:skotosynthetic"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "artifality:sliding_curse"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:slimey"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:smite"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "gobber2:smithblade"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:sniper"
+      },
+      {
+        "maxLevel": 2,
+        "useGlobalMaxLevel": false,
+        "identifier": "fabricenchantments:sniper"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcda:snowball"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "gobber2:solidfooting"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:soul_speed"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:soulbound"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "soulbound:soulbound"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "effectenchants:speed"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:stalwart"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:steadfast"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "effectenchants:strength"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "dimdoors:string_theory"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "fabricenchantments:sugar_rush"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcda:surprise_gift"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:sweeping"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "mcda:swiftfooted"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:swiftness"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "incantationem:swine_bane"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "fabricenchantments:tank"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:terraforming"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:tethering"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:thorns"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "incantationem:thunder"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:thunderbolt"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:tough"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "incantationem:tough_luck"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "spellbound:trophy_collecting"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:turbo"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:unbreaking"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "gobber2:untouchable"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "minecraft:vanishing_curse"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "veinmining:vein_mining"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "incantationem:venomous"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:warding"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "origins:water_protection"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "effectenchants:waterbreathing"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:weighted"
+      },
+      {
+        "maxLevel": 1,
+        "useGlobalMaxLevel": false,
+        "identifier": "extra_enchants:windstep"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "effectenchants:wither"
+      },
+      {
+        "maxLevel": 2147483647,
+        "useGlobalMaxLevel": false,
+        "identifier": "effectenchants:witherarrows"
+      }
+    ]
+  },
+  "anvil": {
+    "mergeConflicts": true,
+    "mergeIncompatible": false,
+    "fixedCost": true,
+    "levelLimit": 2147483647,
+    "normalization": {
+      "enabled": true,
+      "display": "REPLACE"
+    }
+  }
+}

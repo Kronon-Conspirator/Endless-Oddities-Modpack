@@ -1,0 +1,14 @@
+name = "Lib Block Attributes"
+filename = "libblockattributes-all-0.9.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3480/694/libblockattributes-all-0.9.2.jar"
+hash-format = "murmur2"
+hash = "1322517789"
+
+[update]
+[update.curseforge]
+file-id = 3480694
+project-id = 317995
+release-channel = "beta"

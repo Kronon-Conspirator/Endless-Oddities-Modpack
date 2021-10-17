@@ -1,0 +1,61 @@
+{
+    "hidden": false,
+	"name": "Shulk Form",
+	"description": "Your Shulk form is able to give the tough shell of a regular shulk but the drawback is that you gain no internal storage",
+	"type": "origins:multiple",
+	"meter": {
+		"type": "origins:resource",
+		"min": 0,
+		"max": 1,
+		"start_value": 1,
+		"hud_render": {
+			"should_render": true,
+			"sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_03.png",
+			"bar_index": 7,
+			"condition": {
+				"type": "origins:resource",
+				"inverted": false,
+				"comparison": "==",
+				"resource": "changeling:change_current_form",
+				"compare_to": 6
+			}
+		}
+	},
+	"slowness":{
+	  "type": "origins:stacking_status_effect",
+	  "min_stacks": 0,
+	  "max_stacks": 1,
+	  "duration_per_stack": 20,
+	  "effect": {
+		  "effect": "minecraft:slowness",
+		  "duration": 100,
+		  "amplifier": 1,
+		  "is_ambient": true,
+		  "show_particles": false,
+		  "show_icon": false
+	  },
+	  "condition": {
+		"type": "origins:resource",
+		"inverted": false,
+		"comparison": "==",
+		"resource": "changeling:change_current_form",
+		"compare_to": 6
+	  }
+	},
+	"armor":{
+	  "type": "origins:conditioned_attribute",
+	  "modifier": {
+		"attribute": "minecraft:generic.armor",
+		"value": 8.0,
+		"operation": "addition"
+	  },
+	  "tick_rate": 20,
+	  "condition": {
+		"type": "origins:resource",
+		"inverted": false,
+		"comparison": "==",
+		"resource": "changeling:change_current_form",
+		"compare_to": 6
+	  }
+	}
+}

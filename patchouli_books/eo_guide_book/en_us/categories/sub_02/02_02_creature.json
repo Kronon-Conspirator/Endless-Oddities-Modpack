@@ -1,0 +1,7 @@
+{
+  "name": "Creatures",
+  "icon": "minecraft:player_head",
+  "parent":"patchouli:02_generation",
+  "description": "The guide book is still a $(bold)work in progress/$, hence this category has not been filled out yet. Apologies!",
+  "sortnum": 2
+}

@@ -1,0 +1,14 @@
+name = "Melon Wireless Redstone"
+filename = "WirelessRedstone-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3440/657/WirelessRedstone-1.0.1.jar"
+hash-format = "murmur2"
+hash = "3455911965"
+
+[update]
+[update.curseforge]
+file-id = 3440657
+project-id = 520255
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Infusion Table"
+filename = "infusion-table-mod-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3477/508/infusion-table-mod-1.0.2.jar"
+hash-format = "murmur2"
+hash = "725192540"
+
+[update]
+[update.curseforge]
+file-id = 3477508
+project-id = 531783
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "End Remastered [Fabric]"
+filename = "End Remastered 1.17.1 R4.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3441/498/End Remastered 1.17.1 R4.1.0.jar"
+hash-format = "murmur2"
+hash = "3467412522"
+
+[update]
+[update.curseforge]
+file-id = 3441498
+project-id = 515523
+release-channel = "beta"

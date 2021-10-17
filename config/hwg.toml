@@ -1,0 +1,35 @@
+[spawn]
+merc_spawn_weight = 5
+merc_min_group = 1
+merc_max_group = 2
+spy_spawn_weight = 5
+spy_min_group = 1
+spy_max_group = 2
+lesser_spawn_weight = 5
+lesser_min_group = 1
+lesser_max_group = 2
+greater_spawn_weight = 5
+greater_min_group = 1
+greater_max_group = 2
+[stats]
+merc_health = 20.0
+spy_health = 20.0
+lesser_health = 48.0
+greater_health = 100.0
+[weapons]
+rocket_breaks = true
+pistol_damage = 8.0
+golden_pistol_damage = 10.0
+silenced_pistol_damage = 6.0
+luger_damage = 8.0
+ak47_damage = 9.0
+sniper_damage = 25.0
+sniper_scoped_damage = 30.0
+minigun_damage = 8.0
+smg_damage = 8.0
+hellhorse_damage = 10.0
+tommy_damage = 9.0
+shotgun_damage = 15.0
+meanie_damage = 17.0
+balrog_damage = 25.0
+brimstone_damage = 13.0

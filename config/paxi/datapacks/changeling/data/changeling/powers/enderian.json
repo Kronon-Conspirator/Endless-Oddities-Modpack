@@ -1,0 +1,120 @@
+{
+    "hidden": false,
+	"name": "Enderian Form",
+	"description": "Your Enderian form can teleport like an Enderian, albeit a bit less frequently. You are allergic to water in this form.",
+	"type": "origins:multiple",
+	"meter": {
+		"type": "origins:resource",
+		"min": 0,
+		"max": 200,
+		"start_value": 200,
+		"hud_render": {
+			"should_render": true,
+			"sprite_location": "origins:textures/gui/resource_bar.png",
+			"bar_index": 6,
+			"condition": {
+				"type": "origins:resource",
+				"inverted": false,
+				"comparison": "==",
+				"resource": "changeling:change_current_form",
+				"compare_to": 2
+			}
+		}
+	},
+	"tick": {
+		"type": "origins:action_over_time",
+		"entity_action": {
+			"type": "origins:change_resource",
+			"resource": "changeling:enderian_meter",
+			"change": 1
+		},
+		"interval": 1
+	},
+	"cooldown": {
+		"type": "origins:active_self",
+		"key": {
+			"key": "key.origins.primary_active",
+			"continuous": false
+		},
+		"entity_action": {
+			"type": "origins:change_resource",
+			"resource": "changeling:enderian_meter",
+			"change": -200
+		},
+		"hud_render": {
+			"should_render": false,
+			"sprite_location": "origins:textures/gui/resource_bar.png",
+			"bar_index": 1
+		},
+		"cooldown": 200,
+		"condition": {
+			"type": "origins:resource",
+			"inverted": false,
+			"comparison": "==",
+			"resource": "changeling:change_current_form",
+			"compare_to": 2
+		}
+	},
+	"pearl": {
+		"type": "origins:fire_projectile",
+		"cooldown": 200,
+		"hud_render": {
+			"should_render": false
+		},
+		"entity_type": "origins:enderian_pearl",
+		"sound": "minecraft:entity.ender_pearl.throw",
+		"speed": 1.5,
+		"divergence": 1,
+		"key": {
+			"key": "key.origins.primary_active",
+			"continuous": false
+		},
+		"condition": {
+			"type": "origins:resource",
+			"inverted": false,
+			"comparison": "==",
+			"resource": "changeling:change_current_form",
+			"compare_to": 2
+		}
+	},
+	"water_vulnerability": {
+		"type": "origins:damage_over_time",
+		"interval": 20,
+		"onset_delay": 1,
+		"damage": 2,
+		"damage_easy": 1,
+		"damage_source": {
+			"name": "hurt_by_water",
+			"unblockable": true,
+			"bypasses_armor": true
+		},
+		"protection_enchantment": "origins:water_protection",
+		"protection_effectiveness": 1.0,
+		"condition": {
+			"type": "origins:and",
+			"conditions": [
+				{
+					"type": "origins:resource",
+					"inverted": false,
+					"comparison": "==",
+					"resource": "changeling:change_current_form",
+					"compare_to": 2
+				},
+				{
+					"type": "origins:or",
+					"conditions": [
+						{
+							"type": "origins:fluid_height",
+							"fluid": "minecraft:water",
+							"comparison": ">",
+							"compare_to": 0.0
+						},
+						{
+							"type": "origins:in_rain"
+						}
+					]
+				}
+			]
+	    }
+	}
+}

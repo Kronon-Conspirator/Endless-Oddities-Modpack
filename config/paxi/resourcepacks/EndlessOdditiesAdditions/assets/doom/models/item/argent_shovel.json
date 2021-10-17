@@ -1,0 +1,210 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"Marauder": "doom:items/laser_war_axe",
+		"crucible": "doom:items/crucible",
+		"Shovel": "doom:items/argent_shovel"
+	},
+	"elements": [
+		{
+			"name": "LongHandle",
+			"from": [6.5, -1, 6.5],
+			"to": [8.5, 11, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14.5, -1, 15.5]},
+			"faces": {
+				"north": {"uv": [4, 3.5, 5.5, 10.5], "texture": "#Marauder"},
+				"east": {"uv": [4, 3.5, 5.5, 10.5], "texture": "#Marauder"},
+				"south": {"uv": [4, 3.5, 5.5, 10.5], "texture": "#Marauder"},
+				"west": {"uv": [4, 3.5, 5.5, 10.5], "texture": "#Marauder"},
+				"up": {"uv": [4, 0, 5.5, 10.5], "texture": "#Marauder"},
+				"down": {"uv": [4, 0, 5.5, 10.5], "texture": "#Marauder"}
+			}
+		},
+		{
+			"from": [5.8, 11, 5],
+			"to": [9.2, 16, 10],
+			"rotation": {"angle": -45, "axis": "x", "origin": [7.5, 13.5, 7.5]},
+			"faces": {
+				"north": {"uv": [0, 13.5, 2.5, 16], "texture": "#crucible"},
+				"east": {"uv": [0, 13.5, 2.5, 16], "texture": "#crucible"},
+				"south": {"uv": [0, 13.5, 2.5, 16], "texture": "#crucible"},
+				"west": {"uv": [0, 13.5, 2.5, 16], "texture": "#crucible"},
+				"up": {"uv": [0, 13.5, 2.5, 16], "texture": "#crucible"},
+				"down": {"uv": [0, 13.5, 2.5, 16], "texture": "#crucible"}
+			}
+		},
+		{
+			"from": [5, -4, 5],
+			"to": [10, -1, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 4, 16]},
+			"faces": {
+				"north": {"uv": [0, 7, 1.5, 8], "texture": "#crucible"},
+				"east": {"uv": [0, 7, 1.5, 8], "texture": "#crucible"},
+				"south": {"uv": [0, 7, 1.5, 8], "texture": "#crucible"},
+				"west": {"uv": [0, 7, 1.5, 8], "texture": "#crucible"},
+				"up": {"uv": [0, 6, 1.5, 6.5], "texture": "#crucible"},
+				"down": {"uv": [0, 9.5, 1.5, 10], "texture": "#crucible"}
+			}
+		},
+		{
+			"from": [6, 8, 6],
+			"to": [9, 9, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 16, 16]},
+			"faces": {
+				"north": {"uv": [0, 7, 1.5, 7.5], "texture": "#crucible"},
+				"east": {"uv": [0, 7, 1.5, 7.5], "texture": "#crucible"},
+				"south": {"uv": [0, 7, 1.5, 7.5], "texture": "#crucible"},
+				"west": {"uv": [0, 7, 1.5, 7.5], "texture": "#crucible"},
+				"up": {"uv": [0, 6, 1.5, 6.5], "texture": "#crucible"},
+				"down": {"uv": [0, 9.5, 1.5, 10], "texture": "#crucible"}
+			}
+		},
+		{
+			"from": [6, -1, 6],
+			"to": [9, 0, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 14, 16]},
+			"faces": {
+				"north": {"uv": [0, 7, 1.5, 7.5], "texture": "#crucible"},
+				"east": {"uv": [0, 7, 1.5, 7.5], "texture": "#crucible"},
+				"south": {"uv": [0, 7, 1.5, 7.5], "texture": "#crucible"},
+				"west": {"uv": [0, 7, 1.5, 7.5], "texture": "#crucible"},
+				"up": {"uv": [0, 6, 1.5, 6.5], "texture": "#crucible"},
+				"down": {"uv": [0, 9.5, 1.5, 10], "texture": "#crucible"}
+			}
+		},
+		{
+			"from": [6, -11, 6],
+			"to": [9, -4, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, -1, 15]},
+			"faces": {
+				"north": {"uv": [4, 7, 5.5, 10.5], "texture": "#Marauder"},
+				"east": {"uv": [4, 7, 5.5, 10.5], "texture": "#Marauder"},
+				"south": {"uv": [4, 7, 5.5, 10.5], "texture": "#Marauder"},
+				"west": {"uv": [4, 7, 5.5, 10.5], "texture": "#Marauder"},
+				"up": {"uv": [4, 10.5, 5.5, 12], "texture": "#Marauder"},
+				"down": {"uv": [4, 7, 5.5, 10.5], "texture": "#Marauder"}
+			}
+		},
+		{
+			"from": [5, -13, 5],
+			"to": [10, -11, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, -5, 15]},
+			"faces": {
+				"north": {"uv": [0, 13.5, 2.5, 16], "texture": "#crucible"},
+				"east": {"uv": [0, 13.5, 2.5, 16], "texture": "#crucible"},
+				"south": {"uv": [0, 13.5, 2.5, 16], "texture": "#crucible"},
+				"west": {"uv": [0, 13.5, 2.5, 16], "texture": "#crucible"},
+				"up": {"uv": [0, 13.5, 2.5, 14], "texture": "#crucible"},
+				"down": {"uv": [0.5, 15.5, 2, 16], "texture": "#crucible"}
+			}
+		},
+		{
+			"name": "Shovelblade_1",
+			"from": [7.5, 10, 8],
+			"to": [7.51, 23, 14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 1, 21]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#Shovel"},
+				"east": {"uv": [4, 0, 0, 8], "rotation": 180, "texture": "#Shovel"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#Shovel"},
+				"west": {"uv": [0, 0, 4, 8], "rotation": 180, "texture": "#Shovel"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#Shovel"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#Shovel"}
+			}
+		},
+		{
+			"name": "Shovelblade_2",
+			"from": [7.5, 10, 0.75],
+			"to": [7.51, 23, 7.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 1, 13.75]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#Shovel"},
+				"east": {"uv": [0, 0, 4, 8], "rotation": 180, "texture": "#Shovel"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#Shovel"},
+				"west": {"uv": [4, 0, 0, 8], "rotation": 180, "texture": "#Shovel"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#Shovel"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#Shovel"}
+			}
+		},
+		{
+			"from": [5.3, 11.85, 5.9],
+			"to": [9.7, 15.1, 9.15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 22.85, 14.15]},
+			"faces": {
+				"north": {"uv": [2.5, 13, 5, 15.5], "texture": "#Marauder"},
+				"east": {"uv": [10, 13, 12.5, 15.5], "texture": "#Marauder"},
+				"south": {"uv": [7.5, 13, 10, 15.5], "texture": "#Marauder"},
+				"west": {"uv": [5, 13, 7.5, 15.5], "texture": "#Marauder"},
+				"up": {"uv": [11, 10.5, 13.5, 13], "texture": "#Marauder"},
+				"down": {"uv": [13.5, 13, 16, 15.5], "texture": "#Marauder"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0.5, 10.5, 2],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-0.25, 10.5, 2],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [4, 11, -9],
+			"translation": [-1.5, 8, 3],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [4, 11, -9],
+			"translation": [-1.5, 8, 3],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"translation": [0, 9, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [56, 34, -58],
+			"translation": [1.6, 0.75, 0],
+			"scale": [0.47, 0.47, 0.47]
+		},
+		"head": {
+			"rotation": [0, 90, 0],
+			"translation": [-0.5, 10.25, 0.75],
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0.25, 4, -0.5],
+			"scale": [0.38, 0.38, 0.38]
+		}
+	},
+	"groups": [
+		{
+			"name": "Shovel",
+			"origin": [-1, 24, -1],
+			"color": 0,
+			"children": [
+				{
+					"name": "handle",
+					"origin": [-1, 24, -1],
+					"color": 0,
+					"children": [0,
+						{
+							"name": "Head",
+							"origin": [7.5, 24.5, 7.5],
+							"color": 0,
+							"children": [1]
+						},
+						{
+							"name": "handle",
+							"origin": [-1, 24, -1],
+							"color": 0,
+							"children": [2, 3, 4, 5, 6]
+						}
+					]
+				}, 7, 8, 9]
+		}
+	]
+}

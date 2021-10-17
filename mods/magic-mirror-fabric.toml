@@ -1,0 +1,14 @@
+name = "Magic Mirror [FABRIC]"
+filename = "[1.17] Magic Mirror 1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3397/19/[1.17] Magic Mirror 1.3.2.jar"
+hash-format = "murmur2"
+hash = "2523229186"
+
+[update]
+[update.curseforge]
+file-id = 3397019
+project-id = 401020
+release-channel = "beta"

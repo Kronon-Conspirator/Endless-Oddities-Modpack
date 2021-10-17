@@ -1,0 +1,7325 @@
+To refresh this file, delete it and run /reload command again! Last updated: Sep 9, 2021, 6:18:14 PM
+
+#dragonloot:explosion_resistant
+- dragonloot:dragon_scale
+- dragonloot:dragon_helmet
+- dragonloot:dragon_chestplate
+- dragonloot:dragon_leggings
+- dragonloot:dragon_boots
+- dragonloot:upgraded_dragon_chestplate
+- dragonloot:dragon_pickaxe
+- dragonloot:dragon_shovel
+- dragonloot:dragon_axe
+- dragonloot:dragon_hoe
+- dragonloot:dragon_sword
+- dragonloot:dragon_bow
+- dragonloot:dragon_crossbow
+
+#c:fruits/peaches
+- croptopia:peach
+
+#c:fruits/limes
+- croptopia:lime
+
+#c:seeds/elderberry
+- croptopia:elderberry_seed
+
+#mythicmetals:midas_gold_ores
+- mythicmetals:midas_gold_ore
+
+#c:plutonium_ingots
+
+#c:orichalcum_nuggets
+- mythicmetals:orichalcum_nugget
+
+#c:seeds/turmeric
+- croptopia:turmeric_seed
+
+#c:grains/corn
+- croptopia:corn
+
+#c:butters
+- croptopia:butter
+
+#c:vegetables/soybeans
+- croptopia:soybean
+
+#mythicmetals:runite_ingots
+- mythicmetals:runite_ingot
+
+#c:fruits/avocados
+- croptopia:avocado
+
+#mythicmetals:carmot_armor
+- mythicmetals:carmot_helmet
+- mythicmetals:carmot_chestplate
+- mythicmetals:carmot_leggings
+- mythicmetals:carmot_boots
+
+#bewitchment:average_pentacles
+- minecraft:wither_skeleton_skull
+- bewitchment:demon_heart
+
+#fabric:axes
+- betternether:cincinnasite_axe
+- betternether:cincinnasite_axe_diamond
+- betternether:nether_ruby_axe
+- conjuring:soul_alloy_hatchet
+- the_aether:zanite_axe
+- the_aether:gravitite_axe
+- the_aether:valkyrie_axe
+- mcdw:axe
+- mcdw:axe_firebrand
+- mcdw:axe_highland
+- mcdw:axe_cursed
+- mcdw:axe_double
+- mcdw:axe_whirlwind
+- mcdw:axe_anchor
+- mcdw:axe_encrusted_anchor
+- mcdw:spear_spear
+- mcdw:spear_whispering_spear
+- mcdw:spear_fortune
+- mcdw:staff_battlestaff
+- mcdw:staff_growing_staff
+- mcdw:staff_battlestaff_of_terror
+- mcdw:whip_whip
+- mcdw:whip_vine_whip
+- dragonloot:dragon_axe
+- mythicmetals:adamantite_axe
+- mythicmetals:aetherium_axe
+- mythicmetals:aquarium_axe
+- mythicmetals:banglum_axe
+- mythicmetals:bronze_axe
+- mythicmetals:carmot_axe
+- mythicmetals:celestium_axe
+- mythicmetals:copper_axe
+- mythicmetals:discordium_axe
+- mythicmetals:durasteel_axe
+- mythicmetals:hallowed_axe
+- mythicmetals:kyber_axe
+- mythicmetals:metallurgium_axe
+- mythicmetals:mythril_axe
+- mythicmetals:orichalcum_axe
+- mythicmetals:osmium_axe
+- mythicmetals:palladium_axe
+- mythicmetals:prometheum_axe
+- mythicmetals:quadrillum_axe
+- mythicmetals:quicksilver_axe
+- mythicmetals:runite_axe
+- mythicmetals:silver_axe
+- mythicmetals:star_platinum_axe
+- mythicmetals:steel_axe
+- mythicmetals:stormyx_axe
+- indrev:mining_drill_mk1
+- indrev:mining_drill_mk2
+- indrev:mining_drill_mk3
+- indrev:mining_drill_mk4
+- indrev:tin_axe
+- indrev:copper_axe
+- indrev:steel_axe
+- indrev:gamer_axe
+- indrev:lead_axe
+- indrev:silver_axe
+- indrev:bronze_axe
+- hellish-materials:luss_axe
+- hellish-materials:batet_axe
+- hellish-materials:vuld_axe
+- minecraft:wooden_axe
+- minecraft:stone_axe
+- minecraft:iron_axe
+- minecraft:golden_axe
+- minecraft:diamond_axe
+- minecraft:netherite_axe
+- gobber2:gobber2_axe?
+- gobber2:gobber2_axe_nether?
+- gobber2:gobber2_axe_end?
+- gobber2:gobber2_paxel?
+- gobber2:gobber2_paxel_nether?
+- gobber2:gobber2_paxel_end?
+- gobber2:gobber2_paxel_stars?
+
+#c:juices/saguaro_juice
+- croptopia:saguaro_juice
+
+#c:fruits/oranges
+- croptopia:orange
+
+#c:saplings/grapefruit
+- croptopia:grapefruit_sapling
+
+#c:jams/elderberry_jam
+- croptopia:elderberry_jam
+
+#c:saplings/date
+- croptopia:date_sapling
+
+#c:plantable
+- minecraft:wheat_seeds
+- minecraft:beetroot_seeds
+- minecraft:carrot
+- minecraft:potato
+- minecraft:pumpkin_seeds
+- minecraft:melon_seeds
+
+#c:protein_bars
+- croptopia:protein_bar
+
+#origins:ignore_diet
+
+#nourish:carbohydrates
+- bewitchment:garlic_bread
+- croptopia:barley
+- croptopia:corn
+- croptopia:hops
+- croptopia:oat
+- croptopia:rice
+- croptopia:sweetpotato
+- croptopia:yam
+- croptopia:tortilla
+- croptopia:beer
+- croptopia:potato_chips
+- croptopia:steamed_rice
+- croptopia:french_fries
+- croptopia:sweet_potato_fries
+- croptopia:doughnut
+- croptopia:popcorn
+- croptopia:toast
+- croptopia:oatmeal
+- croptopia:saucy_chips
+- croptopia:buttered_toast
+- croptopia:toast_with_jam
+- croptopia:ham_sandwich
+- croptopia:peanut_butter_and_jam
+- croptopia:blt
+- croptopia:grilled_cheese
+- croptopia:tuna_sandwich
+- croptopia:cheeseburger
+- croptopia:hamburger
+- croptopia:tofuburger
+- croptopia:pizza
+- croptopia:supreme_pizza
+- croptopia:cheese_pizza
+- croptopia:pineapple_pepperoni_pizza
+- croptopia:chicken_and_noodles
+- croptopia:chicken_and_dumplings
+- croptopia:tofu_and_dumplings
+- croptopia:spaghetti_squash
+- croptopia:chicken_and_rice
+- croptopia:taco
+- croptopia:egg_roll
+- croptopia:apple_pie
+- croptopia:yam_jam
+- croptopia:banana_cream_pie
+- croptopia:cherry_pie
+- croptopia:brownies
+- croptopia:snicker_doodle
+- croptopia:banana_nut_bread
+- croptopia:burrito
+- croptopia:tostada
+- croptopia:horchata
+- croptopia:carnitas
+- croptopia:fajitas
+- croptopia:enchilada
+- croptopia:churros
+- croptopia:tres_leche_cake
+- croptopia:refried_beans
+- croptopia:chimichanga
+- croptopia:quesadilla
+- croptopia:shepherds_pie
+- croptopia:fish_and_chips
+- croptopia:cornish_pasty
+- croptopia:scones
+- croptopia:treacle_tart
+- croptopia:trifle
+
+#c:brown_dyes
+- minecraft:brown_dye
+- minecraft:cocoa_beans
+
+#c:tofuburgers
+- croptopia:tofuburger
+
+#bewitchment:chalks
+- bewitchment:chalk
+- bewitchment:golden_chalk
+- bewitchment:fiery_chalk
+- bewitchment:eldritch_chalk
+
+#mythicmetals:aetherium_nuggets
+- mythicmetals:aetherium_nugget
+
+#nourish:fats
+- croptopia:olive
+- croptopia:peanut
+- croptopia:soybean
+- croptopia:avocado
+- croptopia:cheese
+- croptopia:butter
+- croptopia:tofu
+- croptopia:chocolate
+- croptopia:pepperoni
+- croptopia:soy_milk
+- croptopia:chocolate_milkshake
+- croptopia:yoghurt
+- croptopia:scrambled_eggs
+- croptopia:peanut_butter_and_jam
+- croptopia:grilled_cheese
+- croptopia:tuna_sandwich
+- croptopia:cheeseburger
+- croptopia:tofuburger
+- croptopia:pizza
+- croptopia:supreme_pizza
+- croptopia:cheese_pizza
+- croptopia:tofu_and_dumplings
+- croptopia:sushi
+- croptopia:egg_roll
+- croptopia:apple_pie
+- croptopia:candy_corn
+- croptopia:cherry_pie
+- croptopia:cheese_cake
+- croptopia:brownies
+- croptopia:snicker_doodle
+- croptopia:banana_nut_bread
+- croptopia:horchata
+- croptopia:churros
+- croptopia:tres_leche_cake
+- croptopia:eton_mess
+- croptopia:scones
+- croptopia:figgy_pudding
+- croptopia:sticky_toffee_pudding
+- croptopia:trifle
+
+#c:vegetables/greenonions
+- croptopia:greenonion
+
+#c:pork_jerkies
+- croptopia:pork_jerky
+
+#c:seeds/broccoli
+- croptopia:broccoli_seed
+
+#c:seeds/barley
+- croptopia:barley_seed
+
+#c:tin_plates
+- indrev:tin_plate
+
+#c:seeds/zucchini
+- croptopia:zucchini_seed
+
+#adorn:wooden_posts
+- adorn:oak_post
+- adorn:spruce_post
+- adorn:birch_post
+- adorn:jungle_post
+- adorn:acacia_post
+- adorn:dark_oak_post
+- adorn:crimson_post
+- adorn:warped_post
+- adorn:traverse/fir_post?
+- adorn:terrestria/cypress_post?
+- adorn:terrestria/hemlock_post?
+- adorn:terrestria/japanese_maple_post?
+- adorn:terrestria/rainbow_eucalyptus_post?
+- adorn:terrestria/redwood_post?
+- adorn:terrestria/rubber_post?
+- adorn:terrestria/sakura_post?
+- adorn:terrestria/willow_post?
+- adorn:terrestria/yucca_palm_post?
+- adorn:woods_and_mires/pine_post?
+- adorn:byg/aspen_post?
+- adorn:byg/baobab_post?
+- adorn:byg/blue_enchanted_post?
+- adorn:byg/bulbis_post?
+- adorn:byg/cherry_post?
+- adorn:byg/cika_post?
+- adorn:byg/cypress_post?
+- adorn:byg/ebony_post?
+- adorn:byg/embur_post?
+- adorn:byg/ether_post?
+- adorn:byg/fir_post?
+- adorn:byg/green_enchanted_post?
+- adorn:byg/holly_post?
+- adorn:byg/jacaranda_post?
+- adorn:byg/lament_post?
+- adorn:byg/mahogany_post?
+- adorn:byg/mangrove_post?
+- adorn:byg/maple_post?
+- adorn:byg/nightshade_post?
+- adorn:byg/palm_post?
+- adorn:byg/pine_post?
+- adorn:byg/rainbow_eucalyptus_post?
+- adorn:byg/redwood_post?
+- adorn:byg/skyris_post?
+- adorn:byg/sythian_post?
+- adorn:byg/willow_post?
+- adorn:byg/witch_hazel_post?
+- adorn:byg/zelkova_post?
+- adorn:biomemakeover/blighted_balsa_post?
+- adorn:biomemakeover/swamp_cypress_post?
+- adorn:biomemakeover/willow_post?
+- adorn:cinderscapes/scorched_post?
+- adorn:cinderscapes/umbral_post?
+
+#c:limeades
+- croptopia:limeade
+
+#c:seeds/lettuce
+- croptopia:lettuce_seed
+
+#c:steel_chestplates
+- indrev:steel_chestplate
+- astromine:steel_chestplate?
+
+#c:seeds/raspberry
+- croptopia:raspberry_seed
+
+#c:ham_sandwiches
+- croptopia:ham_sandwich
+
+#minecraft:coals
+- minecraft:coal
+- minecraft:charcoal
+- doom:argent_energy
+
+#c:salts
+- croptopia:salt
+
+#mythicmetals:quadrillum_ores
+- mythicmetals:quadrillum_ore
+
+#c:lead_plates
+- indrev:lead_plate
+
+#c:saplings/fig
+- croptopia:fig_sapling
+
+#adorn:shelves
+- #adorn:wooden_shelves
+- adorn:iron_shelf
+
+#the_aether:aether_wooden_slabs
+- the_aether:skyroot_slab
+- the_aether:golden_oak_slab
+- the_aether:crystal_slab
+- the_aether:wisteria_slab
+- the_aether:orange_slab
+
+#c:emerald_ores
+- minecraft:emerald_ore
+- minecraft:deepslate_emerald_ore
+
+#c:vegetables/artichokes
+- croptopia:artichoke
+
+#the_aether:aether_aerclouds
+- the_aether:cold_aercloud
+- the_aether:blue_aercloud
+- the_aether:pink_aercloud
+- the_aether:golden_aercloud
+
+#c:saplings/lime
+- croptopia:lime_sapling
+
+#c:lead_ingots
+- indrev:lead_ingot
+
+#c:stone_rods
+- adorn:stone_rod
+
+#c:fruits/lemons
+- croptopia:lemon
+
+#c:cheese_pizzas
+- croptopia:cheese_pizza
+
+#c:kale_chips
+- croptopia:kale_chips
+
+#c:adamantite_nuggets
+- mythicmetals:adamantite_nugget
+
+#c:redstone_dusts
+- minecraft:redstone
+
+#c:vegetables/tomatoes
+- croptopia:tomato
+
+#c:adamantite_blocks
+- mythicmetals:adamantite_block
+
+#platinum:platinum_ores
+- platinum:platinum_ore
+- platinum:deepslate_platinum_ore
+
+#bewitchment:witchberry_foods
+- bewitchment:witchberry
+- bewitchment:witchberry_pie
+- bewitchment:witchberry_cookie
+
+#croptopia:flourable
+- minecraft:wheat
+- croptopia:barley
+- croptopia:oat
+- croptopia:corn
+
+#the_aether:aether_wooden_trapdoors
+- the_aether:skyroot_trapdoor
+- the_aether:golden_oak_trapdoor
+- the_aether:crystal_trapdoor
+- the_aether:wisteria_trapdoor
+- the_aether:orange_trapdoor
+
+#c:roasted_nuts
+- croptopia:roasted_nuts
+
+#minecraft:redstones_ores
+- universal_ores:andesite_redstone_ore
+- universal_ores:diorite_redstone_ore
+- universal_ores:granite_redstone_ore
+- universal_ores:tuff_redstone_ore
+
+#mythicmetals:carmot_nuggets
+- mythicmetals:carmot_nugget
+
+#c:tin_ingots
+- mythicmetals:tin_ingot
+- indrev:tin_ingot
+
+#atbyw:tab_redstone
+- atbyw:timer_repeater
+- atbyw:redstone_cross_path
+- atbyw:redstone_lantern
+- atbyw:redstone_jack_o_lantern
+- atbyw:oak_bookshelf_toggle
+- atbyw:spruce_bookshelf_toggle
+- atbyw:birch_bookshelf_toggle
+- atbyw:jungle_bookshelf_toggle
+- atbyw:acacia_bookshelf_toggle
+- atbyw:dark_oak_bookshelf_toggle
+- atbyw:crimson_bookshelf_toggle
+- atbyw:warped_bookshelf_toggle
+- atbyw:dandelion_pull_switch
+- atbyw:poppy_pull_switch
+- atbyw:blue_orchid_pull_switch
+- atbyw:allium_pull_switch
+- atbyw:azure_bluet_pull_switch
+- atbyw:red_tulip_pull_switch
+- atbyw:orange_tulip_pull_switch
+- atbyw:white_tulip_pull_switch
+- atbyw:pink_tulip_pull_switch
+- atbyw:oxeye_daisy_pull_switch
+- atbyw:cornflower_pull_switch
+- atbyw:lily_of_the_valley_pull_switch
+- atbyw:wither_rose_pull_switch
+- atbyw:iron_spike_trap
+- atbyw:gold_spike_trap
+- atbyw:diamond_spike_trap
+- atbyw:netherite_spike_trap
+- atbyw:oak_fence_door
+- atbyw:spruce_fence_door
+- atbyw:birch_fence_door
+- atbyw:jungle_fence_door
+- atbyw:acacia_fence_door
+- atbyw:dark_oak_fence_door
+- atbyw:crimson_fence_door
+- atbyw:warped_fence_door
+- atbyw:iron_fence_door
+
+#minecraft:fishes
+- minecraft:cod
+- minecraft:cooked_cod
+- minecraft:salmon
+- minecraft:cooked_salmon
+- minecraft:pufferfish
+- minecraft:tropical_fish
+
+#c:iron_gears
+- agape_space:iron_gear
+
+#c:fruits/cherries
+- croptopia:cherry
+
+#mythicmetals:banglum_ingots
+- mythicmetals:banglum_ingot
+
+#c:mythril_nuggets
+- mythicmetals:mythril_nugget
+
+#c:gray_dyes
+- minecraft:gray_dye
+
+#mythicmetals:prometheum_ingots
+- mythicmetals:prometheum_ingot
+
+#minecraft:redstone_ores
+- minecraft:redstone_ore
+- minecraft:deepslate_redstone_ore
+
+#c:candied_nuts
+- croptopia:candied_nuts
+
+#atbyw:tab_deco
+- atbyw:shroomstick
+- atbyw:spruce_ladder
+- atbyw:birch_ladder
+- atbyw:jungle_ladder
+- atbyw:acacia_ladder
+- atbyw:dark_oak_ladder
+- atbyw:crimson_ladder
+- atbyw:warped_ladder
+- atbyw:bamboo_ladder
+- atbyw:compacted_snow
+- atbyw:large_chain
+- atbyw:granite_column
+- atbyw:diorite_column
+- atbyw:andesite_column
+- atbyw:sandstone_column
+- atbyw:chiseled_sandstone_column
+- atbyw:red_sandstone_column
+- atbyw:chiseled_red_sandstone_column
+- atbyw:purpur_column
+- atbyw:stone_bricks_column
+- atbyw:mossy_stone_bricks_column
+- atbyw:cracked_stone_bricks_column
+- atbyw:nether_bricks_column
+- atbyw:quartz_column
+- atbyw:prismarine_column
+- atbyw:blackstone_column
+- atbyw:terracotta_bricks_wall
+- atbyw:white_terracotta_bricks_wall
+- atbyw:orange_terracotta_bricks_wall
+- atbyw:magenta_terracotta_bricks_wall
+- atbyw:light_blue_terracotta_bricks_wall
+- atbyw:yellow_terracotta_bricks_wall
+- atbyw:lime_terracotta_bricks_wall
+- atbyw:pink_terracotta_bricks_wall
+- atbyw:gray_terracotta_bricks_wall
+- atbyw:light_gray_terracotta_bricks_wall
+- atbyw:cyan_terracotta_bricks_wall
+- atbyw:purple_terracotta_bricks_wall
+- atbyw:blue_terracotta_bricks_wall
+- atbyw:brown_terracotta_bricks_wall
+- atbyw:green_terracotta_bricks_wall
+- atbyw:red_terracotta_bricks_wall
+- atbyw:black_terracotta_bricks_wall
+- atbyw:white_cinder_blocks_wall
+- atbyw:orange_cinder_blocks_wall
+- atbyw:magenta_cinder_blocks_wall
+- atbyw:light_blue_cinder_blocks_wall
+- atbyw:yellow_cinder_blocks_wall
+- atbyw:lime_cinder_blocks_wall
+- atbyw:pink_cinder_blocks_wall
+- atbyw:gray_cinder_blocks_wall
+- atbyw:light_gray_cinder_blocks_wall
+- atbyw:cyan_cinder_blocks_wall
+- atbyw:purple_cinder_blocks_wall
+- atbyw:blue_cinder_blocks_wall
+- atbyw:brown_cinder_blocks_wall
+- atbyw:green_cinder_blocks_wall
+- atbyw:red_cinder_blocks_wall
+- atbyw:black_cinder_blocks_wall
+- atbyw:axolotl_statue
+- atbyw:waxed_clean_axolotl_statue
+- atbyw:waxed_exposed_axolotl_statue
+- atbyw:waxed_dirty_axolotl_statue
+- atbyw:waxed_mossy_axolotl_statue
+- atbyw:waxed_very_mossy_axolotl_statue
+- atbyw:bat_statue
+- atbyw:waxed_clean_bat_statue
+- atbyw:waxed_exposed_bat_statue
+- atbyw:waxed_dirty_bat_statue
+- atbyw:waxed_mossy_bat_statue
+- atbyw:waxed_very_mossy_bat_statue
+- atbyw:bee_statue
+- atbyw:waxed_clean_bee_statue
+- atbyw:waxed_exposed_bee_statue
+- atbyw:waxed_dirty_bee_statue
+- atbyw:waxed_mossy_bee_statue
+- atbyw:waxed_very_mossy_bee_statue
+- atbyw:cat_statue
+- atbyw:waxed_clean_cat_statue
+- atbyw:waxed_exposed_cat_statue
+- atbyw:waxed_dirty_cat_statue
+- atbyw:waxed_mossy_cat_statue
+- atbyw:waxed_very_mossy_cat_statue
+- atbyw:chicken_statue
+- atbyw:waxed_clean_chicken_statue
+- atbyw:waxed_exposed_chicken_statue
+- atbyw:waxed_dirty_chicken_statue
+- atbyw:waxed_mossy_chicken_statue
+- atbyw:waxed_very_mossy_chicken_statue
+- atbyw:cod_statue
+- atbyw:waxed_clean_cod_statue
+- atbyw:waxed_exposed_cod_statue
+- atbyw:waxed_dirty_cod_statue
+- atbyw:waxed_mossy_cod_statue
+- atbyw:waxed_very_mossy_cod_statue
+- atbyw:endermite_statue
+- atbyw:waxed_clean_endermite_statue
+- atbyw:waxed_exposed_endermite_statue
+- atbyw:waxed_dirty_endermite_statue
+- atbyw:waxed_mossy_endermite_statue
+- atbyw:waxed_very_mossy_endermite_statue
+- atbyw:fox_statue
+- atbyw:waxed_clean_fox_statue
+- atbyw:waxed_exposed_fox_statue
+- atbyw:waxed_dirty_fox_statue
+- atbyw:waxed_mossy_fox_statue
+- atbyw:waxed_very_mossy_fox_statue
+- atbyw:magma_cube_statue
+- atbyw:waxed_clean_magma_cube_statue
+- atbyw:waxed_exposed_magma_cube_statue
+- atbyw:waxed_dirty_magma_cube_statue
+- atbyw:waxed_mossy_magma_cube_statue
+- atbyw:waxed_very_mossy_magma_cube_statue
+- atbyw:puffer_fish_statue
+- atbyw:waxed_clean_puffer_fish_statue
+- atbyw:waxed_exposed_puffer_fish_statue
+- atbyw:waxed_dirty_puffer_fish_statue
+- atbyw:waxed_mossy_puffer_fish_statue
+- atbyw:waxed_very_mossy_puffer_fish_statue
+- atbyw:rabbit_statue
+- atbyw:waxed_clean_rabbit_statue
+- atbyw:waxed_exposed_rabbit_statue
+- atbyw:waxed_dirty_rabbit_statue
+- atbyw:waxed_mossy_rabbit_statue
+- atbyw:waxed_very_mossy_rabbit_statue
+- atbyw:salmon_statue
+- atbyw:waxed_clean_salmon_statue
+- atbyw:waxed_exposed_salmon_statue
+- atbyw:waxed_dirty_salmon_statue
+- atbyw:waxed_mossy_salmon_statue
+- atbyw:waxed_very_mossy_salmon_statue
+- atbyw:shulker_statue
+- atbyw:waxed_clean_shulker_statue
+- atbyw:waxed_exposed_shulker_statue
+- atbyw:waxed_dirty_shulker_statue
+- atbyw:waxed_mossy_shulker_statue
+- atbyw:waxed_very_mossy_shulker_statue
+- atbyw:silverfish_statue
+- atbyw:waxed_clean_silverfish_statue
+- atbyw:waxed_exposed_silverfish_statue
+- atbyw:waxed_dirty_silverfish_statue
+- atbyw:waxed_mossy_silverfish_statue
+- atbyw:waxed_very_mossy_silverfish_statue
+- atbyw:slime_statue
+- atbyw:waxed_clean_slime_statue
+- atbyw:waxed_exposed_slime_statue
+- atbyw:waxed_dirty_slime_statue
+- atbyw:waxed_mossy_slime_statue
+- atbyw:waxed_very_mossy_slime_statue
+- atbyw:wolf_statue
+- atbyw:waxed_clean_wolf_statue
+- atbyw:waxed_exposed_wolf_statue
+- atbyw:waxed_dirty_wolf_statue
+- atbyw:waxed_mossy_wolf_statue
+- atbyw:waxed_very_mossy_wolf_statue
+
+#c:manganese_ingots
+- mythicmetals:manganese_ingot
+
+#mythicmetals:etherite_ingots
+- mythicmetals:etherite_ingot
+
+#c:rum_raisin_ice_creams
+- croptopia:rum_raisin_ice_cream
+
+#bewitchment:dragons_blood_logs
+- bewitchment:dragons_blood_log
+- bewitchment:dragons_blood_wood
+- bewitchment:stripped_dragons_blood_log
+- bewitchment:stripped_dragons_blood_wood
+
+#columns:columns
+
+#c:lead_ores
+- indrev:lead_ore
+- indrev:deepslate_lead_ore
+
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+- minecraft:cobbled_deepslate_wall
+- minecraft:polished_deepslate_wall
+- minecraft:deepslate_tile_wall
+- minecraft:deepslate_brick_wall
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+- minecraft:cobbled_deepslate_wall
+- minecraft:polished_deepslate_wall
+- minecraft:deepslate_tile_wall
+- minecraft:deepslate_brick_wall
+- #the_aether:aether_walls
+- blockus:blaze_bricks_wall
+- blockus:lava_bricks_wall
+- blockus:soul_sandstone_wall
+- blockus:charred_nether_bricks_wall
+- blockus:soaked_bricks_wall
+- blockus:magma_bricks_wall
+- blockus:small_magma_brick_wall
+- blockus:limestone_bricks_wall
+- blockus:small_limestone_bricks_wall
+- blockus:obsidian_bricks_wall
+- blockus:small_obsidian_bricks_wall
+- blockus:rainbow_bricks_wall
+- blockus:water_bricks_wall
+- blockus:marble_bricks_wall
+- blockus:small_marble_bricks_wall
+- blockus:honeycomb_bricks_wall
+- blockus:sandy_bricks_wall
+- blockus:charred_bricks_wall
+- blockus:teal_nether_brick_wall
+- blockus:lava_polished_blackstone_wall
+- blockus:crimson_warty_blackstone_bricks_wall
+- blockus:warped_warty_blackstone_bricks_wall
+- blockus:snow_bricks_wall
+- blockus:ice_bricks_wall
+- blockus:polished_basalt_bricks_wall
+- blockus:bluestone_bricks_wall
+- blockus:small_bluestone_bricks_wall
+- blockus:purpur_bricks_wall
+- blockus:small_purpur_bricks_wall
+- blockus:andesite_bricks_wall
+- blockus:diorite_bricks_wall
+- blockus:granite_bricks_wall
+- blockus:limestone_wall
+- blockus:marble_wall
+- blockus:bluestone_wall
+- blockus:bluestone_tile_wall
+- blockus:sandstone_bricks_wall
+- blockus:small_sandstone_bricks_wall
+- blockus:red_sandstone_bricks_wall
+- blockus:small_red_sandstone_bricks_wall
+- blockus:soul_sandstone_bricks_wall
+- blockus:small_soul_sandstone_bricks_wall
+- blockus:purpur_bricks_wall
+- blockus:phantom_purpur_bricks_wall
+- blockus:small_phantom_purpur_bricks_wall
+- blockus:quartz_tile_wall
+- blockus:large_bricks_wall
+- blockus:mossy_deepslate_bricks_wall
+- blockus:tuff_bricks_wall
+- blockus:small_end_stone_bricks_wall
+- blockus:white_stone_brick_wall
+- blockus:orange_stone_brick_wall
+- blockus:magenta_stone_brick_wall
+- blockus:light_blue_stone_brick_wall
+- blockus:yellow_stone_brick_wall
+- blockus:lime_stone_brick_wall
+- blockus:pink_stone_brick_wall
+- blockus:gray_stone_brick_wall
+- blockus:cyan_stone_brick_wall
+- blockus:purple_stone_brick_wall
+- blockus:blue_stone_brick_wall
+- blockus:brown_stone_brick_wall
+- blockus:green_stone_brick_wall
+- blockus:red_stone_brick_wall
+- blockus:black_stone_brick_wall
+- #blockus:barriers
+
+#mythicmetals:hallowed_blocks
+- mythicmetals:hallowed_block
+
+#artofalchemy:containers
+- minecraft:bucket
+- minecraft:glass_bottle
+
+#c:vegetables/spinach
+- croptopia:spinach
+
+#c:vermiculite_blocks
+- mythicmetals:vermiculite_block
+
+#c:vegetables/greenbeans
+- croptopia:greenbean
+
+#c:vermiculite
+- mythicmetals:vermiculite
+
+#c:jams/peach_jam
+- croptopia:peach_jam
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs
+- minecraft:music_disc_pigstep
+- doom:e1m1_music_disc
+
+#the_aether:aether_hangers
+- the_aether:frost_wisteria_hanger
+- the_aether:rose_wisteria_hanger
+- the_aether:lavender_wisteria_hanger
+- the_aether:boreal_wisteria_hanger
+
+#c:blue_dyes
+- minecraft:blue_dye
+- minecraft:lapis_lazuli
+
+#c:fruits/mangos
+- croptopia:mango
+
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
+
+#c:grains/barley
+- croptopia:barley
+
+#the_aether:aether_stairs
+- #the_aether:aether_wooden_stairs
+- #the_aether:aether_stone_stairs
+
+#extraorigins:golden_tools
+- minecraft:golden_sword
+- minecraft:golden_pickaxe
+- minecraft:golden_axe
+- minecraft:golden_shovel
+- minecraft:golden_hoe
+
+#c:jams/cherry_jam
+- croptopia:cherry_jam
+
+#c:scones
+- croptopia:scones
+
+#c:planks_that_burn
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- blockus:bamboo_planks
+- blockus:white_oak_planks
+- traverse:fir_planks
+
+#the_aether:aether_small_flowers
+- the_aether:ancient_flower
+- the_aether:ataraxia
+- the_aether:cloudsbluff
+- the_aether:drigean
+- the_aether:luminar
+
+#c:seeds/onion
+- croptopia:onion_seed
+
+#indrev:coolers
+- indrev:fan
+- indrev:cooler_cell
+- indrev:heatsink
+- indrev:heat_coil
+
+#croptopia:beef_replacements
+- minecraft:beef
+- croptopia:tofu
+
+#c:amethysts
+
+#atbyw:tab_misc
+- atbyw:bamboo_stick
+- atbyw:shulker_essence
+- atbyw:chicken_essence
+- atbyw:rabbit_essence
+- atbyw:cod_essence
+- atbyw:salmon_essence
+- atbyw:puffer_fish_essence
+- atbyw:magma_cube_essence
+- atbyw:slime_essence
+- atbyw:large_chain_link
+- atbyw:dev_block
+
+#c:osmium_ingots
+- mythicmetals:osmium_ingot
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- bewitchment:juniper_trapdoor
+- bewitchment:cypress_trapdoor
+- bewitchment:elder_trapdoor
+- bewitchment:dragons_blood_trapdoor
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- #the_aether:aether_wooden_trapdoors
+- blockus:bamboo_trapdoor
+- blockus:charred_trapdoor
+- blockus:white_oak_trapdoor
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- appletreesrev:apple_trapdoor
+- traverse:fir_trapdoor
+
+#c:apple_pies
+- croptopia:apple_pie
+
+#c:fruits/cantaloupes
+- croptopia:cantaloupe
+
+#adorn:wooden_steps
+- adorn:oak_step
+- adorn:spruce_step
+- adorn:birch_step
+- adorn:jungle_step
+- adorn:acacia_step
+- adorn:dark_oak_step
+- adorn:crimson_step
+- adorn:warped_step
+- adorn:traverse/fir_step?
+- adorn:terrestria/cypress_step?
+- adorn:terrestria/hemlock_step?
+- adorn:terrestria/japanese_maple_step?
+- adorn:terrestria/rainbow_eucalyptus_step?
+- adorn:terrestria/redwood_step?
+- adorn:terrestria/rubber_step?
+- adorn:terrestria/sakura_step?
+- adorn:terrestria/willow_step?
+- adorn:terrestria/yucca_palm_step?
+- adorn:woods_and_mires/pine_step?
+- adorn:byg/aspen_step?
+- adorn:byg/baobab_step?
+- adorn:byg/blue_enchanted_step?
+- adorn:byg/bulbis_step?
+- adorn:byg/cherry_step?
+- adorn:byg/cika_step?
+- adorn:byg/cypress_step?
+- adorn:byg/ebony_step?
+- adorn:byg/embur_step?
+- adorn:byg/ether_step?
+- adorn:byg/fir_step?
+- adorn:byg/green_enchanted_step?
+- adorn:byg/holly_step?
+- adorn:byg/jacaranda_step?
+- adorn:byg/lament_step?
+- adorn:byg/mahogany_step?
+- adorn:byg/mangrove_step?
+- adorn:byg/maple_step?
+- adorn:byg/nightshade_step?
+- adorn:byg/palm_step?
+- adorn:byg/pine_step?
+- adorn:byg/rainbow_eucalyptus_step?
+- adorn:byg/redwood_step?
+- adorn:byg/skyris_step?
+- adorn:byg/sythian_step?
+- adorn:byg/willow_step?
+- adorn:byg/witch_hazel_step?
+- adorn:byg/zelkova_step?
+- adorn:biomemakeover/blighted_balsa_step?
+- adorn:biomemakeover/swamp_cypress_step?
+- adorn:biomemakeover/willow_step?
+- adorn:cinderscapes/scorched_step?
+- adorn:cinderscapes/umbral_step?
+
+#c:saplings/apricot
+- croptopia:apricot_sapling
+
+#c:pecan_ice_creams
+- croptopia:pecan_ice_cream
+
+#c:steel_helmets
+- mythicmetals:steel_helmet
+- indrev:steel_helmet
+- astromine:steel_helmet?
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:tipped_arrow
+- minecraft:spectral_arrow
+- bewitchment:silver_arrow
+
+#c:seeds/olive
+- croptopia:olive_seed
+
+#c:slime_balls
+- minecraft:slime_ball
+- terrarianslimes:black_slime_ball
+- terrarianslimes:blue_slime_ball
+- terrarianslimes:corrupt_slime_ball
+- terrarianslimes:crimson_slime_ball
+- terrarianslimes:ice_slime_ball
+- terrarianslimes:illuminant_slime_ball
+- terrarianslimes:jungle_slime_ball
+- terrarianslimes:pinky_slime_ball
+- terrarianslimes:purple_slime_ball
+- terrarianslimes:rainbow_slime_ball
+- terrarianslimes:red_slime_ball
+- terrarianslimes:sand_slime_ball
+- terrarianslimes:yellow_slime_ball
+- minecraft:slime_ball
+
+#c:seeds/grape
+- croptopia:grape_seed
+
+#minecraft:wooden_doors
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+- bewitchment:juniper_door
+- bewitchment:cypress_door
+- bewitchment:elder_door
+- bewitchment:dragons_blood_door
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+- #the_aether:aether_wooden_doors
+- blockus:bamboo_door
+- blockus:charred_door
+- blockus:white_oak_door
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+- appletreesrev:apple_door
+- traverse:fir_door
+
+#c:eton_mess
+- croptopia:eton_mess
+
+#c:uncommon_loot
+- minecraft:diamond
+- minecraft:emerald
+- minecraft:shulker_shell
+- minecraft:rabbit_foot
+- minecraft:heart_of_the_sea
+- minecraft:blaze_rod
+- minecraft:ghast_tear
+- gobber2:gobber2_ingot
+
+#c:wooden_barrels
+- #blockus:barrels
+
+#c:common_loot
+- minecraft:leather
+- minecraft:rabbit_hide
+- minecraft:feather
+- minecraft:slime_ball
+- minecraft:gunpowder
+- minecraft:iron_ingot
+- minecraft:gold_ingot
+- minecraft:ender_pearl
+- minecraft:blaze_powder
+- minecraft:quartz
+
+#c:cheeseburgers
+- croptopia:cheeseburger
+
+#c:bronze_nuggets
+- mythicmetals:bronze_nugget
+- indrev:bronze_nugget
+
+#blockus:soul_soils
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- blockus:crimson_small_stems
+
+#c:water_bottles
+- croptopia:water_bottle
+
+#minecraft:ignored_by_piglin_babies
+- minecraft:leather
+
+#c:seeds/pineapple
+- croptopia:pineapple_seed
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+- minecraft:cobbled_deepslate
+- minecraft:cobblestone
+- minecraft:blackstone
+- minecraft:cobbled_deepslate
+- the_aether:cobbled_holystone
+
+#c:lead_dusts
+- indrev:lead_dust
+
+#c:saplings/avocado
+- croptopia:avocado_sapling
+
+#mythicmetals:prometheum_ores
+- mythicmetals:prometheum_ore
+- mythicmetals:deepslate_prometheum_ore
+
+#adorn:coffee_tables
+- adorn:oak_coffee_table
+- adorn:spruce_coffee_table
+- adorn:birch_coffee_table
+- adorn:jungle_coffee_table
+- adorn:acacia_coffee_table
+- adorn:dark_oak_coffee_table
+- adorn:crimson_coffee_table
+- adorn:warped_coffee_table
+- adorn:traverse/fir_coffee_table?
+- adorn:terrestria/cypress_coffee_table?
+- adorn:terrestria/hemlock_coffee_table?
+- adorn:terrestria/japanese_maple_coffee_table?
+- adorn:terrestria/rainbow_eucalyptus_coffee_table?
+- adorn:terrestria/redwood_coffee_table?
+- adorn:terrestria/rubber_coffee_table?
+- adorn:terrestria/sakura_coffee_table?
+- adorn:terrestria/willow_coffee_table?
+- adorn:terrestria/yucca_palm_table?
+- adorn:woods_and_mires/pine_coffee_table?
+- adorn:byg/aspen_coffee_table?
+- adorn:byg/baobab_coffee_table?
+- adorn:byg/blue_enchanted_coffee_table?
+- adorn:byg/bulbis_coffee_table?
+- adorn:byg/cherry_coffee_table?
+- adorn:byg/cika_coffee_table?
+- adorn:byg/cypress_coffee_table?
+- adorn:byg/ebony_coffee_table?
+- adorn:byg/embur_coffee_table?
+- adorn:byg/ether_coffee_table?
+- adorn:byg/fir_coffee_table?
+- adorn:byg/green_enchanted_coffee_table?
+- adorn:byg/holly_coffee_table?
+- adorn:byg/jacaranda_coffee_table?
+- adorn:byg/lament_coffee_table?
+- adorn:byg/mahogany_coffee_table?
+- adorn:byg/mangrove_coffee_table?
+- adorn:byg/maple_coffee_table?
+- adorn:byg/nightshade_coffee_table?
+- adorn:byg/palm_coffee_table?
+- adorn:byg/pine_coffee_table?
+- adorn:byg/rainbow_eucalyptus_coffee_table?
+- adorn:byg/redwood_coffee_table?
+- adorn:byg/skyris_coffee_table?
+- adorn:byg/sythian_coffee_table?
+- adorn:byg/willow_coffee_table?
+- adorn:byg/witch_hazel_coffee_table?
+- adorn:byg/zelkova_coffee_table?
+- adorn:biomemakeover/blighted_balsa_coffee_table?
+- adorn:biomemakeover/swamp_cypress_coffee_table?
+- adorn:biomemakeover/willow_coffee_table?
+- adorn:cinderscapes/scorched_coffee_table?
+- adorn:cinderscapes/umbral_coffee_table?
+
+#c:fruits/pears
+- croptopia:pear
+
+#c:vegetables/rhubarb
+- croptopia:rhubarb
+
+#c:seeds/leek
+- croptopia:leek_seed
+
+#c:hamburgers
+- croptopia:hamburger
+
+#c:fish_and_chips
+- croptopia:fish_and_chips
+
+#c:saplings/pear
+- croptopia:pear_sapling
+
+#mythicmetals:celestium_blocks
+- mythicmetals:celestium_block
+
+#croptopia:chicken_replacements
+- minecraft:chicken
+- croptopia:tofu
+
+#c:platinum_ingots
+- mythicmetals:platinum_ingot
+
+#c:fruits/kiwis
+- croptopia:kiwi
+
+#c:glass_panes
+- minecraft:glass_pane
+- minecraft:black_stained_glass_pane
+- minecraft:white_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+
+#adorn:chairs
+- adorn:oak_chair
+- adorn:spruce_chair
+- adorn:birch_chair
+- adorn:jungle_chair
+- adorn:acacia_chair
+- adorn:dark_oak_chair
+- adorn:crimson_chair
+- adorn:warped_chair
+- adorn:traverse/fir_chair?
+- adorn:terrestria/cypress_chair?
+- adorn:terrestria/hemlock_chair?
+- adorn:terrestria/japanese_maple_chair?
+- adorn:terrestria/rainbow_eucalyptus_chair?
+- adorn:terrestria/redwood_chair?
+- adorn:terrestria/rubber_chair?
+- adorn:terrestria/sakura_chair?
+- adorn:terrestria/willow_chair?
+- adorn:terrestria/yucca_palm_chair?
+- adorn:woods_and_mires/pine_chair?
+- adorn:byg/aspen_chair?
+- adorn:byg/baobab_chair?
+- adorn:byg/blue_enchanted_chair?
+- adorn:byg/bulbis_chair?
+- adorn:byg/cherry_chair?
+- adorn:byg/cika_chair?
+- adorn:byg/cypress_chair?
+- adorn:byg/ebony_chair?
+- adorn:byg/embur_chair?
+- adorn:byg/ether_chair?
+- adorn:byg/fir_chair?
+- adorn:byg/green_enchanted_chair?
+- adorn:byg/holly_chair?
+- adorn:byg/jacaranda_chair?
+- adorn:byg/lament_chair?
+- adorn:byg/mahogany_chair?
+- adorn:byg/mangrove_chair?
+- adorn:byg/maple_chair?
+- adorn:byg/nightshade_chair?
+- adorn:byg/palm_chair?
+- adorn:byg/pine_chair?
+- adorn:byg/rainbow_eucalyptus_chair?
+- adorn:byg/redwood_chair?
+- adorn:byg/skyris_chair?
+- adorn:byg/sythian_chair?
+- adorn:byg/willow_chair?
+- adorn:byg/witch_hazel_chair?
+- adorn:byg/zelkova_chair?
+- adorn:biomemakeover/blighted_balsa_chair?
+- adorn:biomemakeover/swamp_cypress_chair?
+- adorn:biomemakeover/willow_chair?
+- adorn:cinderscapes/scorched_chair?
+- adorn:cinderscapes/umbral_chair?
+
+#trinkets:head/face
+- things:monocle
+- minecraft:apple
+
+#c:vegetables/garlic
+- croptopia:garlic
+
+#c:sushis
+- croptopia:sushi
+
+#c:raw_copper_ores
+- minecraft:raw_copper
+
+#c:orange_dyes
+- minecraft:orange_dye
+
+#c:crops/coffee_beans
+- croptopia:coffee_beans
+
+#mythicmetals:starrite_ores
+- mythicmetals:starrite_ore
+- mythicmetals:calcite_starrite_ore
+
+#c:concrete_powders
+- minecraft:white_concrete_powder
+- minecraft:orange_concrete_powder
+- minecraft:magenta_concrete_powder
+- minecraft:light_blue_concrete_powder
+- minecraft:yellow_concrete_powder
+- minecraft:lime_concrete_powder
+- minecraft:pink_concrete_powder
+- minecraft:gray_concrete_powder
+- minecraft:light_gray_concrete_powder
+- minecraft:cyan_concrete_powder
+- minecraft:purple_concrete_powder
+- minecraft:blue_concrete_powder
+- minecraft:brown_concrete_powder
+- minecraft:green_concrete_powder
+- minecraft:red_concrete_powder
+- minecraft:black_concrete_powder
+
+#c:electrum_dusts
+- indrev:electrum_dust
+
+#adorn:sofas
+- adorn:red_sofa
+- adorn:black_sofa
+- adorn:green_sofa
+- adorn:brown_sofa
+- adorn:blue_sofa
+- adorn:purple_sofa
+- adorn:cyan_sofa
+- adorn:light_gray_sofa
+- adorn:gray_sofa
+- adorn:pink_sofa
+- adorn:lime_sofa
+- adorn:yellow_sofa
+- adorn:light_blue_sofa
+- adorn:magenta_sofa
+- adorn:orange_sofa
+- adorn:white_sofa
+
+#c:copper_blocks
+- minecraft:copper_block
+- minecraft:copper_block
+
+#mythicmetals:carmot_ingots
+- mythicmetals:carmot_ingot
+
+#c:saplings/walnut
+- croptopia:walnut_sapling
+
+#c:juices/cranberry_juice
+- croptopia:cranberry_juice
+
+#c:jams/apricot_jam
+- croptopia:apricot_jam
+
+#c:vegetables/cauliflower
+- croptopia:cauliflower
+
+#mythicmetals:quadrillum_blocks
+- mythicmetals:quadrillum_block
+
+#atbyw:large_chain_transition_bottom
+- minecraft:chain
+- minecraft:lantern
+- minecraft:soul_lantern
+- atbyw:redstone_lantern
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+- bewitchment:hedgewitch_carpet
+- bewitchment:alchemist_carpet
+- bewitchment:besmirched_carpet
+
+#c:sulfurs
+- indrev:sulfur_crystal
+
+#c:noodles
+- croptopia:noodle
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+
+#c:iron_ores
+- minecraft:iron_ore
+- minecraft:deepslate_iron_ore
+
+#c:figgy_pudding
+- croptopia:figgy_pudding
+
+#nourish:protein
+- bewitchment:demon_heart
+- bewitchment:grotesque_stew
+- croptopia:asparagus
+- croptopia:blackbean
+- croptopia:broccoli
+- croptopia:peanut
+- croptopia:soybean
+- croptopia:cheese
+- croptopia:tofu
+- croptopia:pepperoni
+- croptopia:soy_milk
+- croptopia:beef_jerky
+- croptopia:pork_jerky
+- croptopia:baked_beans
+- croptopia:pork_and_beans
+- croptopia:yoghurt
+- croptopia:scrambled_eggs
+- croptopia:ham_sandwich
+- croptopia:blt
+- croptopia:tuna_sandwich
+- croptopia:cheeseburger
+- croptopia:hamburger
+- croptopia:tofuburger
+- croptopia:pizza
+- croptopia:supreme_pizza
+- croptopia:cheese_pizza
+- croptopia:pineapple_pepperoni_pizza
+- croptopia:lemon_chicken
+- croptopia:fried_chicken
+- croptopia:chicken_and_noodles
+- croptopia:chicken_and_dumplings
+- croptopia:tofu_and_dumplings
+- croptopia:chicken_and_rice
+- croptopia:taco
+- croptopia:sushi
+- croptopia:almond
+- croptopia:cashew
+- croptopia:pecan
+- croptopia:walnut
+- croptopia:carnitas
+- croptopia:fajitas
+- croptopia:enchilada
+- croptopia:tamales
+- croptopia:stuffed_poblanos
+- croptopia:quesadilla
+- croptopia:shepherds_pie
+- croptopia:beef_wellington
+- croptopia:fish_and_chips
+
+#c:tortillas
+- croptopia:tortilla
+
+#c:fruits/starfruits
+- croptopia:starfruit
+
+#minecraft:slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- minecraft:cobbled_deepslate_slab
+- minecraft:polished_deepslate_slab
+- minecraft:deepslate_tile_slab
+- minecraft:deepslate_brick_slab
+- minecraft:waxed_weathered_cut_copper_slab
+- minecraft:waxed_exposed_cut_copper_slab
+- minecraft:waxed_cut_copper_slab
+- minecraft:oxidized_cut_copper_slab
+- minecraft:weathered_cut_copper_slab
+- minecraft:exposed_cut_copper_slab
+- minecraft:cut_copper_slab
+- minecraft:waxed_oxidized_cut_copper_slab
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- #the_aether:aether_slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- minecraft:cobbled_deepslate_slab
+- minecraft:polished_deepslate_slab
+- minecraft:deepslate_tile_slab
+- minecraft:deepslate_brick_slab
+- minecraft:waxed_weathered_cut_copper_slab
+- minecraft:waxed_exposed_cut_copper_slab
+- minecraft:waxed_cut_copper_slab
+- minecraft:oxidized_cut_copper_slab
+- minecraft:weathered_cut_copper_slab
+- minecraft:exposed_cut_copper_slab
+- minecraft:cut_copper_slab
+- minecraft:waxed_oxidized_cut_copper_slab
+- appletreesrev:petrified_apple_slab
+
+#c:tuna_sandwiches
+- croptopia:tuna_sandwich
+
+#c:seeds/corn
+- croptopia:corn_seed
+
+#c:juices/orange_juice
+- croptopia:orange_juice
+
+#c:juices/grape_juice
+- croptopia:grape_juice
+
+#bewitchment:swords
+- #bewitchment:weak_swords
+- #bewitchment:average_swords
+- #bewitchment:strong_swords
+
+#c:yam_jam
+- croptopia:yam_jam
+
+#c:fruits/honeydew
+- croptopia:honeydew
+
+#the_aether:aether_fences
+- the_aether:skyroot_fence
+- the_aether:golden_oak_fence
+- the_aether:crystal_fence
+- the_aether:wisteria_fence
+
+#c:gold_blocks
+- minecraft:gold_block
+
+#mythicmetals:metallurgium_nuggets
+- mythicmetals:metallurgium_nugget
+
+#c:tin_dusts
+- indrev:tin_dust
+
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
+- blockus:polished_andesite_button
+- blockus:polished_diorite_button
+- blockus:polished_granite_button
+- blockus:limestone_button
+- blockus:marble_button
+- blockus:bluestone_button
+- blockus:polished_netherrack_button
+- blockus:polished_end_stone_button
+
+#c:tungsten_ingots
+- indrev:tungsten_ingot
+
+#c:lead_nuggets
+- indrev:lead_nugget
+
+#bewitchment:pentacles
+- #bewitchment:weak_pentacles
+- #bewitchment:average_pentacles
+- #bewitchment:strong_pentacles
+
+#adorn:tables
+- adorn:oak_table
+- adorn:spruce_table
+- adorn:birch_table
+- adorn:jungle_table
+- adorn:acacia_table
+- adorn:dark_oak_table
+- adorn:crimson_table
+- adorn:warped_table
+- adorn:traverse/fir_table?
+- adorn:terrestria/cypress_table?
+- adorn:terrestria/hemlock_table?
+- adorn:terrestria/japanese_maple_table?
+- adorn:terrestria/rainbow_eucalyptus_table?
+- adorn:terrestria/redwood_table?
+- adorn:terrestria/rubber_table?
+- adorn:terrestria/sakura_table?
+- adorn:terrestria/willow_table?
+- adorn:terrestria/yucca_palm_table?
+- adorn:woods_and_mires/pine_table?
+- adorn:byg/aspen_table?
+- adorn:byg/baobab_table?
+- adorn:byg/blue_enchanted_table?
+- adorn:byg/bulbis_table?
+- adorn:byg/cherry_table?
+- adorn:byg/cika_table?
+- adorn:byg/cypress_table?
+- adorn:byg/ebony_table?
+- adorn:byg/embur_table?
+- adorn:byg/ether_table?
+- adorn:byg/fir_table?
+- adorn:byg/green_enchanted_table?
+- adorn:byg/holly_table?
+- adorn:byg/jacaranda_table?
+- adorn:byg/lament_table?
+- adorn:byg/mahogany_table?
+- adorn:byg/mangrove_table?
+- adorn:byg/maple_table?
+- adorn:byg/nightshade_table?
+- adorn:byg/palm_table?
+- adorn:byg/pine_table?
+- adorn:byg/rainbow_eucalyptus_table?
+- adorn:byg/redwood_table?
+- adorn:byg/skyris_table?
+- adorn:byg/sythian_table?
+- adorn:byg/willow_table?
+- adorn:byg/witch_hazel_table?
+- adorn:byg/zelkova_table?
+- adorn:biomemakeover/blighted_balsa_table?
+- adorn:biomemakeover/swamp_cypress_table?
+- adorn:biomemakeover/willow_table?
+- adorn:cinderscapes/scorched_table?
+- adorn:cinderscapes/umbral_table?
+
+#c:wooden_rods
+- minecraft:stick
+
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
+
+#c:fruits/olives
+- croptopia:olive
+
+#c:yellow_dyes
+- minecraft:yellow_dye
+
+#bewitchment:weak_swords
+- minecraft:wooden_sword
+- minecraft:stone_sword
+- minecraft:iron_sword
+
+#c:soul_ground
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- bewitchment:juniper_pressure_plate
+- bewitchment:cypress_pressure_plate
+- bewitchment:elder_pressure_plate
+- bewitchment:dragons_blood_pressure_plate
+- blockus:bamboo_pressure_plate
+- blockus:charred_pressure_plate
+- blockus:white_oak_pressure_plate
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- appletreesrev:apple_pressure_plate
+- traverse:fir_pressure_plate
+
+#c:seeds/strawberry
+- croptopia:strawberry_seed
+
+#trinkets:legs/belt
+- bewitchment:prickly_belt
+- bewitchment:zephyr_harness
+- things:ender_pouch
+- doom:daisy
+
+#c:seeds/radish
+- croptopia:radish_seed
+
+#c:mythril_ores
+- mythicmetals:mythril_ore
+- mythicmetals:deepslate_mythril_ore
+
+#dankstorage:blacklisted_usage
+
+#dimdoors:fabric
+- dimdoors:white_fabric
+- dimdoors:orange_fabric
+- dimdoors:magenta_fabric
+- dimdoors:light_blue_fabric
+- dimdoors:yellow_fabric
+- dimdoors:lime_fabric
+- dimdoors:pink_fabric
+- dimdoors:gray_fabric
+- dimdoors:light_gray_fabric
+- dimdoors:cyan_fabric
+- dimdoors:purple_fabric
+- dimdoors:blue_fabric
+- dimdoors:brown_fabric
+- dimdoors:green_fabric
+- dimdoors:red_fabric
+- dimdoors:black_fabric
+
+#mythicmetals:etherite_nuggets
+- mythicmetals:etherite_nugget
+
+#mythicmetals:unobtainium_blocks
+- mythicmetals:unobtainium_block
+
+#adorn:table_lamps
+- adorn:red_table_lamp
+- adorn:black_table_lamp
+- adorn:green_table_lamp
+- adorn:brown_table_lamp
+- adorn:blue_table_lamp
+- adorn:purple_table_lamp
+- adorn:cyan_table_lamp
+- adorn:light_gray_table_lamp
+- adorn:gray_table_lamp
+- adorn:pink_table_lamp
+- adorn:lime_table_lamp
+- adorn:yellow_table_lamp
+- adorn:light_blue_table_lamp
+- adorn:magenta_table_lamp
+- adorn:orange_table_lamp
+- adorn:white_table_lamp
+
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
+- minecraft:deepslate_gold_ore
+- universal_ores:andesite_gold_ore
+- universal_ores:diorite_gold_ore
+- universal_ores:granite_gold_ore
+- universal_ores:tuff_gold_ore
+
+#c:adamantite_ores
+- mythicmetals:adamantite_ore
+- mythicmetals:deepslate_adamantite_ore
+
+#c:tungsten_plates
+- indrev:tungsten_plate
+
+#c:ores
+- minecraft:coal_ore
+- minecraft:iron_ore
+- minecraft:gold_ore
+- minecraft:lapis_ore
+- minecraft:redstone_ore
+- minecraft:diamond_ore
+- minecraft:emerald_ore
+- minecraft:nether_quartz_ore
+- minecraft:nether_gold_ore
+- minecraft:ancient_debris
+- #c:silver_ores
+- #c:salt_ores
+
+#c:fruits/elderberries
+- croptopia:elderberry
+
+#c:seeds/tomato
+- croptopia:tomato_seed
+
+#adorn:kitchen_cupboards
+- adorn:oak_kitchen_cupboard
+- adorn:spruce_kitchen_cupboard
+- adorn:birch_kitchen_cupboard
+- adorn:jungle_kitchen_cupboard
+- adorn:acacia_kitchen_cupboard
+- adorn:dark_oak_kitchen_cupboard
+- adorn:crimson_kitchen_cupboard
+- adorn:warped_kitchen_cupboard
+- adorn:traverse/fir_kitchen_cupboard?
+- adorn:terrestria/cypress_kitchen_cupboard?
+- adorn:terrestria/hemlock_kitchen_cupboard?
+- adorn:terrestria/japanese_maple_kitchen_cupboard?
+- adorn:terrestria/rainbow_eucalyptus_kitchen_cupboard?
+- adorn:terrestria/redwood_kitchen_cupboard?
+- adorn:terrestria/rubber_kitchen_cupboard?
+- adorn:terrestria/sakura_kitchen_cupboard?
+- adorn:terrestria/willow_kitchen_cupboard?
+- adorn:terrestria/yucca_palm_kitchen_cupboard?
+- adorn:woods_and_mires/pine_kitchen_cupboard?
+- adorn:byg/aspen_kitchen_cupboard?
+- adorn:byg/baobab_kitchen_cupboard?
+- adorn:byg/blue_enchanted_kitchen_cupboard?
+- adorn:byg/bulbis_kitchen_cupboard?
+- adorn:byg/cherry_kitchen_cupboard?
+- adorn:byg/cika_kitchen_cupboard?
+- adorn:byg/cypress_kitchen_cupboard?
+- adorn:byg/ebony_kitchen_cupboard?
+- adorn:byg/embur_kitchen_cupboard?
+- adorn:byg/ether_kitchen_cupboard?
+- adorn:byg/fir_kitchen_cupboard?
+- adorn:byg/green_enchanted_kitchen_cupboard?
+- adorn:byg/holly_kitchen_cupboard?
+- adorn:byg/jacaranda_kitchen_cupboard?
+- adorn:byg/lament_kitchen_cupboard?
+- adorn:byg/mahogany_kitchen_cupboard?
+- adorn:byg/mangrove_kitchen_cupboard?
+- adorn:byg/maple_kitchen_cupboard?
+- adorn:byg/nightshade_kitchen_cupboard?
+- adorn:byg/palm_kitchen_cupboard?
+- adorn:byg/pine_kitchen_cupboard?
+- adorn:byg/rainbow_eucalyptus_kitchen_cupboard?
+- adorn:byg/redwood_kitchen_cupboard?
+- adorn:byg/skyris_kitchen_cupboard?
+- adorn:byg/sythian_kitchen_cupboard?
+- adorn:byg/willow_kitchen_cupboard?
+- adorn:byg/witch_hazel_kitchen_cupboard?
+- adorn:byg/zelkova_kitchen_cupboard?
+- adorn:biomemakeover/blighted_balsa_kitchen_cupboard?
+- adorn:biomemakeover/swamp_cypress_kitchen_cupboard?
+- adorn:biomemakeover/willow_kitchen_cupboard?
+- adorn:cinderscapes/scorched_cupboard?
+- adorn:cinderscapes/umbral_cupboard?
+
+#c:fruits/raspberries
+- croptopia:raspberry
+
+#the_aether:aether_walls
+- #the_aether:aether_stone_walls
+
+#minecraft:cluster_max_harvestables
+- minecraft:diamond_pickaxe
+- minecraft:golden_pickaxe
+- minecraft:iron_pickaxe
+- minecraft:netherite_pickaxe
+- minecraft:stone_pickaxe
+- minecraft:wooden_pickaxe
+
+#platinum:platinum_nugget_smeltable
+- platinum:raw_platinum_nugget
+- platinum:platinum_ore
+- platinum:deepslate_platinum_ore
+- platinum:platinum_sword
+- platinum:platinum_shovel
+- platinum:platinum_pickaxe
+- platinum:platinum_axe
+- platinum:platinum_hoe
+- platinum:platinum_helmet
+- platinum:platinum_chestplate
+- platinum:platinum_leggings
+- platinum:platinum_boots
+
+#c:raw_iron_ores
+- minecraft:raw_iron
+
+#c:magenta_dyes
+- minecraft:magenta_dye
+
+#mythicmetals:copper_armor
+- mythicmetals:copper_helmet
+- mythicmetals:copper_chestplate
+- mythicmetals:copper_leggings
+- mythicmetals:copper_boots
+
+#c:fruits/apricots
+- croptopia:apricot
+
+#c:redstone_blocks
+- minecraft:redstone_block
+
+#dehydration:hydrating_stew
+- croptopia:leek_soup
+- croptopia:grape_juice
+- croptopia:orange_juice
+- croptopia:apple_juice
+- croptopia:cranberry_juice
+- croptopia:saguaro_juice
+- croptopia:tomato_juice
+- croptopia:melon_juice
+- croptopia:pineapple_juice
+
+#c:black_dyes
+- minecraft:black_dye
+- minecraft:ink_sac
+
+#mythicmetals:celestium_ingots
+- mythicmetals:celestium_ingot
+
+#c:seeds/squash
+- croptopia:squash_seed
+
+#c:treacle_tarts
+- croptopia:treacle_tart
+
+#c:lime_dyes
+- minecraft:lime_dye
+
+#c:snicker_doodles
+- croptopia:snicker_doodle
+
+#c:jams/raspberry_jam
+- croptopia:raspberry_jam
+
+#c:manganese_blocks
+- mythicmetals:manganese_block
+
+#c:nuts/walnuts
+- croptopia:walnut
+
+#c:seeds/eggplant
+- croptopia:eggplant_seed
+
+#c:nuts/almonds
+- croptopia:almond
+
+#minecraft:warped_stems
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- blockus:warped_small_stems
+
+#c:potato_chips
+- croptopia:potato_chips
+
+#c:vegetables/ginger
+- croptopia:ginger
+
+#c:kale_smoothies
+- croptopia:kale_smoothie
+
+#the_aether:aether_leaves
+- the_aether:skyroot_leaves
+- the_aether:golden_oak_leaves
+- the_aether:crystal_leaves
+- the_aether:rose_wisteria_leaves
+- the_aether:frost_wisteria_leaves
+- the_aether:lavender_wisteria_leaves
+- the_aether:boreal_wisteria_leaves
+- the_aether:orange_leaves
+
+#croptopia:sauces
+- croptopia:artichoke_dip
+- croptopia:salsa
+
+#c:leek_soups
+- croptopia:leek_soup
+
+#mythicmetals:aquarium_ores
+- mythicmetals:aquarium_ore
+
+#mythicmetals:carmot_ores
+- mythicmetals:carmot_ore
+
+#c:dye_blue
+- minecraft:blue_dye
+
+#c:caesar_salads
+- croptopia:caesar_salad
+
+#trinkets:offhand/glove
+- the_aether:leather_gloves
+- the_aether:iron_gloves
+- the_aether:golden_gloves
+- the_aether:chain_gloves
+- the_aether:diamond_gloves
+- the_aether:zanite_gloves
+- the_aether:gravitite_gloves
+- the_aether:neptune_gloves
+- the_aether:phoenix_gloves
+- the_aether:obsidian_gloves
+- the_aether:valkyrie_gloves
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log
+- minecraft:dark_oak_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+- blockus:dark_oak_small_logs
+
+#c:silver_ingots
+- bewitchment:silver_ingot
+- mythicmetals:silver_ingot
+- indrev:silver_ingot
+
+#mythicmetals:runite_nuggets
+- mythicmetals:runite_nugget
+
+#mythicmetals:etherite_blocks
+- mythicmetals:etherite_block
+
+#c:pepperoni
+- croptopia:pepperoni
+
+#dankstorage:dank_storages
+- dankstorage:dank_1
+- dankstorage:dank_2
+- dankstorage:dank_3
+- dankstorage:dank_4
+- dankstorage:dank_5
+- dankstorage:dank_6
+- dankstorage:dank_7
+
+#the_aether:aether_doors
+- #the_aether:aether_wooden_doors
+
+#c:fruits/plums
+- croptopia:plum
+
+#schmucks:miner_likes
+- #c:raw_mineral
+- minecraft:diamond
+- minecraft:redstone
+- minecraft:emerald
+- minecraft:lapis_lazuli
+
+#c:vegetables/eggplant
+- croptopia:eggplant
+
+#adorn:stone_posts
+- adorn:stone_post
+- adorn:cobblestone_post
+- adorn:sandstone_post
+- adorn:andesite_post
+- adorn:granite_post
+- adorn:diorite_post
+- adorn:brick_post
+- adorn:stone_brick_post
+- adorn:red_sandstone_post
+- adorn:nether_brick_post
+- adorn:basalt_post
+- adorn:terrestria/basalt_post?
+- adorn:terrestria/basalt_cobblestone_post?
+- adorn:terrestria/smooth_basalt_post?
+- adorn:terrestria/basalt_brick_post?
+- adorn:terrestria/mossy_basalt_cobblestone_post?
+- adorn:terrestria/mossy_basalt_brick_post?
+- adorn:byg/dacite_post?
+- adorn:byg/dacite_brick_post?
+- adorn:byg/dacite_cobblestone_post?
+- adorn:byg/mossy_stone_post?
+- adorn:byg/rocky_stone_post?
+- adorn:byg/scoria_stone_post?
+- adorn:byg/scoria_cobblestone_post?
+- adorn:byg/scoria_stonebrick_post?
+- adorn:byg/soapstone_post?
+- adorn:byg/polished_soapstone_post?
+- adorn:byg/soapstone_brick_post?
+- adorn:byg/soapstone_tile_post?
+- adorn:byg/red_rock_post?
+- adorn:byg/red_rock_brick_post?
+- adorn:byg/mossy_red_rock_brick_post?
+- adorn:byg/cracked_red_rock_brick_post?
+- adorn:byg/chiseled_red_rock_brick_post?
+
+#c:seeds/rice
+- croptopia:rice_seed
+
+#c:saplings/peach
+- croptopia:peach_sapling
+
+#c:seeds/ginger
+- croptopia:ginger_seed
+
+#silky_spawners:allowed_tools
+- dragonloot:dragon_pickaxe
+
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+- #the_aether:aether_fences
+
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- minecraft:azalea
+- minecraft:flowering_azalea
+- bewitchment:juniper_sapling
+- bewitchment:cypress_sapling
+- bewitchment:elder_sapling
+- bewitchment:dragons_blood_sapling
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- minecraft:azalea
+- minecraft:flowering_azalea
+- #the_aether:aether_saplings
+- #c:saplings
+- blockus:white_oak_sapling
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- minecraft:azalea
+- minecraft:flowering_azalea
+- #appletreesrev:saplings
+- traverse:brown_autumnal_sapling
+- traverse:red_autumnal_sapling
+- traverse:yellow_autumnal_sapling
+- traverse:orange_autumnal_sapling
+- traverse:fir_sapling
+
+#c:diamond_dusts
+- indrev:diamond_dust
+
+#bewitchment:strong_wands
+- minecraft:end_rod
+- bewitchment:netherite_candelabra
+- bewitchment:scepter
+
+#c:orichalcum_blocks
+- mythicmetals:orichalcum_block
+
+#c:cobalt_ingots
+
+#c:steamed_rices
+- croptopia:steamed_rice
+
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+
+#croptopia:fishes
+- minecraft:cod
+- minecraft:salmon
+- minecraft:tropical_fish
+- minecraft:pufferfish
+
+#c:artichoke_dips
+- croptopia:artichoke_dip
+
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- bewitchment:juniper_fence
+- bewitchment:cypress_fence
+- bewitchment:elder_fence
+- bewitchment:dragons_blood_fence
+- blockus:bamboo_fence
+- blockus:charred_fence
+- blockus:white_oak_fence
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- appletreesrev:apple_fence
+- traverse:fir_fence
+
+#bewitchment:strong_pentacles
+- minecraft:dragon_head
+
+#bewitchment:barks
+- bewitchment:oak_bark
+- bewitchment:spruce_bark
+- bewitchment:birch_bark
+- bewitchment:juniper_bark
+- bewitchment:cypress_bark
+- bewitchment:elder_bark
+
+#c:bronze_blocks
+- mythicmetals:bronze_block
+- indrev:bronze_block
+
+#schmucks:lumberjack_likes
+- #minecraft:logs
+- #minecraft:saplings
+- minecraft:apple
+- minecraft:stick
+
+#c:cooking_pots
+- croptopia:cooking_pot
+
+#c:steel_nuggets
+- mythicmetals:steel_nugget
+- indrev:steel_nugget
+
+#c:fruits/bananas
+- croptopia:banana
+
+#c:dye_green
+- minecraft:green_dye
+
+#c:silver_plates
+- indrev:silver_plate
+
+#mythicmetals:hallowed_nuggets
+- mythicmetals:hallowed_nugget
+
+#c:tungsten_dusts
+- indrev:tungsten_dust
+
+#c:banana_smoothies
+- croptopia:banana_smoothie
+
+#c:strawberry_ice_creams
+- croptopia:strawberry_ice_cream
+
+#kibe:elevators
+- kibe:white_elevator
+- kibe:orange_elevator
+- kibe:magenta_elevator
+- kibe:light_blue_elevator
+- kibe:yellow_elevator
+- kibe:lime_elevator
+- kibe:pink_elevator
+- kibe:gray_elevator
+- kibe:light_gray_elevator
+- kibe:cyan_elevator
+- kibe:blue_elevator
+- kibe:purple_elevator
+- kibe:green_elevator
+- kibe:brown_elevator
+- kibe:red_elevator
+- kibe:black_elevator
+
+#changeling:ignore_diet
+
+#c:seeds
+- #c:seeds/artichoke
+- #c:seeds/asparagus
+- #c:seeds/barley
+- #c:seeds/basil
+- #c:seeds/bellpepper
+- #c:seeds/blackbean
+- #c:seeds/blackberry
+- #c:seeds/blueberry
+- #c:seeds/broccoli
+- #c:seeds/cabbage
+- #c:seeds/cantaloupe
+- #c:seeds/cauliflower
+- #c:seeds/celery
+- #c:seeds/chilepepper
+- #c:seeds/coffee
+- #c:seeds/corn
+- #c:seeds/cranberry
+- #c:seeds/cucumber
+- #c:seeds/currant
+- #c:seeds/eggplant
+- #c:seeds/elderberry
+- #c:seeds/garlic
+- #c:seeds/ginger
+- #c:seeds/grape
+- #c:seeds/greenbean
+- #c:seeds/greenonion
+- #c:seeds/honeydew
+- #c:seeds/hops
+- #c:seeds/kale
+- #c:seeds/kiwi
+- #c:seeds/leek
+- #c:seeds/lettuce
+- #c:seeds/mustard
+- #c:seeds/oat
+- #c:seeds/olive
+- #c:seeds/onion
+- #c:seeds/peanut
+- #c:seeds/pepper
+- #c:seeds/pineapple
+- #c:seeds/radish
+- #c:seeds/raspberry
+- #c:seeds/rhubarb
+- #c:seeds/rice
+- #c:seeds/rutabaga
+- #c:seeds/saguaro
+- #c:seeds/soybean
+- #c:seeds/spinach
+- #c:seeds/squash
+- #c:seeds/strawberry
+- #c:seeds/sweetpotato
+- #c:seeds/tea
+- #c:seeds/tomatillo
+- #c:seeds/tomato
+- #c:seeds/turmeric
+- #c:seeds/turnip
+- #c:seeds/yam
+- #c:seeds/zucchini
+
+#c:tofu_and_dumplings
+- croptopia:tofu_and_dumplings
+
+#trinkets:offhand/ring
+- the_aether:iron_ring
+- the_aether:golden_ring
+- the_aether:zanite_ring
+- the_aether:ice_ring
+
+#c:fruits/currants
+- croptopia:currant
+
+#mythicmetals:durasteel_nuggets
+- mythicmetals:durasteel_nugget
+
+#c:pork_and_beanss
+- croptopia:pork_and_beans
+
+#trinkets:hand/ring
+- the_aether:iron_ring
+- the_aether:golden_ring
+- the_aether:zanite_ring
+- the_aether:ice_ring
+- extraalchemy:potion_ring
+
+#changeling:meat
+- minecraft:rotten_flesh
+- minecraft:cod
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:salmon
+- minecraft:beef
+- minecraft:porkchop
+- minecraft:mutton
+- minecraft:chicken
+- minecraft:rabbit
+- minecraft:cooked_chicken
+- minecraft:cooked_rabbit
+- minecraft:rabbit_stew
+- minecraft:cooked_porkchop
+- minecraft:cooked_cod
+- minecraft:cooked_beef
+- minecraft:cooked_mutton
+- minecraft:cooked_salmon
+- minecraft:spider_eye
+
+#c:seeds/blackbean
+- croptopia:blackbean_seed
+
+#c:nuts
+- #c:nuts/almonds
+- #c:nuts/pecans
+- #c:nuts/walnuts
+
+#c:crops/hops
+- croptopia:hops
+
+#c:strawberry_smoothies
+- croptopia:strawberry_smoothie
+
+#c:seeds/celery
+- croptopia:celery_seed
+
+#mythicmetals:runite_blocks
+- mythicmetals:runite_block
+
+#c:cherry_pies
+- croptopia:cherry_pie
+
+#c:steel_ingots
+- mythicmetals:steel_ingot
+- indrev:steel_ingot
+
+#c:chicken_and_noodles
+- croptopia:chicken_and_noodles
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+- #the_aether:aether_trapdoors
+- blockus:paper_trapdoor
+- blockus:obsidian_reinforced_trapdoor
+- blockus:stone_trapdoor
+- blockus:blackstone_trapdoor
+
+#mythicmetals:midas_gold_ingots
+- mythicmetals:midas_gold_ingot
+
+#minecraft:boats
+- minecraft:oak_boat
+- minecraft:spruce_boat
+- minecraft:birch_boat
+- minecraft:jungle_boat
+- minecraft:acacia_boat
+- minecraft:dark_oak_boat
+- bewitchment:juniper_boat
+- bewitchment:cypress_boat
+- bewitchment:elder_boat
+- bewitchment:dragons_blood_boat
+- traverse:fir_boat
+
+#the_aether:aether_trapdoors
+- #the_aether:aether_wooden_trapdoors
+
+#c:fruits/almonds
+- croptopia:almond
+
+#c:saplings/pecan
+- croptopia:pecan_sapling
+
+#c:rubies
+
+#c:doughs
+- croptopia:dough
+
+#bewitchment:weak_pentacles
+- minecraft:diamond
+- minecraft:emerald
+- minecraft:quartz
+- minecraft:zombie_head
+- minecraft:skeleton_skull
+- minecraft:creeper_head
+- minecraft:player_head
+
+#the_aether:aether_stone_slabs
+- the_aether:angelic_slab
+- the_aether:carved_slab
+- the_aether:hellfire_slab
+- the_aether:holystone_brick_slab
+- the_aether:holystone_slab
+- the_aether:light_carved_slab
+- the_aether:light_angelic_slab
+- the_aether:light_hellfire_slab
+- the_aether:mossy_holystone_slab
+- the_aether:light_sentry_slab
+- the_aether:sentry_slab
+- the_aether:cobbled_holystone_slab
+
+#c:vegetables/cabbage
+- croptopia:cabbage
+
+#curios:cosmetic_boots
+- adventurez:stone_golem_boots
+- #fabric:boots
+
+#bewitchment:cypress_logs
+- bewitchment:cypress_log
+- bewitchment:cypress_wood
+- bewitchment:stripped_cypress_log
+- bewitchment:stripped_cypress_wood
+
+#extraorigins:netherite_armor
+- minecraft:netherite_helmet
+- minecraft:netherite_chestplate
+- minecraft:netherite_leggings
+- minecraft:netherite_boots
+
+#c:food_press
+- croptopia:food_press
+
+#c:skulls
+- minecraft:zombie_head
+- minecraft:skeleton_skull
+- minecraft:wither_skeleton_skull
+- minecraft:creeper_head
+- minecraft:dragon_head
+- minecraft:player_head
+
+#minecraft:copper_ores
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+- universal_ores:andesite_copper_ore
+- universal_ores:diorite_copper_ore
+- universal_ores:granite_copper_ore
+- universal_ores:tuff_copper_ore
+
+#nourish:fruit
+- bewitchment:witchberry
+- bewitchment:witchberry_pie
+- bewitchment:witchberry_cookie
+- croptopia:blackberry
+- croptopia:blueberry
+- croptopia:cantaloupe
+- croptopia:cranberry
+- croptopia:currant
+- croptopia:elderberry
+- croptopia:grape
+- croptopia:honeydew
+- croptopia:kiwi
+- croptopia:pineapple
+- croptopia:raspberry
+- croptopia:saguaro
+- croptopia:strawberry
+- croptopia:orange
+- croptopia:banana
+- croptopia:persimmon
+- croptopia:plum
+- croptopia:cherry
+- croptopia:lemon
+- croptopia:grapefruit
+- croptopia:kumquat
+- croptopia:peach
+- croptopia:coconut
+- croptopia:nutmeg
+- croptopia:fig
+- croptopia:nectarine
+- croptopia:mango
+- croptopia:dragonfruit
+- croptopia:starfruit
+- croptopia:avocado
+- croptopia:apricot
+- croptopia:pear
+- croptopia:lime
+- croptopia:date
+- croptopia:grape_juice
+- croptopia:orange_juice
+- croptopia:apple_juice
+- croptopia:cranberry_juice
+- croptopia:saguaro_juice
+- croptopia:melon_juice
+- croptopia:pineapple_juice
+- croptopia:lemonade
+- croptopia:limeade
+- croptopia:strawberry_smoothie
+- croptopia:banana_smoothie
+- croptopia:fruit_smoothie
+- croptopia:grape_jam
+- croptopia:strawberry_jam
+- croptopia:peach_jam
+- croptopia:apricot_jam
+- croptopia:blackberry_jam
+- croptopia:blueberry_jam
+- croptopia:cherry_jam
+- croptopia:elderberry_jam
+- croptopia:raspberry_jam
+- croptopia:raisins
+- croptopia:fruit_salad
+- croptopia:toast_with_jam
+- croptopia:peanut_butter_and_jam
+- croptopia:pineapple_pepperoni_pizza
+- croptopia:apple_pie
+- croptopia:banana_cream_pie
+- croptopia:strawberry_ice_cream
+- croptopia:mango_ice_cream
+- croptopia:rum_raisin_ice_cream
+- croptopia:cherry_pie
+- croptopia:banana_nut_bread
+- croptopia:almond
+- croptopia:cashew
+- croptopia:pecan
+- croptopia:walnut
+- croptopia:quesadilla
+- croptopia:eton_mess
+- croptopia:scones
+- croptopia:figgy_pudding
+- croptopia:treacle_tart
+
+#c:fruits/walnuts
+- croptopia:walnut
+
+#blockus:stained_stone_bricks
+- blockus:white_stone_bricks
+- blockus:orange_stone_bricks
+- blockus:magenta_stone_bricks
+- blockus:light_blue_stone_bricks
+- blockus:yellow_stone_bricks
+- blockus:lime_stone_bricks
+- blockus:pink_stone_bricks
+- blockus:gray_stone_bricks
+- minecraft:stone_bricks
+- blockus:cyan_stone_bricks
+- blockus:purple_stone_bricks
+- blockus:blue_stone_bricks
+- blockus:brown_stone_bricks
+- blockus:green_stone_bricks
+- blockus:red_stone_bricks
+- blockus:black_stone_bricks
+
+#c:jams/blackberry_jam
+- croptopia:blackberry_jam
+
+#c:buttered_toasts
+- croptopia:buttered_toast
+
+#c:fruits/pecans
+- croptopia:pecan
+
+#the_aether:milk_buckets
+- the_aether:skyroot_milk_bucket
+- minecraft:milk_bucket
+
+#c:seeds/oat
+- croptopia:oat_seed
+
+#c:wooden_chests
+- minecraft:chest
+- minecraft:trapped_chest
+- charm:acacia_chest?
+- charm:acacia_trapped_chest?
+- charm:birch_chest?
+- charm:birch_trapped_chest?
+- charm:crimson_chest?
+- charm:crimson_trapped_chest?
+- charm:dark_oak_chest?
+- charm:dark_oak_trapped_chest?
+- charm:jungle_chest?
+- charm:jungle_trapped_chest?
+- charm:oak_chest?
+- charm:oak_trapped_chest?
+- charm:spruce_chest?
+- charm:spruce_trapped_chest?
+- charm:warped_chest?
+- charm:warped_trapped_chest?
+- packed:oak_chest_default?
+- packed:spruce_chest_default?
+- packed:birch_chest_default?
+- packed:acacia_chest_default?
+- packed:jungle_chest_default?
+- packed:dark_oak_chest_default?
+- packed:crimson_chest_default?
+- packed:warped_chest_default?
+
+#c:seeds/cantaloupe
+- croptopia:cantaloupe_seed
+
+#c:rums
+- croptopia:rum
+
+#c:osmium_nuggets
+- mythicmetals:osmium_nugget
+
+#extraorigins:golden_armor
+- minecraft:golden_helmet
+- minecraft:golden_chestplate
+- minecraft:golden_leggings
+- minecraft:golden_boots
+
+#c:seeds/greenbean
+- croptopia:greenbean_seed
+
+#c:leafy_salads
+- croptopia:leafy_salad
+
+#c:steel_plates
+- indrev:steel_plate
+
+#minecraft:axolotl_tempt_items
+- minecraft:tropical_fish_bucket
+
+#c:raw_silvers
+- bewitchment:raw_silver
+
+#mythicmetals:starrite_blocks
+- mythicmetals:starrite_block
+
+#c:vanilla_ice_creams
+- croptopia:vanilla_ice_cream
+
+#c:crops/blackbeans
+- croptopia:blackbean
+
+#mythicmetals:stormyx_ingots
+- mythicmetals:stormyx_ingot
+
+#tooltiprareness:common_item
+- adventurez:orc_skin
+- adventurez:dragon_saddle
+
+#piglib:piglin_bartering_items
+- mythicmetals:midas_gold_ingot
+
+#c:saplings/nectarine
+- croptopia:nectarine_sapling
+
+#the_aether:aether_stone_blocks
+- #the_aether:aether_stone_slabs
+- #the_aether:aether_stone_stairs
+- #the_aether:aether_stone_walls
+- the_aether:holystone
+- the_aether:cobbled_holystone
+- the_aether:holystone_brick
+- the_aether:mossy_holystone
+- the_aether:golden_mossy_holystone
+- the_aether:angelic_stone
+- the_aether:angelic_stone_cracked
+- the_aether:carved_stone
+- the_aether:hellfire_stone
+- the_aether:hellfire_stone_cracked
+- the_aether:light_angelic_stone
+- the_aether:light_carved_stone
+
+#c:wines
+- croptopia:wine
+
+#c:brownies
+- croptopia:brownies
+
+#c:sapphires
+
+#c:books
+- minecraft:book
+- minecraft:enchanted_book
+
+#c:seeds/garlic
+- croptopia:garlic_seed
+
+#bewitchment:altars
+- bewitchment:stone_witch_altar
+- bewitchment:mossy_cobblestone_witch_altar
+- bewitchment:prismarine_witch_altar
+- bewitchment:nether_brick_witch_altar
+- bewitchment:blackstone_witch_altar
+- bewitchment:golden_witch_altar
+- bewitchment:end_stone_witch_altar
+- bewitchment:obsidian_witch_altar
+- bewitchment:purpur_witch_altar
+
+#extragenerators:red_items
+- minecraft:crimson_nylium
+- minecraft:nether_gold_ore
+- minecraft:crimson_hyphae
+- minecraft:red_wool
+- minecraft:poppy
+- minecraft:red_tulip
+- minecraft:red_mushroom
+- minecraft:crimson_roots
+- minecraft:weeping_vines
+- minecraft:tnt
+- minecraft:netherrack
+- minecraft:red_mushroom_block
+- minecraft:red_nether_brick_wall
+- minecraft:redstone_block
+- minecraft:nether_quartz_ore
+- minecraft:red_terracotta
+- minecraft:red_carpet
+- minecraft:rose_bush
+- minecraft:red_stained_glass
+- minecraft:red_stained_glass_pane
+- minecraft:nether_wart_block
+- minecraft:red_nether_bricks
+- minecraft:red_shulker_box
+- minecraft:red_glazed_terracotta
+- minecraft:red_concrete
+- minecraft:red_concrete_powder
+- minecraft:fire_coral_block
+- minecraft:fire_coral
+- minecraft:fire_coral_fan
+- minecraft:red_nether_brick_stairs
+- minecraft:red_nether_brick_slab
+- minecraft:apple
+- minecraft:redstone
+- minecraft:red_dye
+- minecraft:red_bed
+- minecraft:melon_slice
+- minecraft:beef
+- minecraft:nether_wart
+- minecraft:spider_eye
+- minecraft:fermented_spider_eye
+- minecraft:glistering_melon_slice
+- minecraft:mutton
+- minecraft:red_banner
+- minecraft:beetroot
+- minecraft:beetroot_soup
+- minecraft:sweet_berries
+
+#atbyw:pistons
+- minecraft:piston
+- atbyw:spruce_piston
+- atbyw:birch_piston
+- atbyw:jungle_piston
+- atbyw:acacia_piston
+- atbyw:dark_oak_piston
+- atbyw:crimson_piston
+- atbyw:warped_piston
+- minecraft:sticky_piston
+- atbyw:spruce_sticky_piston
+- atbyw:birch_sticky_piston
+- atbyw:jungle_sticky_piston
+- atbyw:acacia_sticky_piston
+- atbyw:dark_oak_sticky_piston
+- atbyw:crimson_sticky_piston
+- atbyw:warped_sticky_piston
+
+#c:tungsten_ores
+- indrev:tungsten_ore
+- indrev:deepslate_tungsten_ore
+
+#tooltiprareness:uncommon_item
+- adventurez:gilded_stone
+
+#the_aether:aether_planks
+- the_aether:skyroot_planks
+- the_aether:golden_oak_planks
+- the_aether:crystal_planks
+- the_aether:wisteria_planks
+- the_aether:orange_planks
+
+#adorn:wooden_shelves
+- adorn:oak_shelf
+- adorn:spruce_shelf
+- adorn:birch_shelf
+- adorn:jungle_shelf
+- adorn:acacia_shelf
+- adorn:dark_oak_shelf
+- adorn:crimson_shelf
+- adorn:warped_shelf
+- adorn:traverse/fir_shelf?
+- adorn:terrestria/cypress_shelf?
+- adorn:terrestria/hemlock_shelf?
+- adorn:terrestria/japanese_maple_shelf?
+- adorn:terrestria/rainbow_eucalyptus_shelf?
+- adorn:terrestria/redwood_shelf?
+- adorn:terrestria/rubber_shelf?
+- adorn:terrestria/sakura_shelf?
+- adorn:terrestria/willow_shelf?
+- adorn:terrestria/yucca_palm_shelf?
+- adorn:woods_and_mires/pine_shelf?
+- adorn:byg/aspen_shelf?
+- adorn:byg/baobab_shelf?
+- adorn:byg/blue_enchanted_shelf?
+- adorn:byg/bulbis_shelf?
+- adorn:byg/cherry_shelf?
+- adorn:byg/cika_shelf?
+- adorn:byg/cypress_shelf?
+- adorn:byg/ebony_shelf?
+- adorn:byg/embur_shelf?
+- adorn:byg/ether_shelf?
+- adorn:byg/fir_shelf?
+- adorn:byg/green_enchanted_shelf?
+- adorn:byg/holly_shelf?
+- adorn:byg/jacaranda_shelf?
+- adorn:byg/lament_shelf?
+- adorn:byg/mahogany_shelf?
+- adorn:byg/mangrove_shelf?
+- adorn:byg/maple_shelf?
+- adorn:byg/nightshade_shelf?
+- adorn:byg/palm_shelf?
+- adorn:byg/pine_shelf?
+- adorn:byg/rainbow_eucalyptus_shelf?
+- adorn:byg/redwood_shelf?
+- adorn:byg/skyris_shelf?
+- adorn:byg/sythian_shelf?
+- adorn:byg/willow_shelf?
+- adorn:byg/witch_hazel_shelf?
+- adorn:byg/zelkova_shelf?
+- adorn:biomemakeover/blighted_balsa_shelf?
+- adorn:biomemakeover/swamp_cypress_shelf?
+- adorn:biomemakeover/willow_shelf?
+- adorn:cinderscapes/scorched_shelf?
+- adorn:cinderscapes/umbral_shelf?
+
+#bewitchment:location_holders
+- bewitchment:taglock
+- bewitchment:waystone
+
+#c:manganese_nuggets
+- mythicmetals:manganese_nugget
+
+#c:candy_corns
+- croptopia:candy_corn
+
+#c:seeds/honeydew
+- croptopia:honeydew_seed
+
+#doom:glass
+- minecraft:glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+- minecraft:tinted_glass
+
+#c:thorium_ingots
+
+#c:manganese_ores
+- mythicmetals:manganese_ore
+
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+- blockus:birch_small_logs
+
+#mythicmetals:aetherium_ores
+- mythicmetals:aetherium_ore
+
+#c:vegetables/mustard
+- croptopia:mustard
+
+#c:oatmeals
+- croptopia:oatmeal
+
+#atbyw:tab_blocks
+- atbyw:granite_tiles
+- atbyw:diorite_bricks
+- atbyw:andesite_bricks
+- atbyw:granite_tiles_stairs
+- atbyw:diorite_bricks_stairs
+- atbyw:andesite_bricks_stairs
+- atbyw:granite_tiles_slab
+- atbyw:diorite_bricks_slab
+- atbyw:andesite_bricks_slab
+- atbyw:grass_block_stairs
+- atbyw:dirt_stairs
+- atbyw:coarse_dirt_stairs
+- atbyw:podzol_stairs
+- atbyw:rooted_dirt_stairs
+- atbyw:mycelium_stairs
+- atbyw:grass_path_stairs
+- atbyw:crimson_nylium_stairs
+- atbyw:warped_nylium_stairs
+- atbyw:netherrack_stairs
+- atbyw:sand_stairs
+- atbyw:red_sand_stairs
+- atbyw:gravel_stairs
+- atbyw:grass_block_slab
+- atbyw:dirt_slab
+- atbyw:coarse_dirt_slab
+- atbyw:podzol_slab
+- atbyw:rooted_dirt_slab
+- atbyw:mycelium_slab
+- atbyw:grass_path_slab
+- atbyw:crimson_nylium_slab
+- atbyw:warped_nylium_slab
+- atbyw:netherrack_slab
+- atbyw:sand_slab
+- atbyw:red_sand_slab
+- atbyw:gravel_slab
+- atbyw:soul_jack_o_lantern
+- atbyw:spruce_bookshelf
+- atbyw:birch_bookshelf
+- atbyw:jungle_bookshelf
+- atbyw:acacia_bookshelf
+- atbyw:dark_oak_bookshelf
+- atbyw:crimson_bookshelf
+- atbyw:warped_bookshelf
+- atbyw:purpur_tiles
+- atbyw:chiseled_purpur_block
+- atbyw:cut_purpur_block
+- atbyw:smooth_purpur_block
+- atbyw:purpur_tiles_stairs
+- atbyw:cut_purpur_stairs
+- atbyw:smooth_purpur_stairs
+- atbyw:purpur_tiles_slab
+- atbyw:cut_purpur_slab
+- atbyw:smooth_purpur_slab
+- atbyw:compacted_snow_block
+- atbyw:compacted_snow_bricks
+- atbyw:chiseled_compacted_snow_bricks
+- atbyw:packed_ice_bricks
+- atbyw:chiseled_packed_ice_bricks
+- atbyw:blue_ice_bricks
+- atbyw:chiseled_blue_ice_bricks
+- atbyw:compacted_snow_block_stairs
+- atbyw:compacted_snow_bricks_stairs
+- atbyw:packed_ice_stairs
+- atbyw:blue_ice_stairs
+- atbyw:packed_ice_bricks_stairs
+- atbyw:blue_ice_bricks_stairs
+- atbyw:compacted_snow_block_slab
+- atbyw:compacted_snow_bricks_slab
+- atbyw:packed_ice_slab
+- atbyw:blue_ice_slab
+- atbyw:packed_ice_bricks_slab
+- atbyw:blue_ice_bricks_slab
+- atbyw:basalt_bricks
+- atbyw:basalt_pillar
+- atbyw:terracotta_stairs
+- atbyw:white_terracotta_stairs
+- atbyw:orange_terracotta_stairs
+- atbyw:magenta_terracotta_stairs
+- atbyw:light_blue_terracotta_stairs
+- atbyw:yellow_terracotta_stairs
+- atbyw:lime_terracotta_stairs
+- atbyw:pink_terracotta_stairs
+- atbyw:gray_terracotta_stairs
+- atbyw:light_gray_terracotta_stairs
+- atbyw:cyan_terracotta_stairs
+- atbyw:purple_terracotta_stairs
+- atbyw:blue_terracotta_stairs
+- atbyw:brown_terracotta_stairs
+- atbyw:green_terracotta_stairs
+- atbyw:red_terracotta_stairs
+- atbyw:black_terracotta_stairs
+- atbyw:terracotta_slab
+- atbyw:white_terracotta_slab
+- atbyw:orange_terracotta_slab
+- atbyw:magenta_terracotta_slab
+- atbyw:light_blue_terracotta_slab
+- atbyw:yellow_terracotta_slab
+- atbyw:lime_terracotta_slab
+- atbyw:pink_terracotta_slab
+- atbyw:gray_terracotta_slab
+- atbyw:light_gray_terracotta_slab
+- atbyw:cyan_terracotta_slab
+- atbyw:purple_terracotta_slab
+- atbyw:blue_terracotta_slab
+- atbyw:brown_terracotta_slab
+- atbyw:green_terracotta_slab
+- atbyw:red_terracotta_slab
+- atbyw:black_terracotta_slab
+- atbyw:terracotta_bricks
+- atbyw:white_terracotta_bricks
+- atbyw:orange_terracotta_bricks
+- atbyw:magenta_terracotta_bricks
+- atbyw:light_blue_terracotta_bricks
+- atbyw:yellow_terracotta_bricks
+- atbyw:lime_terracotta_bricks
+- atbyw:pink_terracotta_bricks
+- atbyw:gray_terracotta_bricks
+- atbyw:light_gray_terracotta_bricks
+- atbyw:cyan_terracotta_bricks
+- atbyw:purple_terracotta_bricks
+- atbyw:blue_terracotta_bricks
+- atbyw:brown_terracotta_bricks
+- atbyw:green_terracotta_bricks
+- atbyw:red_terracotta_bricks
+- atbyw:black_terracotta_bricks
+- atbyw:terracotta_bricks_stairs
+- atbyw:white_terracotta_bricks_stairs
+- atbyw:orange_terracotta_bricks_stairs
+- atbyw:magenta_terracotta_bricks_stairs
+- atbyw:light_blue_terracotta_bricks_stairs
+- atbyw:yellow_terracotta_bricks_stairs
+- atbyw:lime_terracotta_bricks_stairs
+- atbyw:pink_terracotta_bricks_stairs
+- atbyw:gray_terracotta_bricks_stairs
+- atbyw:light_gray_terracotta_bricks_stairs
+- atbyw:cyan_terracotta_bricks_stairs
+- atbyw:purple_terracotta_bricks_stairs
+- atbyw:blue_terracotta_bricks_stairs
+- atbyw:brown_terracotta_bricks_stairs
+- atbyw:green_terracotta_bricks_stairs
+- atbyw:red_terracotta_bricks_stairs
+- atbyw:black_terracotta_bricks_stairs
+- atbyw:terracotta_bricks_slab
+- atbyw:white_terracotta_bricks_slab
+- atbyw:orange_terracotta_bricks_slab
+- atbyw:magenta_terracotta_bricks_slab
+- atbyw:light_blue_terracotta_bricks_slab
+- atbyw:yellow_terracotta_bricks_slab
+- atbyw:lime_terracotta_bricks_slab
+- atbyw:pink_terracotta_bricks_slab
+- atbyw:gray_terracotta_bricks_slab
+- atbyw:light_gray_terracotta_bricks_slab
+- atbyw:cyan_terracotta_bricks_slab
+- atbyw:purple_terracotta_bricks_slab
+- atbyw:blue_terracotta_bricks_slab
+- atbyw:brown_terracotta_bricks_slab
+- atbyw:green_terracotta_bricks_slab
+- atbyw:red_terracotta_bricks_slab
+- atbyw:black_terracotta_bricks_slab
+- atbyw:white_concrete_stairs
+- atbyw:orange_concrete_stairs
+- atbyw:magenta_concrete_stairs
+- atbyw:light_blue_concrete_stairs
+- atbyw:yellow_concrete_stairs
+- atbyw:lime_concrete_stairs
+- atbyw:pink_concrete_stairs
+- atbyw:gray_concrete_stairs
+- atbyw:light_gray_concrete_stairs
+- atbyw:cyan_concrete_stairs
+- atbyw:purple_concrete_stairs
+- atbyw:blue_concrete_stairs
+- atbyw:brown_concrete_stairs
+- atbyw:green_concrete_stairs
+- atbyw:red_concrete_stairs
+- atbyw:black_concrete_stairs
+- atbyw:white_concrete_slab
+- atbyw:orange_concrete_slab
+- atbyw:magenta_concrete_slab
+- atbyw:light_blue_concrete_slab
+- atbyw:yellow_concrete_slab
+- atbyw:lime_concrete_slab
+- atbyw:pink_concrete_slab
+- atbyw:gray_concrete_slab
+- atbyw:light_gray_concrete_slab
+- atbyw:cyan_concrete_slab
+- atbyw:purple_concrete_slab
+- atbyw:blue_concrete_slab
+- atbyw:brown_concrete_slab
+- atbyw:green_concrete_slab
+- atbyw:red_concrete_slab
+- atbyw:black_concrete_slab
+- atbyw:white_cinder_bricks
+- atbyw:orange_cinder_bricks
+- atbyw:magenta_cinder_bricks
+- atbyw:light_blue_cinder_bricks
+- atbyw:yellow_cinder_bricks
+- atbyw:lime_cinder_bricks
+- atbyw:pink_cinder_bricks
+- atbyw:gray_cinder_bricks
+- atbyw:light_gray_cinder_bricks
+- atbyw:cyan_cinder_bricks
+- atbyw:purple_cinder_bricks
+- atbyw:blue_cinder_bricks
+- atbyw:brown_cinder_bricks
+- atbyw:green_cinder_bricks
+- atbyw:red_cinder_bricks
+- atbyw:black_cinder_bricks
+
+#c:scrambled_eggs
+- croptopia:scrambled_eggs
+
+#c:tungsten_blocks
+- indrev:tungsten_block
+
+#c:ravioli
+- croptopia:ravioli
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+- blockus:oak_small_logs
+
+#atbyw:sticks
+- atbyw_mi:stalagnate_stick
+- atbyw_mi:reeds_stick
+- atbyw_mi:willow_stick
+- atbyw_mi:wart_stick
+- atbyw_mi:rubeus_stick
+- atbyw_mi:mushroom_stick
+- atbyw_mi:mushroom_fir_stick
+- atbyw_mi:anchor_tree_stick
+- atbyw_mi:nether_sakura_stick
+- atbyw_mi:mossy_glowshroom_stick
+- atbyw_mi:pythadendron_stick
+- atbyw_mi:end_lotus_stick
+- atbyw_mi:lacugrove_stick
+- atbyw_mi:dragon_tree_stick
+- atbyw_mi:tenanea_stick
+- atbyw_mi:helix_tree_stick
+- atbyw_mi:umbrella_tree_stick
+
+#changeling:ranged_weapons
+- minecraft:bow
+- minecraft:crossbow
+- minecraft:trident
+
+#mythicmetals:kyber_ingots
+- mythicmetals:kyber_ingot
+
+#mythicmetals:unobtainium_ores
+- mythicmetals:unobtainium_ore
+- mythicmetals:deepslate_unobtainium_ore
+
+#c:trail_mixes
+- croptopia:trail_mix
+
+#c:salt_ores
+- bewitchment:salt_ore
+- bewitchment:deepslate_salt_ore
+- croptopia:salt_ore
+
+#c:veggie_salads
+- croptopia:veggie_salad
+
+#c:vegetables/squash
+- croptopia:squash
+
+#blockus:barrels
+- blockus:oak_barrel
+- minecraft:barrel
+- blockus:birch_barrel
+- blockus:jungle_barrel
+- blockus:acacia_barrel
+- blockus:dark_oak_barrel
+- blockus:crimson_barrel
+- blockus:warped_barrel
+- blockus:bamboo_barrel
+- blockus:charred_barrel
+- blockus:white_oak_barrel
+
+#c:grilled_cheeses
+- croptopia:grilled_cheese
+
+#c:electrum_plates
+- indrev:electrum_plate
+
+#c:mango_ice_creams
+- croptopia:mango_ice_cream
+
+#schmucks:ranger_likes
+- #minecraft:arrows
+
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+- blockus:jungle_small_logs
+
+#c:vegetables/tomatillos
+- croptopia:tomatillo
+
+#minecraft:lectern_books
+- minecraft:written_book
+- minecraft:writable_book
+- patchouli:guide_book
+
+#adorn:wooden_platforms
+- adorn:oak_platform
+- adorn:spruce_platform
+- adorn:birch_platform
+- adorn:jungle_platform
+- adorn:acacia_platform
+- adorn:dark_oak_platform
+- adorn:crimson_platform
+- adorn:warped_platform
+- adorn:traverse/fir_platform?
+- adorn:terrestria/cypress_platform?
+- adorn:terrestria/hemlock_platform?
+- adorn:terrestria/japanese_maple_platform?
+- adorn:terrestria/rainbow_eucalyptus_platform?
+- adorn:terrestria/redwood_platform?
+- adorn:terrestria/rubber_platform?
+- adorn:terrestria/sakura_platform?
+- adorn:terrestria/willow_platform?
+- adorn:terrestria/yucca_palm_platform?
+- adorn:woods_and_mires/pine_platform?
+- adorn:byg/aspen_platform?
+- adorn:byg/baobab_platform?
+- adorn:byg/blue_enchanted_platform?
+- adorn:byg/bulbis_platform?
+- adorn:byg/cherry_platform?
+- adorn:byg/cika_platform?
+- adorn:byg/cypress_platform?
+- adorn:byg/ebony_platform?
+- adorn:byg/embur_platform?
+- adorn:byg/ether_platform?
+- adorn:byg/fir_platform?
+- adorn:byg/green_enchanted_platform?
+- adorn:byg/holly_platform?
+- adorn:byg/jacaranda_platform?
+- adorn:byg/lament_platform?
+- adorn:byg/mahogany_platform?
+- adorn:byg/mangrove_platform?
+- adorn:byg/maple_platform?
+- adorn:byg/nightshade_platform?
+- adorn:byg/palm_platform?
+- adorn:byg/pine_platform?
+- adorn:byg/rainbow_eucalyptus_platform?
+- adorn:byg/redwood_platform?
+- adorn:byg/skyris_platform?
+- adorn:byg/sythian_platform?
+- adorn:byg/willow_platform?
+- adorn:byg/witch_hazel_platform?
+- adorn:byg/zelkova_platform?
+- adorn:biomemakeover/blighted_balsa_platform?
+- adorn:biomemakeover/swamp_cypress_platform?
+- adorn:biomemakeover/willow_platform?
+- adorn:cinderscapes/scorched_platform?
+- adorn:cinderscapes/umbral_platform?
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+- blockus:spruce_small_logs
+
+#nourish:vegetables
+- bewitchment:garlic
+- bewitchment:grilled_garlic
+- bewitchment:garlic_bread
+- croptopia:artichoke
+- croptopia:asparagus
+- croptopia:bellpepper
+- croptopia:broccoli
+- croptopia:cabbage
+- croptopia:cauliflower
+- croptopia:celery
+- croptopia:corn
+- croptopia:cucumber
+- croptopia:eggplant
+- croptopia:garlic
+- croptopia:greenbean
+- croptopia:greenonion
+- croptopia:kale
+- croptopia:leek
+- croptopia:lettuce
+- croptopia:olive
+- croptopia:onion
+- croptopia:radish
+- croptopia:rhubarb
+- croptopia:rutabaga
+- croptopia:soybean
+- croptopia:spinach
+- croptopia:squash
+- croptopia:sweetpotato
+- croptopia:tomatillo
+- croptopia:tomato
+- croptopia:turnip
+- croptopia:yam
+- croptopia:zucchini
+- croptopia:tofu
+- croptopia:salsa
+- croptopia:artichoke_dip
+- croptopia:tomato_juice
+- croptopia:kale_smoothie
+- croptopia:kale_chips
+- croptopia:potato_chips
+- croptopia:french_fries
+- croptopia:sweet_potato_fries
+- croptopia:onion_rings
+- croptopia:cucumber_salad
+- croptopia:caesar_salad
+- croptopia:leafy_salad
+- croptopia:veggie_salad
+- croptopia:leek_soup
+- croptopia:blt
+- croptopia:tofuburger
+- croptopia:spaghetti_squash
+- croptopia:taco
+- croptopia:burrito
+- croptopia:tostada
+- croptopia:carnitas
+- croptopia:fajitas
+- croptopia:enchilada
+- croptopia:tamales
+- croptopia:stuffed_poblanos
+- croptopia:chili_relleno
+- croptopia:refried_beans
+- croptopia:shepherds_pie
+- croptopia:cornish_pasty
+
+#c:quicksilver_blocks
+- mythicmetals:quicksilver_block
+
+#c:crops/peanuts
+- croptopia:peanut
+
+#c:seeds/rhubarb
+- croptopia:rhubarb_seed
+
+#hellish-materials:batet
+- hellish-materials:batet_ore
+- hellish-materials:batet_block
+- hellish-materials:batet_helm
+- hellish-materials:batet_chestplate
+- hellish-materials:batet_leggings
+- hellish-materials:batet_boots
+- hellish-materials:batet_gem
+- hellish-materials:batet_fragment
+- hellish-materials:batet_axe
+- hellish-materials:batet_hoe
+- hellish-materials:batet_pickaxe
+- hellish-materials:batet_shovel
+- hellish-materials:batet_sword
+- hellish-materials:moratorium
+
+#c:tea_leaves
+- croptopia:tea_leaves
+
+#the_aether:aether_stone_walls
+- the_aether:angelic_wall
+- the_aether:carved_wall
+- the_aether:hellfire_wall
+- the_aether:holystone_brick_wall
+- the_aether:holystone_wall
+- the_aether:light_angelic_wall
+- the_aether:light_carved_wall
+- the_aether:light_hellfire_wall
+- the_aether:mossy_holystone_wall
+- the_aether:sentry_wall
+- the_aether:light_sentry_wall
+- the_aether:cobbled_holystone_wall
+
+#c:copper_wires
+- agape_space:copper_wire
+
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+- minecraft:flowering_azalea_leaves
+- minecraft:flowering_azalea
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+- minecraft:flowering_azalea_leaves
+- minecraft:flowering_azalea
+- #the_aether:aether_flowers
+- blockus:azalea_small_hedge_flowers
+
+#c:concrete
+- minecraft:white_concrete
+- minecraft:orange_concrete
+- minecraft:magenta_concrete
+- minecraft:light_blue_concrete
+- minecraft:yellow_concrete
+- minecraft:lime_concrete
+- minecraft:pink_concrete
+- minecraft:gray_concrete
+- minecraft:light_gray_concrete
+- minecraft:cyan_concrete
+- minecraft:purple_concrete
+- minecraft:blue_concrete
+- minecraft:brown_concrete
+- minecraft:green_concrete
+- minecraft:red_concrete
+- minecraft:black_concrete
+
+#c:vegetables/radishes
+- croptopia:radish
+
+#mythicmetals:prometheum_blocks
+- mythicmetals:prometheum_block
+
+#fabric:swords
+- bewitchment:athame
+- bewitchment:horned_spear
+- the_aether:zanite_sword
+- the_aether:gravitite_sword
+- the_aether:valkyrie_lance
+- the_aether:lightning_sword
+- the_aether:holy_sword
+- the_aether:flaming_sword
+- the_aether:candy_cane_sword
+- the_aether:gravitite_sword
+- the_aether:vampire_blade
+- the_aether:pig_slayer
+- mcdw:sword_claymore
+- mcdw:sword_broadsword
+- mcdw:sword_frost_slayer
+- mcdw:sword_heartstealer
+- mcdw:sword_great_axeblade
+- mcdw:sword_rapier
+- mcdw:sword_beestinger
+- mcdw:sword_freezing_foil
+- mcdw:sword_cutlass
+- mcdw:sword_nameless_blade
+- mcdw:sword_dancers_sword
+- mcdw:sword_katana
+- mcdw:sword_masters_katana
+- mcdw:sword_dark_katana
+- mcdw:sword_iron_sword_var
+- mcdw:sword_diamond_sword_var
+- mcdw:sword_hawkbrand
+- mcdw:sword_broken_sawblade
+- mcdw:sword_mechanized_sawblade
+- mcdw:sword_coral_blade
+- mcdw:sword_sponge_striker
+- mcdw:dagger_dagger
+- mcdw:dagger_fangs_of_frost
+- mcdw:dagger_moon
+- mcdw:dagger_shear_dagger
+- mcdw:dagger_tempest_knife
+- mcdw:dagger_resolute_tempest_knife
+- mcdw:dagger_chill_gale_knife
+- mcdw:dagger_soul_knife
+- mcdw:dagger_eternal_knife
+- mcdw:sword_truthseeker
+- mcdw:hammer_great
+- mcdw:hammer_stormlander
+- mcdw:hammer_gravity
+- mcdw:hammer_flail
+- mcdw:hammer_suns_grace
+- mcdw:hammer_boneclub
+- mcdw:hammer_bone_cudgel
+- mcdw:gauntlet_gauntlet
+- mcdw:gauntlet_maulers
+- mcdw:gauntlet_soul_fists
+- mcdw:sickle_sickle
+- mcdw:sickle_nightmares_bite
+- mcdw:sickle_last_laugh_gold
+- mcdw:sickle_last_laugh_silver
+- mcdw:sickle_jailors_scythe
+- mcdw:sickle_soul_scythe
+- mcdw:sickle_frost_scythe
+- mcdw:spear_glaive
+- mcdw:spear_grave_bane
+- mcdw:spear_venom_glaive
+- dimdoors:rift_blade
+- dragonloot:dragon_sword
+- mythicmetals:adamantite_sword
+- mythicmetals:aetherium_sword
+- mythicmetals:aquarium_sword
+- mythicmetals:banglum_sword
+- mythicmetals:bronze_sword
+- mythicmetals:carmot_sword
+- mythicmetals:celestium_sword
+- mythicmetals:copper_sword
+- mythicmetals:discordium_sword
+- mythicmetals:durasteel_sword
+- mythicmetals:etherite_sword
+- mythicmetals:hallowed_sword
+- mythicmetals:kyber_sword
+- mythicmetals:metallurgium_sword
+- mythicmetals:mythril_sword
+- mythicmetals:orichalcum_sword
+- mythicmetals:osmium_sword
+- mythicmetals:palladium_sword
+- mythicmetals:prometheum_sword
+- mythicmetals:quadrillum_sword
+- mythicmetals:quicksilver_sword
+- mythicmetals:runite_sword
+- mythicmetals:silver_sword
+- mythicmetals:star_platinum_sword
+- mythicmetals:steel_sword
+- mythicmetals:stormyx_sword
+- indrev:tin_sword
+- indrev:copper_sword
+- indrev:steel_sword
+- indrev:lead_sword
+- indrev:silver_sword
+- indrev:bronze_sword
+- hellish-materials:luss_sword
+- hellish-materials:batet_sword
+- hellish-materials:vuld_sword
+- minecraft:wooden_sword
+- minecraft:stone_sword
+- minecraft:iron_sword
+- minecraft:golden_sword
+- minecraft:diamond_sword
+- minecraft:netherite_sword
+- gobber2:gobber2_sword?
+- gobber2:gobber2_sword_nether?
+- gobber2:gobber2_sword_end?
+- gobber2:gobber2_sword_sniper?
+
+#c:fruits/kumquat
+- croptopia:kumquat
+
+#c:seeds/rutabaga
+- croptopia:rutabaga_seed
+
+#c:vegetables/yams
+- croptopia:yam
+
+#minecraft:diamond_ores
+- minecraft:diamond_ore
+- minecraft:deepslate_diamond_ore
+- universal_ores:andesite_diamond_ore
+- universal_ores:diorite_diamond_ore
+- universal_ores:granite_diamond_ore
+- universal_ores:tuff_diamond_ore
+
+#c:beers
+- croptopia:beer
+
+#mythicmetals:prometheum_nuggets
+- mythicmetals:prometheum_nugget
+
+#mythicmetals:star_platinum_nuggets
+- mythicmetals:star_platinum_nugget
+
+#c:seeds/basil
+- croptopia:basil_seed
+
+#minecraft:fence_gates
+- minecraft:acacia_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- appletreesrev:apple_fence_gate
+
+#c:cyan_dyes
+- minecraft:cyan_dye
+
+#c:lemonades
+- croptopia:lemonade
+
+#c:electrum_nuggets
+- indrev:electrum_nugget
+
+#piglib:piglin_safe_armor
+- mythicmetals:midas_gold_helmet
+- mythicmetals:midas_gold_chestplate
+- mythicmetals:midas_gold_leggings
+- mythicmetals:midas_gold_boots
+
+#mythicmetals:banglum_nuggets
+- mythicmetals:banglum_nugget
+
+#c:vegetables/celery
+- croptopia:celery
+
+#adorn:kitchen_sinks
+- adorn:oak_kitchen_sink
+- adorn:spruce_kitchen_sink
+- adorn:birch_kitchen_sink
+- adorn:jungle_kitchen_sink
+- adorn:acacia_kitchen_sink
+- adorn:dark_oak_kitchen_sink
+- adorn:crimson_kitchen_sink
+- adorn:warped_kitchen_sink
+- adorn:traverse/fir_kitchen_sink?
+- adorn:terrestria/cypress_kitchen_sink?
+- adorn:terrestria/hemlock_kitchen_sink?
+- adorn:terrestria/japanese_maple_kitchen_sink?
+- adorn:terrestria/rainbow_eucalyptus_kitchen_sink?
+- adorn:terrestria/redwood_kitchen_sink?
+- adorn:terrestria/rubber_kitchen_sink?
+- adorn:terrestria/sakura_kitchen_sink?
+- adorn:terrestria/willow_kitchen_sink?
+- adorn:terrestria/yucca_palm_kitchen_sink?
+- adorn:woods_and_mires/pine_kitchen_sink?
+- adorn:byg/aspen_kitchen_sink?
+- adorn:byg/baobab_kitchen_sink?
+- adorn:byg/blue_enchanted_kitchen_sink?
+- adorn:byg/bulbis_kitchen_sink?
+- adorn:byg/cherry_kitchen_sink?
+- adorn:byg/cika_kitchen_sink?
+- adorn:byg/cypress_kitchen_sink?
+- adorn:byg/ebony_kitchen_sink?
+- adorn:byg/embur_kitchen_sink?
+- adorn:byg/ether_kitchen_sink?
+- adorn:byg/fir_kitchen_sink?
+- adorn:byg/green_enchanted_kitchen_sink?
+- adorn:byg/holly_kitchen_sink?
+- adorn:byg/jacaranda_kitchen_sink?
+- adorn:byg/lament_kitchen_sink?
+- adorn:byg/mahogany_kitchen_sink?
+- adorn:byg/mangrove_kitchen_sink?
+- adorn:byg/maple_kitchen_sink?
+- adorn:byg/nightshade_kitchen_sink?
+- adorn:byg/palm_kitchen_sink?
+- adorn:byg/pine_kitchen_sink?
+- adorn:byg/rainbow_eucalyptus_kitchen_sink?
+- adorn:byg/redwood_kitchen_sink?
+- adorn:byg/skyris_kitchen_sink?
+- adorn:byg/sythian_kitchen_sink?
+- adorn:byg/willow_kitchen_sink?
+- adorn:byg/witch_hazel_kitchen_sink?
+- adorn:byg/zelkova_kitchen_sink?
+- adorn:biomemakeover/blighted_balsa_sink?
+- adorn:biomemakeover/swamp_cypress_sink?
+- adorn:biomemakeover/willow_sink?
+- adorn:cinderscapes/scorched_kitchen_sink?
+- adorn:cinderscapes/umbral_kitchen_sink?
+
+#the_aether:aether_logs
+- the_aether:skyroot_log
+- the_aether:golden_oak_log
+- the_aether:crystal_log
+- the_aether:wisteria_log
+- the_aether:stripped_skyroot_log
+- the_aether:stripped_golden_oak_log
+- the_aether:stripped_crystal_log
+- the_aether:stripped_wisteria_log
+- the_aether:orange_log
+
+#adventurez:piglin_not_attack_items
+- adventurez:stone_golem_helmet
+- adventurez:stone_golem_chestplate
+- adventurez:stone_golem_leggings
+- adventurez:stone_golem_boots
+
+#c:beef_wellington
+- croptopia:beef_wellington
+
+#c:electrum_ingots
+- indrev:electrum_ingot
+
+#minecraft:freeze_immune_wearables
+- minecraft:leather_boots
+- minecraft:leather_leggings
+- minecraft:leather_chestplate
+- minecraft:leather_helmet
+- minecraft:leather_horse_armor
+
+#dimdoors:ancient_fabric
+- dimdoors:white_ancient_fabric
+- dimdoors:orange_ancient_fabric
+- dimdoors:magenta_ancient_fabric
+- dimdoors:light_blue_ancient_fabric
+- dimdoors:yellow_ancient_fabric
+- dimdoors:lime_ancient_fabric
+- dimdoors:pink_ancient_fabric
+- dimdoors:gray_ancient_fabric
+- dimdoors:light_gray_ancient_fabric
+- dimdoors:cyan_ancient_fabric
+- dimdoors:purple_ancient_fabric
+- dimdoors:blue_ancient_fabric
+- dimdoors:brown_ancient_fabric
+- dimdoors:green_ancient_fabric
+- dimdoors:red_ancient_fabric
+- dimdoors:black_ancient_fabric
+
+#c:milk_bottles
+- croptopia:milk_bottle
+
+#c:copper_nuggets
+- mythicmetals:copper_nugget
+- indrev:copper_nugget
+- workings:copper_nugget
+
+#adorn:drawers
+- adorn:oak_drawer
+- adorn:spruce_drawer
+- adorn:birch_drawer
+- adorn:jungle_drawer
+- adorn:acacia_drawer
+- adorn:dark_oak_drawer
+- adorn:crimson_drawer
+- adorn:warped_drawer
+- adorn:traverse/fir_drawer?
+- adorn:terrestria/cypress_drawer?
+- adorn:terrestria/hemlock_drawer?
+- adorn:terrestria/japanese_maple_drawer?
+- adorn:terrestria/rainbow_eucalyptus_drawer?
+- adorn:terrestria/redwood_drawer?
+- adorn:terrestria/rubber_drawer?
+- adorn:terrestria/sakura_drawer?
+- adorn:terrestria/willow_drawer?
+- adorn:terrestria/yucca_palm_drawer?
+- adorn:woods_and_mires/pine_drawer?
+- adorn:byg/aspen_drawer?
+- adorn:byg/baobab_drawer?
+- adorn:byg/blue_enchanted_drawer?
+- adorn:byg/bulbis_drawer?
+- adorn:byg/cherry_drawer?
+- adorn:byg/cika_drawer?
+- adorn:byg/cypress_drawer?
+- adorn:byg/ebony_drawer?
+- adorn:byg/embur_drawer?
+- adorn:byg/ether_drawer?
+- adorn:byg/fir_drawer?
+- adorn:byg/green_enchanted_drawer?
+- adorn:byg/holly_drawer?
+- adorn:byg/jacaranda_drawer?
+- adorn:byg/lament_drawer?
+- adorn:byg/mahogany_drawer?
+- adorn:byg/mangrove_drawer?
+- adorn:byg/maple_drawer?
+- adorn:byg/nightshade_drawer?
+- adorn:byg/palm_drawer?
+- adorn:byg/pine_drawer?
+- adorn:byg/rainbow_eucalyptus_drawer?
+- adorn:byg/redwood_drawer?
+- adorn:byg/skyris_drawer?
+- adorn:byg/sythian_drawer?
+- adorn:byg/willow_drawer?
+- adorn:byg/witch_hazel_drawer?
+- adorn:byg/zelkova_drawer?
+- adorn:biomemakeover/blighted_balsa_drawer?
+- adorn:biomemakeover/swamp_cypress_drawer?
+- adorn:biomemakeover/willow_drawer?
+- adorn:cinderscapes/scorched_drawer?
+- adorn:cinderscapes/umbral_drawer?
+
+#atbyw:bookshelves
+- atbyw:spruce_bookshelf
+- atbyw:birch_bookshelf
+- atbyw:jungle_bookshelf
+- atbyw:acacia_bookshelf
+- atbyw:dark_oak_bookshelf
+- atbyw:crimson_bookshelf
+- atbyw:warped_bookshelf
+- atbyw:oak_bookshelf_toggle
+- atbyw:spruce_bookshelf_toggle
+- atbyw:birch_bookshelf_toggle
+- atbyw:jungle_bookshelf_toggle
+- atbyw:acacia_bookshelf_toggle
+- atbyw:dark_oak_bookshelf_toggle
+- atbyw:crimson_bookshelf_toggle
+- atbyw:warped_bookshelf_toggle
+- atbyw:better_nether/stalagnate_bookshelf_toggle
+- atbyw:better_nether/reeds_bookshelf_toggle
+- atbyw:better_nether/willow_bookshelf_toggle
+- atbyw:better_nether/wart_bookshelf_toggle
+- atbyw:better_nether/rubeus_bookshelf_toggle
+- atbyw:better_nether/mushroom_bookshelf_toggle
+- atbyw:better_nether/mushroom_fir_bookshelf_toggle
+- atbyw:better_nether/anchor_tree_bookshelf_toggle
+- atbyw:better_nether/nether_sakura_bookshelf_toggle
+- atbyw:better_end/mossy_glowshroom_bookshelf_toggle
+- atbyw:better_end/pythadendron_bookshelf_toggle
+- atbyw:better_end/end_lotus_bookshelf_toggle
+- atbyw:better_end/lacugrove_bookshelf_toggle
+- atbyw:better_end/dragon_tree_bookshelf_toggle
+- atbyw:better_end/tenanea_bookshelf_toggle
+- atbyw:better_end/helix_tree_bookshelf_toggle
+- atbyw:better_end/umbrella_tree_bookshelf_toggle
+
+#storagecabinet:cabinet_upgrades
+- storagecabinet:storagecabinet_wood_upgrade
+- storagecabinet:storagecabinet_iron_upgrade
+- storagecabinet:storagecabinet_gold_upgrade
+- storagecabinet:storagecabinet_diamond_upgrade
+- storagecabinet:storagecabinet_emerald_upgrade
+
+#the_aether:aether_wooden_doors
+- the_aether:skyroot_door
+- the_aether:golden_oak_door
+- the_aether:crystal_door
+- the_aether:wisteria_door
+- the_aether:orange_door
+
+#c:spaghetti_squashs
+- croptopia:spaghetti_squash
+
+#mythicmetals:kyber_blocks
+- mythicmetals:kyber_block
+
+#c:bronze_dusts
+- indrev:bronze_dust
+
+#c:tea
+- croptopia:tea
+
+#c:coal_dusts
+- indrev:coal_dust
+
+#minecraft:occludes_vibration_signals
+- #minecraft:wool
+
+#mythicmetals:carmot_blocks
+- mythicmetals:carmot_block
+
+#mythicmetals:runite_ores
+- mythicmetals:runite_ore
+
+#fabric:pickaxes
+- betternether:cincinnasite_pickaxe
+- betternether:cincinnasite_pickaxe_diamond
+- betternether:nether_ruby_pickaxe
+- conjuring:soul_alloy_pickaxe
+- the_aether:zanite_pickaxe
+- the_aether:gravitite_pickaxe
+- the_aether:valkyrie_pickaxe
+- mcdw:pick_diamond_pickaxe_var
+- mcdw:pick_mountaineer_pick
+- mcdw:pick_howling_pick
+- mcdw:pick_hailing_pinnacle
+- dragonloot:dragon_pickaxe
+- mythicmetals:adamantite_pickaxe
+- mythicmetals:aetherium_pickaxe
+- mythicmetals:aquarium_pickaxe
+- mythicmetals:banglum_pickaxe
+- mythicmetals:bronze_pickaxe
+- mythicmetals:carmot_pickaxe
+- mythicmetals:celestium_pickaxe
+- mythicmetals:copper_pickaxe
+- mythicmetals:discordium_pickaxe
+- mythicmetals:durasteel_pickaxe
+- mythicmetals:hallowed_pickaxe
+- mythicmetals:kyber_pickaxe
+- mythicmetals:metallurgium_pickaxe
+- mythicmetals:mythril_pickaxe
+- mythicmetals:orichalcum_pickaxe
+- mythicmetals:osmium_pickaxe
+- mythicmetals:palladium_pickaxe
+- mythicmetals:prometheum_pickaxe
+- mythicmetals:quadrillum_pickaxe
+- mythicmetals:quicksilver_pickaxe
+- mythicmetals:runite_pickaxe
+- mythicmetals:silver_pickaxe
+- mythicmetals:star_platinum_pickaxe
+- mythicmetals:steel_pickaxe
+- mythicmetals:stormyx_pickaxe
+- indrev:mining_drill_mk1
+- indrev:mining_drill_mk2
+- indrev:mining_drill_mk3
+- indrev:mining_drill_mk4
+- indrev:tin_pickaxe
+- indrev:copper_pickaxe
+- indrev:steel_pickaxe
+- indrev:lead_pickaxe
+- indrev:silver_pickaxe
+- indrev:bronze_pickaxe
+- hellish-materials:luss_pickaxe
+- hellish-materials:batet_pickaxe
+- hellish-materials:vuld_pickaxe
+- minecraft:wooden_pickaxe
+- minecraft:stone_pickaxe
+- minecraft:iron_pickaxe
+- minecraft:golden_pickaxe
+- minecraft:diamond_pickaxe
+- minecraft:netherite_pickaxe
+- gobber2:gobber2_pickaxe?
+- gobber2:gobber2_pickaxe_nether?
+- gobber2:gobber2_pickaxe_end?
+- gobber2:gobber2_paxel?
+- gobber2:gobber2_paxel_nether?
+- gobber2:gobber2_paxel_end?
+- gobber2:gobber2_paxel_stars?
+- gobber2:gobber2_hammer?
+- gobber2:gobber2_hammer_nether?
+- gobber2:gobber2_hammer_end?
+- vanilla-hammers:diamond_hammer?
+- vanilla-hammers:emerald_hammer?
+- vanilla-hammers:ender_hammer?
+- vanilla-hammers:fiery_hammer?
+- vanilla-hammers:golden_hammer?
+- vanilla-hammers:iron_hammer?
+- vanilla-hammers:lapis_hammer?
+- vanilla-hammers:netherite_hammer?
+- vanilla-hammers:obsidian_hammer?
+- vanilla-hammers:prismarine_hammer?
+- vanilla-hammers:quartz_hammer?
+- vanilla-hammers:slime_hammer?
+- vanilla-hammers:stone_hammer?
+- vanilla-hammers:wooden_hammer?
+
+#c:soy_milks
+- croptopia:soy_milk
+
+#c:diamond_ores
+- minecraft:diamond_ore
+- minecraft:deepslate_diamond_ore
+
+#artofalchemy:usable_on_pipes
+- artofalchemy:essentia_pipe
+- artofalchemy:dissolution_chamber
+- artofalchemy:synthesis_table
+- artofalchemy:astrological_centrifuge
+- artofalchemy:elemental_centrifuge
+- artofalchemy:essentia_tank
+
+#mythicmetals:star_platinum
+- mythicmetals:star_platinum
+
+#c:dye_red
+- minecraft:red_dye
+
+#c:vegetables/broccoli
+- croptopia:broccoli
+
+#c:gold_nuggets
+- minecraft:gold_nugget
+
+#c:saplings/mango
+- croptopia:mango_sapling
+
+#mythicmetals:metallurgium_ingots
+- mythicmetals:metallurgium_ingot
+
+#c:seeds/cabbage
+- croptopia:cabbage_seed
+
+#c:saplings/apple
+- croptopia:apple_sapling
+
+#c:orichalcum_ores
+- mythicmetals:orichalcum_ore
+- mythicmetals:deepslate_orichalcum_ore
+- mythicmetals:smooth_basalt_orichalcum_ore
+- mythicmetals:tuff_orichalcum_ore
+
+#c:tin_ores
+- mythicmetals:tin_ore
+- indrev:tin_ore
+- indrev:deepslate_tin_ore
+
+#c:fruits/grapes
+- croptopia:grape
+
+#c:seeds/coffee
+- croptopia:coffee_seed
+
+#c:iron_dusts
+- indrev:iron_dust
+
+#c:uranium_ingots
+
+#schmucks:job_hats
+- schmucks:gladiator_helmet
+- schmucks:miners_cap
+- schmucks:lumberjack
+- schmucks:farmer
+- schmucks:ranger
+
+#c:steel_blocks
+- mythicmetals:steel_block
+- indrev:steel_block
+
+#c:seeds/soybean
+- croptopia:soybean_seed
+
+#c:chocolate_milkshakes
+- croptopia:chocolate_milkshake
+
+#c:saguaros
+- croptopia:saguaro
+
+#artofalchemy:formulae
+- artofalchemy:alchemy_formula
+
+#nourish:sweets
+- bewitchment:witchberry_pie
+- bewitchment:witchberry_cookie
+- croptopia:chocolate
+- croptopia:grape_juice
+- croptopia:orange_juice
+- croptopia:apple_juice
+- croptopia:cranberry_juice
+- croptopia:saguaro_juice
+- croptopia:melon_juice
+- croptopia:pineapple_juice
+- croptopia:lemonade
+- croptopia:limeade
+- croptopia:strawberry_smoothie
+- croptopia:banana_smoothie
+- croptopia:kale_smoothie
+- croptopia:fruit_smoothie
+- croptopia:chocolate_milkshake
+- croptopia:pumpkin_spice_latte
+- croptopia:grape_jam
+- croptopia:strawberry_jam
+- croptopia:peach_jam
+- croptopia:apricot_jam
+- croptopia:blackberry_jam
+- croptopia:blueberry_jam
+- croptopia:cherry_jam
+- croptopia:elderberry_jam
+- croptopia:raspberry_jam
+- croptopia:apple_pie
+- croptopia:yam_jam
+- croptopia:banana_cream_pie
+- croptopia:candy_corn
+- croptopia:vanilla_ice_cream
+- croptopia:strawberry_ice_cream
+- croptopia:mango_ice_cream
+- croptopia:rum_raisin_ice_cream
+- croptopia:cherry_pie
+- croptopia:cheese_cake
+- croptopia:brownies
+- croptopia:snicker_doodle
+- croptopia:banana_nut_bread
+- croptopia:horchata
+- croptopia:churros
+- croptopia:tres_leche_cake
+- croptopia:eton_mess
+- croptopia:scones
+- croptopia:figgy_pudding
+- croptopia:treacle_tart
+- croptopia:sticky_toffee_pudding
+- croptopia:trifle
+
+#c:aluminum_plates
+- agape_space:aluminum_plate
+
+#adorn:platforms
+- #adorn:wooden_platforms
+- #adorn:stone_platforms
+
+#minecraft:piglin_food
+- minecraft:porkchop
+- minecraft:cooked_porkchop
+
+#mythicmetals:quadrillum_nuggets
+- mythicmetals:quadrillum_nugget
+
+#c:pineapple_pepperoni_pizzas
+- croptopia:pineapple_pepperoni_pizza
+
+#c:banana_cream_pies
+- croptopia:banana_cream_pie
+
+#mythicmetals:celestium_nuggets
+- mythicmetals:celestium_nugget
+
+#croptopia:peppers
+- croptopia:chile_pepper
+- croptopia:bellpepper
+
+#blockus:patterned_wool
+- blockus:white_patterned_wool
+- blockus:orange_patterned_wool
+- blockus:magenta_patterned_wool
+- blockus:light_blue_patterned_wool
+- blockus:yellow_patterned_wool
+- blockus:lime_patterned_wool
+- blockus:pink_patterned_wool
+- blockus:gray_patterned_wool
+- blockus:light_gray_patterned_wool
+- blockus:cyan_patterned_wool
+- blockus:purple_patterned_wool
+- blockus:blue_patterned_wool
+- blockus:brown_patterned_wool
+- blockus:green_patterned_wool
+- blockus:red_patterned_wool
+- blockus:black_patterned_wool
+
+#c:blts
+- croptopia:blt
+
+#c:green_dyes
+- minecraft:green_dye
+
+#c:yellow_sandstones
+- blockus:sandstone_bricks
+- blockus:small_sandstone_bricks
+- blockus:rough_sandstone
+- blockus:gold_decorated_sandstone
+- blockus:lapis_decorated_sandstone
+- blockus:sandstone_pillar
+
+#c:aluminum_ores
+- agape_space:aluminum_ore
+
+#blockus:small_hedges
+- blockus:oak_small_hedge
+- blockus:spruce_small_hedge
+- blockus:birch_small_hedge
+- blockus:jungle_small_hedge
+- blockus:acacia_small_hedge
+- blockus:dark_oak_small_hedge
+- blockus:white_oak_small_hedge
+- blockus:crimson_small_hedge
+- blockus:warped_small_hedge
+- blockus:azalea_small_hedge
+- blockus:azalea_small_hedge_flowers
+- blockus:moss_small_hedge
+
+#c:saplings/persimmon
+- croptopia:persimmon_sapling
+
+#c:copper_dusts
+- indrev:copper_dust
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door
+- #minecraft:wooden_doors
+- minecraft:iron_door
+- #the_aether:aether_doors
+- blockus:paper_door
+- blockus:obsidian_reinforced_door
+- blockus:stone_door
+- blockus:blackstone_door
+
+#hellish-materials:luss
+- hellish-materials:luss_pickaxe
+- hellish-materials:luss_axe
+- hellish-materials:luss_shovel
+- hellish-materials:luss_hoe
+- hellish-materials:luss_sword
+- hellish-materials:luss_ingot
+- hellish-materials:luss_dust
+- hellish-materials:luss_ore
+- hellish-materials:luss_block
+
+#mythicmetals:durasteel_blocks
+- mythicmetals:durasteel_block
+
+#c:seeds/yam
+- croptopia:yam_seed
+
+#c:seeds/mustard
+- croptopia:mustard_seed
+
+#c:jams/grape_jam
+- croptopia:grape_jam
+
+#c:juices
+- #c:juices/apple_juice
+- #c:juices/cranberry_juice
+- #c:juices/grape_juice
+- #c:juices/melon_juice
+- #c:juices/orange_juice
+- #c:juices/pineapple_juice
+- #c:juices/saguaro_juice
+- #c:juices/tomato_juice
+
+#the_aether:aether_stone_stairs
+- the_aether:angelic_stairs
+- the_aether:carved_stairs
+- the_aether:hellfire_stairs
+- the_aether:holystone_brick_stairs
+- the_aether:holystone_stairs
+- the_aether:light_carved_stairs
+- the_aether:light_angelic_stairs
+- the_aether:light_hellfire_stairs
+- the_aether:mossy_holystone_stairs
+- the_aether:light_sentry_stairs
+- the_aether:sentry_stairs
+- the_aether:cobbled_holystone_stairs
+
+#appletreesrev:apple_logs
+- appletreesrev:apple_log
+- appletreesrev:apple_wood
+- appletreesrev:stripped_apple_log
+- appletreesrev:stripped_apple_wood
+
+#c:seeds/currant
+- croptopia:currant_seed
+
+#minecraft:signs
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- bewitchment:juniper_sign
+- bewitchment:cypress_sign
+- bewitchment:elder_sign
+- bewitchment:dragons_blood_sign
+- traverse:fir_sign
+
+#c:fruits/cashews
+- croptopia:cashew
+
+#c:cheese_cakes
+- croptopia:cheese_cake
+
+#c:gold_dusts
+- indrev:gold_dust
+
+#c:seeds/pepper
+- croptopia:pepper_seed
+
+#c:seeds/cranberry
+- croptopia:cranberry_seed
+
+#c:raw_mineral
+- minecraft:iron_ore
+- minecraft:gold_ore
+- minecraft:copper_ore
+- minecraft:raw_iron
+- minecraft:raw_gold
+- minecraft:raw_copper
+- minecraft:coal
+- minecraft:charcoal
+
+#mythicmetals:aquarium_nuggets
+- mythicmetals:aquarium_nugget
+
+#c:tofu
+- croptopia:tofu
+
+#origins:shields
+- minecraft:shield
+
+#c:cornish_pasty
+- croptopia:cornish_pasty
+
+#c:soy_sauces
+- croptopia:soy_sauce
+
+#c:aluminum_ingots
+- agape_space:aluminum_ingot
+
+#c:salt_dusts
+- bewitchment:salt
+
+#hookshot:hookshots
+- hookshot:white_hookshot
+- hookshot:orange_hookshot
+- hookshot:magenta_hookshot
+- hookshot:light_blue_hookshot
+- hookshot:yellow_hookshot
+- hookshot:lime_hookshot
+- hookshot:pink_hookshot
+- hookshot:gray_hookshot
+- hookshot:light_gray_hookshot
+- hookshot:cyan_hookshot
+- hookshot:purple_hookshot
+- hookshot:blue_hookshot
+- hookshot:brown_hookshot
+- hookshot:green_hookshot
+- hookshot:red_hookshot
+- hookshot:black_hookshot
+
+#c:toast_with_jam
+- croptopia:toast_with_jam
+
+#c:palladium_ingots
+- mythicmetals:palladium_ingot
+
+#extragenerators:blue_items
+- minecraft:warped_planks
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:stripped_warped_hyphae
+- minecraft:warped_hyphae
+- minecraft:lapis_block
+- minecraft:light_blue_wool
+- minecraft:cyan_wool
+- minecraft:blue_wool
+- minecraft:blue_orchid
+- minecraft:cornflower
+- minecraft:warped_fungus
+- minecraft:warped_roots
+- minecraft:nether_sprouts
+- minecraft:twisting_vines
+- minecraft:warped_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:diamond_block
+- minecraft:warped_pressure_plate
+- minecraft:ice
+- minecraft:warped_fence
+- minecraft:warped_trapdoor
+- minecraft:warped_fence_gate
+- minecraft:warped_stairs
+- minecraft:beacon
+- minecraft:prismarine_wall
+- minecraft:warped_button
+- minecraft:light_blue_terracotta
+- minecraft:blue_terracotta
+- minecraft:light_blue_carpet
+- minecraft:cyan_carpet
+- minecraft:blue_carpet
+- minecraft:packed_ice
+- minecraft:light_blue_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:light_blue_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:prismarine
+- minecraft:prismarine_bricks
+- minecraft:prismarine_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:warped_wart_block
+- minecraft:light_blue_shulker_box
+- minecraft:cyan_shulker_box
+- minecraft:blue_shulker_box
+- minecraft:light_blue_glazed_terracotta
+- minecraft:cyan_glazed_terracotta
+- minecraft:blue_glazed_terracotta
+- minecraft:light_blue_concrete
+- minecraft:cyan_concrete
+- minecraft:blue_concrete
+- minecraft:light_blue_concrete_powder
+- minecraft:cyan_concrete_powder
+- minecraft:blue_concrete_powder
+- minecraft:tube_coral_block
+- minecraft:tube_coral
+- minecraft:tube_coral_fan
+- minecraft:blue_ice
+- minecraft:warped_door
+- minecraft:diamond
+- minecraft:diamond_sword
+- minecraft:diamond_shovel
+- minecraft:diamond_pickaxe
+- minecraft:diamond_axe
+- minecraft:diamond_hoe
+- minecraft:diamond_helmet
+- minecraft:diamond_chestplate
+- minecraft:diamond_leggings
+- minecraft:diamond_boots
+- minecraft:warped_sign
+- minecraft:lapis_lazuli
+- minecraft:light_blue_dye
+- minecraft:cyan_dye
+- minecraft:blue_dye
+- minecraft:light_blue_bed
+- minecraft:cyan_bed
+- minecraft:blue_bed
+- minecraft:prismarine_shard
+- minecraft:diamond_horse_armor
+- minecraft:light_blue_banner
+- minecraft:cyan_banner
+- minecraft:blue_banner
+- minecraft:heart_of_the_sea
+- minecraft:soul_lantern
+- minecraft:soul_campfire
+
+#c:seeds/cauliflower
+- croptopia:cauliflower_seed
+
+#c:fruits/dates
+- croptopia:date
+
+#adorn:stone_steps
+- adorn:stone_step
+- adorn:cobblestone_step
+- adorn:sandstone_step
+- adorn:andesite_step
+- adorn:granite_step
+- adorn:diorite_step
+- adorn:brick_step
+- adorn:stone_brick_step
+- adorn:red_sandstone_step
+- adorn:nether_brick_step
+- adorn:basalt_step
+- adorn:terrestria/basalt_step?
+- adorn:terrestria/basalt_cobblestone_step?
+- adorn:terrestria/smooth_basalt_step?
+- adorn:terrestria/basalt_brick_step?
+- adorn:terrestria/mossy_basalt_cobblestone_step?
+- adorn:terrestria/mossy_basalt_brick_step?
+- adorn:byg/dacite_step?
+- adorn:byg/dacite_brick_step?
+- adorn:byg/dacite_cobblestone_step?
+- adorn:byg/mossy_stone_step?
+- adorn:byg/rocky_stone_step?
+- adorn:byg/scoria_stone_step?
+- adorn:byg/scoria_cobblestone_step?
+- adorn:byg/scoria_stonebrick_step?
+- adorn:byg/soapstone_step?
+- adorn:byg/polished_soapstone_step?
+- adorn:byg/soapstone_brick_step?
+- adorn:byg/soapstone_tile_step?
+- adorn:byg/red_rock_step?
+- adorn:byg/red_rock_brick_step?
+- adorn:byg/mossy_red_rock_brick_step?
+- adorn:byg/cracked_red_rock_brick_step?
+- adorn:byg/chiseled_red_rock_brick_step?
+
+#bewitchment:average_swords
+- minecraft:golden_sword
+- minecraft:diamond_sword
+- bewitchment:athame
+
+#c:copper_plates
+- agape_space:copper_plate
+- indrev:copper_plate
+
+#schmucks:gladiator_likes
+- #c:raw_food
+- minecraft:gunpowder
+- minecraft:bone
+- minecraft:rotten_flesh
+- minecraft:string
+- minecraft:spider_eye
+
+#c:saplings/coconut
+- croptopia:coconut_sapling
+
+#c:doughnuts
+- croptopia:doughnut
+
+#c:peridots
+
+#c:tungsten_nuggets
+- indrev:tungsten_nugget
+
+#c:fried_chickens
+- croptopia:fried_chicken
+
+#fabric:bows
+- mcdw:bow_ancient_bow
+- mcdw:bow_bonebow
+- mcdw:bow_burst_gale_bow
+- mcdw:bow_echo_of_the_valley
+- mcdw:bow_elite_power_bow
+- mcdw:bow_green_menace
+- mcdw:bow_guardian_bow
+- mcdw:bow_haunted_bow
+- mcdw:bow_hunters_promise
+- mcdw:bow_hunting_bow
+- mcdw:bow_longbow
+- mcdw:bow_lost_souls
+- mcdw:bow_masters_bow
+- mcdw:bow_nocturnal_bow
+- mcdw:bow_pink_scoundrel
+- mcdw:bow_power_bow
+- mcdw:bow_sabrewing
+- mcdw:bow_shivering_bow
+- mcdw:bow_soul_bow
+- mcdw:bow_trickbow
+- mcdw:bow_wind_bow
+- mcdw:bow_snow_bow
+- mcdw:bow_winters_touch
+- mcdw:bow_love_spell_bow
+- mcdw:bow_shortbow
+- mcdw:bow_mechanical_shortbow
+- mcdw:bow_purple_storm
+- mcdw:bow_red_snake
+
+#c:sulfur_dusts
+- indrev:sulfur_dust
+
+#c:zinc_ingots
+
+#c:seeds/saguaro
+- croptopia:saguaro_seed
+
+#c:seeds/blueberry
+- croptopia:blueberry_seed
+
+#c:mythril_ingots
+- mythicmetals:mythril_ingot
+
+#bewitchment:silver_tools
+- hwg:silvergun
+- hwg:silver_bullet
+- hwg:shellhorse_revolver
+- hwg:silverbullets
+
+#fabric:hoes
+- betternether:cincinnasite_hoe
+- betternether:cincinnasite_hoe_diamond
+- betternether:nether_ruby_hoe
+- the_aether:zanite_hoe
+- the_aether:gravitite_hoe
+- the_aether:valkyrie_hoe
+- dragonloot:dragon_hoe
+- mythicmetals:adamantite_hoe
+- mythicmetals:aetherium_hoe
+- mythicmetals:aquarium_hoe
+- mythicmetals:banglum_hoe
+- mythicmetals:bronze_hoe
+- mythicmetals:carmot_hoe
+- mythicmetals:celestium_hoe
+- mythicmetals:copper_hoe
+- mythicmetals:discordium_hoe
+- mythicmetals:durasteel_hoe
+- mythicmetals:hallowed_hoe
+- mythicmetals:kyber_hoe
+- mythicmetals:metallurgium_hoe
+- mythicmetals:mythril_hoe
+- mythicmetals:orichalcum_hoe
+- mythicmetals:osmium_hoe
+- mythicmetals:palladium_hoe
+- mythicmetals:prometheum_hoe
+- mythicmetals:quadrillum_hoe
+- mythicmetals:quicksilver_hoe
+- mythicmetals:runite_hoe
+- mythicmetals:silver_hoe
+- mythicmetals:star_platinum_hoe
+- mythicmetals:steel_hoe
+- mythicmetals:stormyx_hoe
+- indrev:tin_hoe
+- indrev:copper_hoe
+- indrev:steel_hoe
+- indrev:lead_hoe
+- indrev:silver_hoe
+- indrev:bronze_hoe
+- hellish-materials:luss_hoe
+- hellish-materials:batet_hoe
+- hellish-materials:vuld_hoe
+- minecraft:wooden_hoe
+- minecraft:stone_hoe
+- minecraft:iron_hoe
+- minecraft:golden_hoe
+- minecraft:diamond_hoe
+- minecraft:netherite_hoe
+- gobber2:gobber2_hoe?
+- gobber2:gobber2_hoe_nether?
+- gobber2:gobber2_hoe_end?
+- gobber2:gobber2_paxel?
+- gobber2:gobber2_paxel_nether?
+- gobber2:gobber2_paxel_end?
+- gobber2:gobber2_paxel_stars?
+
+#c:tin_blocks
+- mythicmetals:tin_block
+- indrev:tin_block
+
+#c:diamond_nuggets
+- gobber2:diamond_nugget
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot
+- minecraft:emerald
+- minecraft:diamond
+- minecraft:gold_ingot
+- minecraft:iron_ingot
+- #c:silver_ingots
+- platinum:platinum_ingot
+
+#c:egg_rolls
+- croptopia:egg_roll
+
+#trinkets:chest/cape
+- the_aether:white_cape
+- the_aether:red_cape
+- the_aether:blue_cape
+- the_aether:yellow_cape
+- the_aether:swet_cape
+- the_aether:agility_cape
+- the_aether:invisibility_cape
+- minecraft:elytra
+- artifality:invisibility_cape
+
+#c:popcorns
+- croptopia:popcorn
+
+#c:juices/tomato_juice
+- croptopia:tomato_juice
+
+#c:palladium_nuggets
+- mythicmetals:palladium_nugget
+
+#minecraft:coal_ores
+- minecraft:coal_ore
+- minecraft:deepslate_coal_ore
+- universal_ores:andesite_coal_ore
+- universal_ores:diorite_coal_ore
+- universal_ores:granite_coal_ore
+- universal_ores:tuff_coal_ore
+
+#c:nutty_cookies
+- croptopia:nutty_cookie
+
+#c:gold_ores
+- minecraft:gold_ore
+- minecraft:deepslate_gold_ore
+- minecraft:gold_ore
+- minecraft:deepslate_gold_ore
+
+#c:pink_dyes
+- minecraft:pink_dye
+
+#minecraft:golden_apples
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+
+#c:flour
+- croptopia:flour
+
+#c:saplings/dragonfruit
+- croptopia:dragonfruit_sapling
+
+#c:supreme_pizzas
+- croptopia:supreme_pizza
+
+#c:saplings/lemon
+- croptopia:lemon_sapling
+
+#c:quartz_blocks
+- blockus:quartz_tiles
+- blockus:quartz_circle_pavement
+- minecraft:quartz_block
+- minecraft:chiseled_quartz_block
+- minecraft:quartz_pillar
+- minecraft:smooth_quartz
+- minecraft:quartz_bricks
+
+#c:very_rare_loot
+- minecraft:totem_of_undying
+- minecraft:elytra
+- gobber2:gobber2_ingot_end
+- gobber2:gobber2_ring_teleport
+- gobber2:gobber2_ring_ascent
+- gobber2:gobber2_ring_swiftness
+
+#minecraft:stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+- minecraft:cobbled_deepslate_stairs
+- minecraft:polished_deepslate_stairs
+- minecraft:deepslate_tile_stairs
+- minecraft:deepslate_brick_stairs
+- minecraft:oxidized_cut_copper_stairs
+- minecraft:weathered_cut_copper_stairs
+- minecraft:exposed_cut_copper_stairs
+- minecraft:cut_copper_stairs
+- minecraft:waxed_weathered_cut_copper_stairs
+- minecraft:waxed_exposed_cut_copper_stairs
+- minecraft:waxed_cut_copper_stairs
+- minecraft:waxed_oxidized_cut_copper_stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+- minecraft:cobbled_deepslate_stairs
+- minecraft:polished_deepslate_stairs
+- minecraft:deepslate_tile_stairs
+- minecraft:deepslate_brick_stairs
+- minecraft:oxidized_cut_copper_stairs
+- minecraft:weathered_cut_copper_stairs
+- minecraft:exposed_cut_copper_stairs
+- minecraft:cut_copper_stairs
+- minecraft:waxed_weathered_cut_copper_stairs
+- minecraft:waxed_exposed_cut_copper_stairs
+- minecraft:waxed_cut_copper_stairs
+- minecraft:waxed_oxidized_cut_copper_stairs
+- #the_aether:aether_stairs
+
+#minecraft:logs
+- #minecraft:logs_that_burn
+- #minecraft:crimson_stems
+- #minecraft:warped_stems
+- #blockus:white_oak_logs
+
+#c:elytra
+- minecraft:elytra
+- enderitemod:enderite_elytra_seperated?
+- netherite_plus:netherite_elytra?
+
+#c:titanium_ingots
+
+#c:jellies
+- #c:jam
+
+#c:french_fries
+- croptopia:french_fries
+
+#c:gravel
+- minecraft:gravel
+
+#c:white_dyes
+- minecraft:white_dye
+- minecraft:bone_meal
+
+#c:quicksilver_ingots
+- mythicmetals:quicksilver_ingot
+
+#mythicmetals:aquarium_ingots
+- mythicmetals:aquarium_ingot
+
+#c:vegetables/kale
+- croptopia:kale
+
+#origins:meat
+- minecraft:rotten_flesh
+- minecraft:cod
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:salmon
+- minecraft:beef
+- minecraft:porkchop
+- minecraft:mutton
+- minecraft:chicken
+- minecraft:rabbit
+- minecraft:cooked_chicken
+- minecraft:cooked_rabbit
+- minecraft:rabbit_stew
+- minecraft:cooked_porkchop
+- minecraft:cooked_cod
+- minecraft:cooked_beef
+- minecraft:cooked_mutton
+- minecraft:cooked_salmon
+- minecraft:spider_eye
+- gobber2:gobber2_gooey_beef
+- gobber2:gobber2_gooey_beefstew
+- gobber2:gobber2_gooey_beef_nether
+- gobber2:gobber2_gooey_beefstew_nether
+
+#minecraft:emerald_ores
+- minecraft:emerald_ore
+- minecraft:deepslate_emerald_ore
+- universal_ores:andesite_emerald_ore
+- universal_ores:diorite_emerald_ore
+- universal_ores:granite_emerald_ore
+- universal_ores:tuff_emerald_ore
+
+#c:crops/vanilla
+- croptopia:vanilla
+
+#c:fruits/pineapples
+- croptopia:pineapple
+
+#c:vegetables/onion
+- croptopia:onion
+
+#atbyw:large_chain_transition_top
+- minecraft:chain
+
+#blockus:white_oak_logs
+- blockus:white_oak_log
+- blockus:white_oak_wood
+- blockus:stripped_white_oak_log
+- blockus:stripped_white_oak_wood
+- blockus:white_oak_small_logs
+
+#c:lemon_chickens
+- croptopia:lemon_chicken
+
+#minecraft:beacon_base_blocks
+- platinum:platinum_block
+
+#croptopia:melons
+- minecraft:melon_slice
+- croptopia:honeydew
+- croptopia:cantaloupe
+
+#c:grains
+- #c:grains/barley
+- #c:grains/corn
+- #c:grains/oats
+- #c:grains/rice
+
+#c:fruits/blueberries
+- croptopia:blueberry
+
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
+#c:iron_blocks
+- minecraft:iron_block
+
+#c:tacos
+- croptopia:taco
+
+#c:seeds/asparagus
+- croptopia:asparagus_seed
+
+#c:topazes
+
+#traverse:fir_logs
+- traverse:fir_log
+- traverse:fir_wood
+- traverse:stripped_fir_log
+- traverse:stripped_fir_wood
+
+#c:jams/blueberry_jam
+- croptopia:blueberry_jam
+
+#c:saplings/kumquat
+- croptopia:kumquat_sapling
+
+#adorn:posts
+- #adorn:wooden_posts
+- #adorn:stone_posts
+
+#c:mushrooms
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+
+#c:juices/melon_juice
+- croptopia:melon_juice
+
+#minecraft:iron_ores
+- minecraft:iron_ore
+- minecraft:deepslate_iron_ore
+- universal_ores:andesite_iron_ore
+- universal_ores:diorite_iron_ore
+- universal_ores:granite_iron_ore
+- universal_ores:tuff_iron_ore
+
+#c:crops/chile_peppers
+- croptopia:chile_pepper
+
+#c:steel_leggings
+- mythicmetals:steel_leggings
+- indrev:steel_leggings
+- astromine:steel_leggings?
+
+#c:crops/basil
+- croptopia:basil
+
+#mythicmetals:discordium_blocks
+- mythicmetals:discordium_block
+
+#fabric:chestplates
+- mcda:archers_chestplate
+- mcda:hunters_chestplate
+- mcda:ocelot_armor_chestplate
+- mcda:shadow_walker_armor_chestplate
+- mcda:spelunker_armor_chestplate
+- mcda:cave_crawler_chestplate
+- mcda:wolf_armor_chestplate
+- mcda:black_wolf_armor_chestplate
+- mcda:fox_armor_chestplate
+- mcda:arctic_fox_armor_chestplate
+- mcda:climbing_gear_chestplate
+- mcda:rugged_climbing_gear_chestplate
+- mcda:squid_armor_chestplate
+- mcda:glow_squid_armor_chestplate
+- mcda:goat_gear_chestplate
+- mcda:battle_robe_chestplate
+- mcda:splendid_robe_chestplate
+- mcda:evocation_robe_chestplate
+- mcda:ember_robe_chestplate
+- mcda:verdant_robe_chestplate
+- mcda:thief_armor_chestplate
+- mcda:spider_armor_chestplate
+- mcda:soul_robe_chestplate
+- mcda:souldancer_robe_chestplate
+- mcda:sprout_armor_chestplate
+- mcda:living_vines_armor_chestplate
+- mcda:piglin_armor_chestplate
+- mcda:entertainer_garb_chestplate
+- mcda:troubadour_armor_chestplate
+- mcda:teleportation_robe_chestplate
+- mcda:unstable_robe_chestplate
+- mcda:phantom_armor_chestplate
+- mcda:frost_bite_armor_chestplate
+- mcda:grim_armor_chestplate
+- mcda:wither_armor_chestplate
+- mcda:turtle_armor_chestplate
+- mcda:nimble_turtle_armor_chestplate
+- mcda:highland_armor_chestplate
+- mcda:beehive_armor_chestplate
+- mcda:beenest_armor_chestplate
+- mcda:ghostly_armor_chestplate
+- mcda:ghost_kindler_chestplate
+- mcda:golden_piglin_armor_chestplate
+- mcda:reinforced_mail_chestplate
+- mcda:stalwart_armor_chestplate
+- mcda:curious_armor_chestplate
+- mcda:snow_armor_chestplate
+- mcda:frost_armor_chestplate
+- mcda:mercenary_armor_chestplate
+- mcda:renegade_armor_chestplate
+- mcda:hungry_horror_chestplate
+- mcda:emerald_gear_chestplate
+- mcda:opulent_armor_chestplate
+- mcda:dark_armor_chestplate
+- mcda:titans_shroud_chestplate
+- mcda:royal_guard_armor_chestplate
+- mcda:plate_armor_chestplate
+- mcda:full_metal_armor_chestplate
+- mcda:white_mystery_armor_chestplate
+- mcda:blue_mystery_armor_chestplate
+- mcda:green_mystery_armor_chestplate
+- mcda:purple_mystery_armor_chestplate
+- mcda:red_mystery_armor_chestplate
+- mcda:champions_armor_chestplate
+- mcda:heros_armor_chestplate
+- mcda:gilded_glory_chestplate
+- mcda:shulker_armor_chestplate
+- mcda:sturdy_shulker_armor_chestplate
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+- minecraft:cobbled_deepslate
+- minecraft:cobblestone
+- minecraft:blackstone
+- minecraft:cobbled_deepslate
+- the_aether:cobbled_holystone
+
+#c:milks
+- minecraft:milk_bucket
+- croptopia:soy_milk
+- croptopia:milk_bottle
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_campfire
+- blockus:soul_lantern_block
+- blockus:soul_o_lantern
+
+#dml-refabricated:pristine_matter
+- dml-refabricated:pristine_matter_nether
+- dml-refabricated:pristine_matter_slimy
+- dml-refabricated:pristine_matter_overworld
+- dml-refabricated:pristine_matter_zombie
+- dml-refabricated:pristine_matter_skeleton
+- dml-refabricated:pristine_matter_end
+- dml-refabricated:pristine_matter_ghost
+- dml-refabricated:pristine_matter_illager
+- dml-refabricated:pristine_matter_ocean
+
+#c:chicken_and_dumplings
+- croptopia:chicken_and_dumplings
+
+#trinkets:chest/necklace
+- bewitchment:nazar
+- bewitchment:hellish_bauble
+- the_aether:golden_pendant
+- the_aether:zanite_pendant
+- the_aether:ice_pendant
+- things:moss_necklace
+- things:placebo
+- things:luck_of_the_irish
+- things:hades_crystal
+
+#c:seeds/peanut
+- croptopia:peanut_seed
+
+#c:silver_ores
+- bewitchment:silver_ore
+- bewitchment:deepslate_silver_ore
+- mythicmetals:silver_ore
+- indrev:silver_ore
+- indrev:deepslate_silver_ore
+
+#c:fruits/persimmons
+- croptopia:persimmon
+
+#c:vegetables/sweetpotatos
+- croptopia:sweetpotato
+
+#artofalchemy:materia
+- artofalchemy:materia_omega
+- artofalchemy:materia_s
+- artofalchemy:materia_a
+- artofalchemy:materia_b
+- artofalchemy:materia_c
+- artofalchemy:materia_d
+- artofalchemy:materia_e
+- artofalchemy:materia_f
+
+#automated_crafting:stripped_logs
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+- minecraft:stripped_crimson_stem
+- minecraft:stripped_crimson_hyphae
+- minecraft:stripped_warped_stem
+- minecraft:stripped_warped_hyphae
+
+#c:saplings/nutmeg
+- croptopia:nutmeg_sapling
+
+#c:seeds/artichoke
+- croptopia:artichoke_seed
+
+#c:tin_nuggets
+- mythicmetals:tin_nugget
+- indrev:tin_nugget
+
+#bewitchment:average_wands
+- bewitchment:golden_candelabra
+- bewitchment:silver_candelabra
+
+#adorn:kitchen_blocks
+- #adorn:kitchen_counters
+- #adorn:kitchen_cupboards
+- #adorn:kitchen_sinks
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- bewitchment:juniper_stairs
+- bewitchment:cypress_stairs
+- bewitchment:elder_stairs
+- bewitchment:dragons_blood_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- #the_aether:aether_wooden_stairs
+- blockus:bamboo_stairs
+- blockus:charred_stairs
+- blockus:white_oak_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- appletreesrev:apple_stairs
+- traverse:fir_stairs
+
+#c:nuts/pecans
+- croptopia:pecan
+
+#bewitchment:strong_swords
+- minecraft:netherite_sword
+- bewitchment:caduceus
+- bewitchment:horned_spear
+
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+- bewitchment:juniper_button
+- bewitchment:cypress_button
+- bewitchment:elder_button
+- bewitchment:dragons_blood_button
+- blockus:bamboo_button
+- blockus:charred_button
+- blockus:white_oak_button
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+- appletreesrev:apple_button
+- traverse:fir_button
+
+#c:vegetables/zucchini
+- croptopia:zucchini
+
+#c:seeds/sweetpotato
+- croptopia:sweetpotato_seed
+
+#mythicmetals:banglum_ores
+- mythicmetals:banglum_ore
+
+#storagecabinet:cabinets_items
+- storagecabinet:storagecabinet_wood
+- storagecabinet:storagecabinet_iron
+- storagecabinet:storagecabinet_gold
+- storagecabinet:storagecabinet_diamond
+- storagecabinet:storagecabinet_emerald
+
+#c:red_sandstones
+- blockus:red_sandstone_bricks
+- blockus:small_red_sandstone_bricks
+- blockus:rough_red_sandstone
+- blockus:gold_decorated_red_sandstone
+- blockus:red_sandstone_pillar
+
+#c:saplings/cashew
+- croptopia:cashew_sapling
+
+#terrarianslimes:gel
+- terrarianslimes:black_gel
+- terrarianslimes:blue_gel
+- terrarianslimes:corrupt_gel
+- terrarianslimes:crimson_gel
+- terrarianslimes:ice_gel
+- terrarianslimes:illuminant_gel
+- terrarianslimes:jungle_gel
+- terrarianslimes:pinky_gel
+- terrarianslimes:purple_gel
+- terrarianslimes:rainbow_gel
+- terrarianslimes:red_gel
+- terrarianslimes:sand_gel
+- terrarianslimes:yellow_gel
+
+#blockus:barriers
+- blockus:caution_barrier
+- blockus:road_barrier
+
+#adorn:kitchen_counters
+- adorn:oak_kitchen_counter
+- adorn:spruce_kitchen_counter
+- adorn:birch_kitchen_counter
+- adorn:jungle_kitchen_counter
+- adorn:acacia_kitchen_counter
+- adorn:dark_oak_kitchen_counter
+- adorn:crimson_kitchen_counter
+- adorn:warped_kitchen_counter
+- adorn:traverse/fir_kitchen_counter?
+- adorn:terrestria/cypress_kitchen_counter?
+- adorn:terrestria/hemlock_kitchen_counter?
+- adorn:terrestria/japanese_maple_kitchen_counter?
+- adorn:terrestria/rainbow_eucalyptus_kitchen_counter?
+- adorn:terrestria/redwood_kitchen_counter?
+- adorn:terrestria/rubber_kitchen_counter?
+- adorn:terrestria/sakura_kitchen_counter?
+- adorn:terrestria/willow_kitchen_counter?
+- adorn:terrestria/yucca_palm_kitchen_counter?
+- adorn:woods_and_mires/pine_kitchen_counter?
+- adorn:byg/aspen_kitchen_counter?
+- adorn:byg/baobab_kitchen_counter?
+- adorn:byg/blue_enchanted_kitchen_counter?
+- adorn:byg/bulbis_kitchen_counter?
+- adorn:byg/cherry_kitchen_counter?
+- adorn:byg/cika_kitchen_counter?
+- adorn:byg/cypress_kitchen_counter?
+- adorn:byg/ebony_kitchen_counter?
+- adorn:byg/embur_kitchen_counter?
+- adorn:byg/ether_kitchen_counter?
+- adorn:byg/fir_kitchen_counter?
+- adorn:byg/green_enchanted_kitchen_counter?
+- adorn:byg/holly_kitchen_counter?
+- adorn:byg/jacaranda_kitchen_counter?
+- adorn:byg/lament_kitchen_counter?
+- adorn:byg/mahogany_kitchen_counter?
+- adorn:byg/mangrove_kitchen_counter?
+- adorn:byg/maple_kitchen_counter?
+- adorn:byg/nightshade_kitchen_counter?
+- adorn:byg/palm_kitchen_counter?
+- adorn:byg/pine_kitchen_counter?
+- adorn:byg/rainbow_eucalyptus_kitchen_counter?
+- adorn:byg/redwood_kitchen_counter?
+- adorn:byg/skyris_kitchen_counter?
+- adorn:byg/sythian_kitchen_counter?
+- adorn:byg/willow_kitchen_counter?
+- adorn:byg/witch_hazel_kitchen_counter?
+- adorn:byg/zelkova_kitchen_counter?
+- adorn:biomemakeover/blighted_balsa_kitchen_counter?
+- adorn:biomemakeover/swamp_cypress_kitchen_counter?
+- adorn:biomemakeover/willow_kitchen_counter?
+- adorn:cinderscapes/scorched_kitchen_counter?
+- adorn:cinderscapes/umbral_kitchen_counter?
+
+#c:raw_tungsten_ores
+- indrev:raw_tungsten
+
+#adorn:chimneys
+- adorn:brick_chimney
+- adorn:stone_brick_chimney
+- adorn:nether_brick_chimney
+- adorn:red_nether_brick_chimney
+- adorn:cobblestone_chimney
+- adorn:prismarine_chimney
+- adorn:soulful_prismarine_chimney
+- adorn:magmatic_prismarine_chimney
+
+#c:fruits/coconuts
+- croptopia:coconut
+
+#c:silver_blocks
+- bewitchment:silver_block
+- mythicmetals:silver_block
+- indrev:silver_block
+
+#origins:ranged_weapons
+- minecraft:bow
+- minecraft:crossbow
+- minecraft:trident
+- gobber2:gobber2_bow
+- gobber2:gobber2_bow_nether
+- gobber2:gobber2_bow_end
+- gobber2:gobber2_sword_sniper
+- gobber2:gobber2_staff_sniper
+
+#mythicmetals:stormyx_nuggets
+- mythicmetals:stormyx_nugget
+
+#bewitchment:weak_wands
+- minecraft:torch
+- minecraft:soul_torch
+- minecraft:lantern
+- minecraft:soul_lantern
+- bewitchment:iron_candelabra
+
+#c:osmium_ores
+- mythicmetals:osmium_ore
+
+#c:shepherds_pie
+- croptopia:shepherds_pie
+
+#minecraft:tall_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+
+#mythicmetals:aetherium_ingots
+- mythicmetals:aetherium_ingot
+
+#c:slime_blocks
+- minecraft:slime_block
+- terrarianslimes:black_slime_block
+- terrarianslimes:blue_slime_block
+- terrarianslimes:corrupt_slime_block
+- terrarianslimes:crimson_slime_block
+- terrarianslimes:ice_slime_block
+- terrarianslimes:illuminant_slime_block
+- terrarianslimes:jungle_slime_block
+- terrarianslimes:pinky_slime_block
+- terrarianslimes:purple_slime_block
+- terrarianslimes:rainbow_slime_block
+- terrarianslimes:red_slime_block
+- terrarianslimes:sand_slime_block
+- terrarianslimes:yellow_slime_block
+- minecraft:slime_block
+
+#c:lead_blocks
+- indrev:lead_block
+
+#gobber2:ring_repair_blacklist
+- hwg:tommy_gun
+- hwg:shotgun
+- hwg:grenade_launcher
+- hwg:ak47
+- hwg:luger
+- hwg:pistol
+- hwg:spistol
+- hwg:rocketlauncher
+- hwg:flamethrower
+- hwg:sniper_rifle
+- hwg:brimstone_gun
+- hwg:balrog_gun
+- hwg:flare_gun
+- hwg:minigun
+- hwg:smg
+- hwg:hellhorse_revolver
+- hwg:meanie_gun_1
+- hwg:meanie_gun_2
+- hwg:golden_gun
+- minecraft:wooden_sword
+- doom:bfg9000
+- doom:shotgun
+- doom:bfg_eternal
+- doom:unmaykr
+- doom:ballista
+- doom:pistol
+- doom:chaingun
+- doom:rocketlauncher
+- doom:chainsaw
+- doom:chainsaw64
+- doom:plasmagun
+- doom:supershotgun
+- doom:heavycannon
+- doom:axe_marauder_open
+- doom:cruciblesword
+- doom:chainsaweternal
+
+#c:pizzas
+- croptopia:pizza
+
+#adorn:steps
+- #adorn:wooden_steps
+- #adorn:stone_steps
+
+#c:raisin_oatmeal_cookies
+- croptopia:raisin_oatmeal_cookie
+
+#c:fruits/dragonfruits
+- croptopia:dragonfruit
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#adorn:benches
+- adorn:oak_bench
+- adorn:spruce_bench
+- adorn:birch_bench
+- adorn:jungle_bench
+- adorn:acacia_bench
+- adorn:dark_oak_bench
+- adorn:crimson_bench
+- adorn:warped_bench
+- adorn:traverse/fir_bench?
+- adorn:terrestria/cypress_bench?
+- adorn:terrestria/hemlock_bench?
+- adorn:terrestria/japanese_maple_bench?
+- adorn:terrestria/rainbow_eucalyptus_bench?
+- adorn:terrestria/redwood_bench?
+- adorn:terrestria/rubber_bench?
+- adorn:terrestria/sakura_bench?
+- adorn:terrestria/willow_bench?
+- adorn:terrestria/yucca_palm_bench?
+- adorn:woods_and_mires/pine_bench?
+- adorn:byg/aspen_bench?
+- adorn:byg/baobab_bench?
+- adorn:byg/blue_enchanted_bench?
+- adorn:byg/bulbis_bench?
+- adorn:byg/cherry_bench?
+- adorn:byg/cika_bench?
+- adorn:byg/cypress_bench?
+- adorn:byg/ebony_bench?
+- adorn:byg/embur_bench?
+- adorn:byg/ether_bench?
+- adorn:byg/fir_bench?
+- adorn:byg/green_enchanted_bench?
+- adorn:byg/holly_bench?
+- adorn:byg/jacaranda_bench?
+- adorn:byg/lament_bench?
+- adorn:byg/mahogany_bench?
+- adorn:byg/mangrove_bench?
+- adorn:byg/maple_bench?
+- adorn:byg/nightshade_bench?
+- adorn:byg/palm_bench?
+- adorn:byg/pine_bench?
+- adorn:byg/rainbow_eucalyptus_bench?
+- adorn:byg/redwood_bench?
+- adorn:byg/skyris_bench?
+- adorn:byg/sythian_bench?
+- adorn:byg/willow_bench?
+- adorn:byg/witch_hazel_bench?
+- adorn:byg/zelkova_bench?
+- adorn:biomemakeover/blighted_balsa_bench?
+- adorn:biomemakeover/swamp_cypress_bench?
+- adorn:biomemakeover/willow_bench?
+- adorn:cinderscapes/scorched_bench?
+- adorn:cinderscapes/umbral_bench?
+
+#c:almond_brittles
+- croptopia:almond_brittle
+
+#c:cucumber_salads
+- croptopia:cucumber_salad
+
+#mythicmetals:discordium_ingots
+- mythicmetals:discordium_ingot
+
+#fabric:crossbows
+- mcdw:crossbow_the_slicer
+- mcdw:crossbow_azure_seeker
+- mcdw:crossbow_exploding_crossbow
+- mcdw:crossbow_imploding_crossbow
+- mcdw:crossbow_firebolt_thrower
+- mcdw:crossbow_heavy_crossbow
+- mcdw:crossbow_doom_crossbow
+- mcdw:crossbow_slayer_crossbow
+- mcdw:crossbow_rapid_crossbow
+- mcdw:crossbow_butterfly_crossbow
+- mcdw:crossbow_auto_crossbow
+- mcdw:crossbow_scatter_crossbow
+- mcdw:crossbow_harp_crossbow
+- mcdw:crossbow_lightning_harp_crossbow
+- mcdw:crossbow_soul_crossbow
+- mcdw:crossbow_feral_soul_crossbow
+- mcdw:crossbow_voidcaller_crossbow
+- mcdw:crossbow_dual_crossbow
+- mcdw:crossbow_spellbound_crossbow
+- mcdw:crossbow_baby_crossbow
+- mcdw:crossbow_burst_crossbow
+- mcdw:crossbow_soul_hunter_crossbow
+- mcdw:crossbow_corrupted_crossbow
+- mcdw:crossbow_cog_crossbow
+- mcdw:crossbow_pride_of_the_piglins
+- mcdw:crossbow_harpoon_crossbow
+- mcdw:crossbow_nautical_crossbow
+
+#mythicmetals:midas_gold_nuggets
+- mythicmetals:midas_gold_nugget
+
+#extraorigins:netherite_tools
+- minecraft:netherite_sword
+- minecraft:netherite_pickaxe
+- minecraft:netherite_axe
+- minecraft:netherite_shovel
+- minecraft:netherite_hoe
+
+#c:saplings/orange
+- croptopia:orange_sapling
+
+#mythicmetals:raw_ores
+- minecraft:raw_iron
+- minecraft:raw_copper
+- mythicmetals:raw_adamantite
+- mythicmetals:raw_aetherium
+- mythicmetals:raw_aquarium
+- mythicmetals:raw_banglum
+- mythicmetals:raw_carmot
+- mythicmetals:raw_kyber
+- mythicmetals:raw_manganese
+- mythicmetals:raw_mythril
+- mythicmetals:raw_orichalcum
+- mythicmetals:raw_osmium
+- mythicmetals:raw_platinum
+- mythicmetals:raw_prometheum
+- mythicmetals:raw_quadrillum
+- mythicmetals:raw_runite
+- mythicmetals:raw_silver
+- mythicmetals:raw_stormyx
+- mythicmetals:raw_tin
+- mythicmetals:raw_palladium
+
+#c:jam
+- #c:jams/apricot_jam
+- #c:jams/blackberry_jam
+- #c:jams/blueberry_jam
+- #c:jams/cherry_jam
+- #c:jams/elderberry_jam
+- #c:jams/grape_jam
+- #c:jams/peach_jam
+- #c:jams/strawberry_jam
+
+#bewitchment:wands
+- #bewitchment:weak_wands
+- #bewitchment:average_wands
+- #bewitchment:strong_wands
+
+#c:purpur_blocks
+- blockus:purpur_bricks
+- blockus:smooth_purpur
+- blockus:purpur_squares
+- blockus:purpur_little_bricks
+- blockus:chiseled_purpur
+- blockus:purpur_lines
+- blockus:phantom_purpur_block
+- blockus:phantom_purpur_pillar
+- blockus:phantom_purpur_bricks
+- blockus:smooth_phantom_purpur
+- blockus:phantom_purpur_squares
+- blockus:phantom_purpur_little_bricks
+- blockus:chiseled_phantom_purpur
+- blockus:phantom_purpur_lines
+
+#tooltiprareness:legendary_item
+- adventurez:source_stone
+
+#c:steel_chestplate
+- mythicmetals:steel_chestplate
+
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+- bewitchment:hedgewitch_wool
+- bewitchment:alchemist_wool
+- bewitchment:besmirched_wool
+- #blockus:patterned_wool
+
+#c:yoghurts
+- croptopia:yoghurt
+
+#mythicmetals:quadrillum_ingots
+- mythicmetals:quadrillum_ingot
+
+#mythicmetals:unobtainium
+- mythicmetals:unobtainium
+
+#minecraft:ice
+- minecraft:ice
+- minecraft:packed_ice
+- minecraft:blue_ice
+
+#mythicmetals:discordium_nuggets
+- mythicmetals:discordium_nugget
+
+#mythicmetals:kyber_nuggets
+- mythicmetals:kyber_nugget
+
+#enhancedcelestials:harvest_moon_crops
+- minecraft:beetroot
+- minecraft:carrot
+- minecraft:nether_wart
+- minecraft:potato
+- minecraft:wheat
+- minecraft:melon_slice
+
+#mythicmetals:banglum_blocks
+- mythicmetals:banglum_block
+
+#fabric:leggings
+- mcda:archers_leggings
+- mcda:ocelot_armor_leggings
+- mcda:shadow_walker_armor_leggings
+- mcda:spelunker_armor_leggings
+- mcda:cave_crawler_leggings
+- mcda:wolf_armor_leggings
+- mcda:black_wolf_armor_leggings
+- mcda:fox_armor_leggings
+- mcda:arctic_fox_armor_leggings
+- mcda:climbing_gear_leggings
+- mcda:rugged_climbing_gear_leggings
+- mcda:squid_armor_leggings
+- mcda:glow_squid_armor_leggings
+- mcda:goat_gear_leggings
+- mcda:battle_robe_leggings
+- mcda:splendid_robe_leggings
+- mcda:evocation_robe_leggings
+- mcda:ember_robe_leggings
+- mcda:verdant_robe_leggings
+- mcda:thief_armor_leggings
+- mcda:spider_armor_leggings
+- mcda:soul_robe_leggings
+- mcda:souldancer_robe_leggings
+- mcda:sprout_armor_leggings
+- mcda:living_vines_armor_leggings
+- mcda:piglin_armor_leggings
+- mcda:entertainer_garb_leggings
+- mcda:troubadour_armor_leggings
+- mcda:teleportation_robe_leggings
+- mcda:unstable_robe_leggings
+- mcda:phantom_armor_leggings
+- mcda:frost_bite_armor_leggings
+- mcda:grim_armor_leggings
+- mcda:wither_armor_leggings
+- mcda:turtle_armor_leggings
+- mcda:nimble_turtle_armor_leggings
+- mcda:highland_armor_leggings
+- mcda:beehive_armor_leggings
+- mcda:beenest_armor_leggings
+- mcda:ghostly_armor_leggings
+- mcda:ghost_kindler_leggings
+- mcda:golden_piglin_armor_leggings
+- mcda:reinforced_mail_leggings
+- mcda:stalwart_armor_leggings
+- mcda:curious_armor_leggings
+- mcda:snow_armor_leggings
+- mcda:frost_armor_leggings
+- mcda:mercenary_armor_leggings
+- mcda:renegade_armor_leggings
+- mcda:hungry_horror_leggings
+- mcda:emerald_gear_leggings
+- mcda:opulent_armor_leggings
+- mcda:dark_armor_leggings
+- mcda:titans_shroud_leggings
+- mcda:royal_guard_armor_leggings
+- mcda:plate_armor_leggings
+- mcda:full_metal_armor_leggings
+- mcda:white_mystery_armor_leggings
+- mcda:blue_mystery_armor_leggings
+- mcda:green_mystery_armor_leggings
+- mcda:purple_mystery_armor_leggings
+- mcda:red_mystery_armor_leggings
+- mcda:champions_armor_leggings
+- mcda:heros_armor_leggings
+- mcda:gilded_glory_leggings
+- mcda:shulker_armor_leggings
+- mcda:sturdy_shulker_armor_leggings
+
+#c:saplings/plum
+- croptopia:plum_sapling
+
+#trinkets:hand/glove
+- the_aether:leather_gloves
+- the_aether:iron_gloves
+- the_aether:golden_gloves
+- the_aether:chain_gloves
+- the_aether:diamond_gloves
+- the_aether:zanite_gloves
+- the_aether:gravitite_gloves
+- the_aether:neptune_gloves
+- the_aether:phoenix_gloves
+- the_aether:obsidian_gloves
+- the_aether:valkyrie_gloves
+- things:riot_gauntlet
+- things:mining_gloves
+- doom:soulcube
+
+#c:meads
+- croptopia:mead
+
+#c:saplings
+- #c:saplings/almond
+- #c:saplings/apple
+- #c:saplings/apricot
+- #c:saplings/avocado
+- #c:saplings/banana
+- #c:saplings/cashew
+- #c:saplings/cherry
+- #c:saplings/coconut
+- #c:saplings/date
+- #c:saplings/dragonfruit
+- #c:saplings/fig
+- #c:saplings/grapefruit
+- #c:saplings/kumquat
+- #c:saplings/lemon
+- #c:saplings/lime
+- #c:saplings/mango
+- #c:saplings/nectarine
+- #c:saplings/nutmeg
+- #c:saplings/orange
+- #c:saplings/peach
+- #c:saplings/pear
+- #c:saplings/pecan
+- #c:saplings/persimmon
+- #c:saplings/plum
+- #c:saplings/starfruit
+- #c:saplings/walnut
+
+#fabric:shovels
+- betternether:cincinnasite_shovel
+- betternether:cincinnasite_shovel_diamond
+- betternether:nether_ruby_shovel
+- conjuring:soul_alloy_shovel
+- the_aether:zanite_shovel
+- the_aether:gravitite_shovel
+- the_aether:valkyrie_shovel
+- vanillaexcavators:diamond_shovel?
+- vanillaexcavators:emerald_shovel?
+- vanillaexcavators:ender_shovel?
+- vanillaexcavators:fiery_shovel?
+- vanillaexcavators:golden_shovel?
+- vanillaexcavators:iron_shovel?
+- vanillaexcavators:lapis_shovel?
+- vanillaexcavators:netherite_shovel?
+- vanillaexcavators:obsidian_shovel?
+- vanillaexcavators:prismarine_shovel?
+- vanillaexcavators:quartz_shovel?
+- vanillaexcavators:slime_shovel?
+- vanillaexcavators:stone_shovel?
+- vanillaexcavators:wooden_shovel?
+- dragonloot:dragon_shovel
+- mythicmetals:adamantite_shovel
+- mythicmetals:aetherium_shovel
+- mythicmetals:aquarium_shovel
+- mythicmetals:banglum_shovel
+- mythicmetals:bronze_shovel
+- mythicmetals:carmot_shovel
+- mythicmetals:celestium_shovel
+- mythicmetals:copper_shovel
+- mythicmetals:discordium_shovel
+- mythicmetals:durasteel_shovel
+- mythicmetals:hallowed_shovel
+- mythicmetals:kyber_shovel
+- mythicmetals:metallurgium_shovel
+- mythicmetals:mythril_shovel
+- mythicmetals:orichalcum_shovel
+- mythicmetals:osmium_shovel
+- mythicmetals:palladium_shovel
+- mythicmetals:prometheum_shovel
+- mythicmetals:quadrillum_shovel
+- mythicmetals:quicksilver_shovel
+- mythicmetals:runite_shovel
+- mythicmetals:silver_shovel
+- mythicmetals:star_platinum_shovel
+- mythicmetals:steel_shovel
+- mythicmetals:stormyx_shovel
+- indrev:mining_drill_mk1
+- indrev:mining_drill_mk2
+- indrev:mining_drill_mk3
+- indrev:mining_drill_mk4
+- indrev:tin_shovel
+- indrev:copper_shovel
+- indrev:steel_shovel
+- indrev:lead_shovel
+- indrev:silver_shovel
+- indrev:bronze_shovel
+- hellish-materials:luss_shovel
+- hellish-materials:batet_shovel
+- hellish-materials:vuld_shovel
+- minecraft:wooden_shovel
+- minecraft:stone_shovel
+- minecraft:iron_shovel
+- minecraft:golden_shovel
+- minecraft:diamond_shovel
+- minecraft:netherite_shovel
+- gobber2:gobber2_shovel?
+- gobber2:gobber2_shovel_nether?
+- gobber2:gobber2_shovel_end?
+- gobber2:gobber2_paxel?
+- gobber2:gobber2_paxel_nether?
+- gobber2:gobber2_paxel_end?
+- gobber2:gobber2_paxel_stars?
+- gobber2:gobber2_excavator?
+- gobber2:gobber2_excavator_nether?
+- gobber2:gobber2_excavator_end?
+
+#the_aether:aether_slabs
+- #the_aether:aether_wooden_slabs
+- #the_aether:aether_stone_slabs
+
+#c:raw_silver_blocks
+- bewitchment:raw_silver_block
+
+#c:cheeses
+- croptopia:cheese
+
+#dehydration:hydrating_foods
+- croptopia:artichoke_dip
+- croptopia:salsa
+- croptopia:soy_milk
+- croptopia:honeydew
+- croptopia:cantaloupe
+- minecraft:apple
+- croptopia:orange
+- croptopia:banana
+- croptopia:strawberry
+- croptopia:blackberry
+- croptopia:blueberry
+- croptopia:grape
+- croptopia:cantaloupe
+- croptopia:honeydew
+- croptopia:cranberry
+- croptopia:raspberry
+- croptopia:persimmon
+- croptopia:plum
+- croptopia:cherry
+- croptopia:lemon
+- croptopia:grapefruit
+- croptopia:kumquat
+- croptopia:peach
+- croptopia:nectarine
+- croptopia:mango
+- croptopia:dragonfruit
+- croptopia:starfruit
+- croptopia:apricot
+- croptopia:pear
+- croptopia:lime
+
+#c:crops
+- #c:crops/basil
+- #c:crops/blackbeans
+- #c:crops/chile_peppers
+- #c:crops/coffee_beans
+- #c:crops/hops
+- #c:crops/nutmeg
+- #c:crops/paprika
+- #c:crops/peanuts
+- #c:crops/vanilla
+- #c:fruits
+- #c:grains
+- #c:nuts
+- #c:vegetables
+
+#curios:cosmetic_helmet
+- adventurez:stone_golem_helmet
+- #fabric:helmets
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- minecraft:crimson_button
+- minecraft:warped_button
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- adorn:crimson_chair
+- adorn:warped_chair
+- adorn:crimson_drawer
+- adorn:warped_drawer
+- adorn:crimson_table
+- adorn:warped_table
+- adorn:crimson_bench
+- adorn:warped_bench
+- adorn:crimson_post
+- adorn:warped_post
+- adorn:crimson_platform
+- adorn:warped_platform
+- adorn:crimson_step
+- adorn:warped_step
+- adorn:crimson_shelf
+- adorn:warped_shelf
+- blockus:charred_planks
+- blockus:charred_slab
+- blockus:charred_pressure_plate
+- blockus:charred_fence
+- blockus:charred_trapdoor
+- blockus:charred_fence_gate
+- blockus:charred_stairs
+- blockus:charred_button
+- blockus:charred_door
+- blockus:warped_small_stems
+- blockus:crimson_small_stems
+
+#mythicmetals:stormyx_ores
+- mythicmetals:stormyx_ore
+- mythicmetals:blackstone_stormyx_ore
+
+#c:mythril_blocks
+- mythicmetals:mythril_block
+
+#c:fruits
+- minecraft:apple
+- minecraft:melon_slice
+- #c:fruits/almonds
+- #c:fruits/apricots
+- #c:fruits/avocados
+- #c:fruits/bananas
+- #c:fruits/bellpeppers
+- #c:fruits/blackberries
+- #c:fruits/blueberries
+- #c:fruits/cantaloupes
+- #c:fruits/cashews
+- #c:fruits/cherries
+- #c:fruits/coconuts
+- #c:fruits/cranberries
+- #c:fruits/currants
+- #c:fruits/dates
+- #c:fruits/dragonfruits
+- #c:fruits/elderberries
+- #c:fruits/figs
+- #c:fruits/grapefruits
+- #c:fruits/grapes
+- #c:fruits/honeydew
+- #c:fruits/kiwis
+- #c:fruits/kumquat
+- #c:fruits/lemons
+- #c:fruits/limes
+- #c:fruits/mangos
+- #c:fruits/nectarines
+- #c:fruits/olives
+- #c:fruits/oranges
+- #c:fruits/peaches
+- #c:fruits/pears
+- #c:fruits/pecans
+- #c:fruits/persimmons
+- #c:fruits/pineapples
+- #c:fruits/plums
+- #c:fruits/raspberries
+- #c:fruits/starfruits
+- #c:fruits/strawberries
+- #c:fruits/walnuts
+
+#c:baked_beans
+- croptopia:baked_beans
+
+#c:seeds/bellpepper
+- croptopia:bellpepper_seed
+
+#mythicmetals:aetherium_blocks
+- mythicmetals:aetherium_block
+
+#c:coffees
+- croptopia:coffee
+
+#c:pumpkin_spice_lattes
+- croptopia:pumpkin_spice_latte
+
+#minecraft:lapis_ores
+- minecraft:lapis_ore
+- minecraft:deepslate_lapis_ore
+- universal_ores:andesite_lapis_ore
+- universal_ores:diorite_lapis_ore
+- universal_ores:granite_lapis_ore
+- universal_ores:tuff_lapis_ore
+
+#c:seeds/spinach
+- croptopia:spinach_seed
+
+#mythicmetals:hallowed_ingots
+- mythicmetals:hallowed_ingot
+
+#c:electrum_blocks
+- indrev:electrum_block
+
+#c:frying_pans
+- croptopia:frying_pan
+
+#c:fruits/strawberries
+- croptopia:strawberry
+
+#c:crops/paprika
+- croptopia:paprika
+
+#c:saplings/cherry
+- croptopia:cherry_sapling
+
+#c:salsas
+- croptopia:salsa
+
+#c:juices/pineapple_juice
+- croptopia:pineapple_juice
+
+#c:quicksilver_nuggets
+- mythicmetals:quicksilver_nugget
+
+#c:banana_nut_breads
+- croptopia:banana_nut_bread
+
+#c:fruits/cranberries
+- croptopia:cranberry
+
+#c:vegetables/asparagus
+- croptopia:asparagus
+
+#c:osmium_blocks
+- mythicmetals:osmium_block
+
+#mythicmetals:metallurgium_blocks
+- mythicmetals:metallurgium_block
+
+#c:onion_rings
+- croptopia:onion_rings
+
+#c:light_blue_dyes
+- minecraft:light_blue_dye
+
+#c:glass
+- minecraft:glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+
+#c:caramel
+- croptopia:caramel
+
+#c:vegetables/leek
+- croptopia:leek
+
+#c:iron_ingots
+- minecraft:iron_ingot
+- minecraft:iron_ingot
+- minecraft:iron_ingot
+- minecraft:iron_ingot
+
+#hellish-materials:vuld
+- hellish-materials:vuld_pickaxe
+- hellish-materials:vuld_axe
+- hellish-materials:vuld_shovel
+- hellish-materials:vuld_hoe
+- hellish-materials:vuld_sword
+- hellish-materials:vuld
+- hellish-materials:vuld_drop
+- hellish-materials:vuld_ore
+- hellish-materials:corrupted_bone
+- hellish-materials:vuld_helm
+- hellish-materials:vuld_chestplate
+- hellish-materials:vuld_leggings
+- hellish-materials:vuld_boots
+
+#c:saplings/almond
+- croptopia:almond_sapling
+
+#c:molasses
+- croptopia:molasses
+
+#fabric:shears
+- betternether:cincinnasite_shears
+- minecraft:shears
+
+#c:seeds/kiwi
+- croptopia:kiwi_seed
+
+#blockus:warped_nether_grass
+- minecraft:nether_sprouts
+- minecraft:warped_roots
+
+#c:trifle
+- croptopia:trifle
+
+#c:nickel_ingots
+
+#mythicmetals:stormyx_blocks
+- mythicmetals:stormyx_block
+
+#c:copper_ores
+- minecraft:copper_ore
+- minecraft:deepslate_copper_ore
+
+#dehydration:hydrating_drinks
+- croptopia:coffee
+- croptopia:lemonade
+- croptopia:limeade
+- croptopia:soy_milk
+- croptopia:strawberry_smoothie
+- croptopia:banana_smoothie
+- croptopia:kale_smoothie
+- croptopia:fruit_smoothie
+- croptopia:chocolate_milkshake
+- croptopia:beer
+- croptopia:wine
+- croptopia:mead
+- croptopia:rum
+- croptopia:pumpkin_spice_latte
+- croptopia:water_bottle
+- croptopia:milk_bottle
+- croptopia:tea
+
+#c:fruits/blackberries
+- croptopia:blackberry
+
+#c:raw_silver_ores
+- indrev:raw_silver
+
+#c:vegetables
+- #c:vegetables/artichokes
+- #c:vegetables/asparagus
+- #c:vegetables/broccoli
+- #c:vegetables/cabbage
+- #c:vegetables/celery
+- #c:vegetables/cucumber
+- #c:vegetables/eggplant
+- #c:vegetables/garlic
+- #c:vegetables/ginger
+- #c:vegetables/greenbeans
+- #c:vegetables/greenonions
+- #c:vegetables/kale
+- #c:vegetables/leek
+- #c:vegetables/lettuce
+- #c:vegetables/mustard
+- #c:vegetables/radishes
+- #c:vegetables/rutabagas
+- #c:vegetables/soybeans
+- #c:vegetables/spinach
+- #c:vegetables/squash
+- #c:vegetables/sweetpotatos
+- #c:vegetables/tomatoes
+- #c:vegetables/turnips
+- #c:vegetables/yams
+- #c:vegetables/zucchini
+- #c:vegetables/cauliflower
+- #c:vegetables/onion
+- #c:vegetables/rhubarb
+- #c:vegetables/tomatillos
+
+#c:crops/nutmeg
+- croptopia:nutmeg
+
+#c:grains/rice
+- croptopia:rice
+
+#minecraft:leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- minecraft:azalea_leaves
+- minecraft:flowering_azalea_leaves
+- bewitchment:juniper_leaves
+- bewitchment:cypress_leaves
+- bewitchment:elder_leaves
+- bewitchment:dragons_blood_leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- minecraft:azalea_leaves
+- minecraft:flowering_azalea_leaves
+- #the_aether:aether_leaves
+- blockus:white_oak_leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- minecraft:azalea_leaves
+- minecraft:flowering_azalea_leaves
+- appletreesrev:apple_leaves
+- traverse:brown_autumnal_leaves
+- traverse:red_autumnal_leaves
+- traverse:yellow_autumnal_leaves
+- traverse:orange_autumnal_leaves
+- traverse:fir_leaves
+
+#c:platinum_nuggets
+- mythicmetals:platinum_nugget
+
+#c:vegetables/lettuce
+- croptopia:lettuce
+
+#c:seeds/tea
+- croptopia:tea_seed
+
+#c:chocolates
+- croptopia:chocolate
+
+#c:peanut_butter_and_jam
+- croptopia:peanut_butter_and_jam
+
+#minecraft:acacia_logs
+- minecraft:acacia_log
+- minecraft:acacia_wood
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+- blockus:acacia_small_logs
+
+#c:vegetables/rutabagas
+- croptopia:rutabaga
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores
+- minecraft:gold_block
+- minecraft:gilded_blackstone
+- minecraft:light_weighted_pressure_plate
+- minecraft:gold_ingot
+- minecraft:bell
+- minecraft:clock
+- minecraft:golden_carrot
+- minecraft:glistering_melon_slice
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+- minecraft:golden_helmet
+- minecraft:golden_chestplate
+- minecraft:golden_leggings
+- minecraft:golden_boots
+- minecraft:golden_horse_armor
+- minecraft:golden_sword
+- minecraft:golden_pickaxe
+- minecraft:golden_shovel
+- minecraft:golden_axe
+- minecraft:golden_hoe
+- minecraft:raw_gold
+- minecraft:raw_gold_block
+- kibe:basalt_generator_mk2
+- kibe:cobblestone_generator_mk2
+- kibe:gold_spikes
+- kibe:golden_lasso
+- kibe:golden_kibe
+- vanillaexcavators:golden_excavator
+- wolveswitharmor:golden_wolf_armor
+- lifts:gold_structure
+- lifts:electric_lift_mk2
+- blockus:legacy_gold_block
+- blockus:legacy_explosion_proof_gold_block
+- blockus:golden_chain
+- blockus:golden_bars
+- blockus:golden_gate
+- blockus:gold_decorated_sandstone
+- blockus:gold_decorated_red_sandstone
+- blockus:gold_decorated_soul_sandstone
+- blockus:gold_decorated_polished_blackstone
+- blockus:gold_plating
+- blockus:gold_plating_stairs
+- blockus:gold_plating_slab
+- blockus:golden_apple_crate
+- blockus:golden_carrot_crate
+- vanilla-hammers:golden_hammer
+
+#dankstorage:blacklisted_storage
+
+#kibe:runes
+- kibe:white_rune
+- kibe:orange_rune
+- kibe:magenta_rune
+- kibe:light_blue_rune
+- kibe:yellow_rune
+- kibe:lime_rune
+- kibe:pink_rune
+- kibe:gray_rune
+- kibe:light_gray_rune
+- kibe:cyan_rune
+- kibe:blue_rune
+- kibe:purple_rune
+- kibe:green_rune
+- kibe:brown_rune
+- kibe:red_rune
+- kibe:black_rune
+
+#c:iron_plates
+- agape_space:iron_plate
+- indrev:iron_plate
+
+#c:copper_ingots
+- minecraft:copper_ingot
+- minecraft:copper_ingot
+
+#c:gold_wires
+- agape_space:gold_wire
+
+#c:iridium_ingots
+
+#c:platinum_blocks
+- mythicmetals:platinum_block
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- #bewitchment:juniper_logs
+- #bewitchment:cypress_logs
+- #bewitchment:elder_logs
+- #bewitchment:dragons_blood_logs
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- #the_aether:aether_logs
+- #blockus:white_oak_logs
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- #appletreesrev:apple_logs
+- #traverse:fir_logs
+
+#dml-refabricated:attuned_data_models
+- dml-refabricated:data_model_nether
+- dml-refabricated:data_model_slimy
+- dml-refabricated:data_model_overworld
+- dml-refabricated:data_model_zombie
+- dml-refabricated:data_model_skeleton
+- dml-refabricated:data_model_end
+- dml-refabricated:data_model_ghost
+- dml-refabricated:data_model_illager
+- dml-refabricated:data_model_ocean
+
+#curios:cosmetic_leggings
+- adventurez:stone_golem_leggings
+- #fabric:leggings
+
+#c:turmeric
+- croptopia:turmeric
+
+#kibe:sleeping_bags
+- kibe:white_sleeping_bag
+- kibe:orange_sleeping_bag
+- kibe:magenta_sleeping_bag
+- kibe:light_blue_sleeping_bag
+- kibe:yellow_sleeping_bag
+- kibe:lime_sleeping_bag
+- kibe:pink_sleeping_bag
+- kibe:gray_sleeping_bag
+- kibe:light_gray_sleeping_bag
+- kibe:cyan_sleeping_bag
+- kibe:sleeping_bag
+- kibe:purple_sleeping_bag
+- kibe:green_sleeping_bag
+- kibe:brown_sleeping_bag
+- kibe:red_sleeping_bag
+- kibe:black_sleeping_bag
+
+#c:bronze_ingots
+- mythicmetals:bronze_ingot
+- indrev:bronze_ingot
+
+#c:silver_nuggets
+- bewitchment:silver_nugget
+- mythicmetals:silver_nugget
+- indrev:silver_nugget
+
+#mythicmetals:durasteel_ingots
+- mythicmetals:durasteel_ingot
+
+#extraalchemy:potion_for_bag
+- minecraft:potion
+- extraalchemy:breakable_potion
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- betternether:stalagnate_planks_slab
+- betternether:reeds_slab
+- betternether:willow_slab
+- betternether:wart_slab
+- betternether:mushroom_fir_slab
+- betternether:rubeus_slab
+- betternether:anchor_tree_slab
+- bewitchment:juniper_slab
+- bewitchment:cypress_slab
+- bewitchment:elder_slab
+- bewitchment:dragons_blood_slab
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- #the_aether:aether_wooden_slabs
+- blockus:bamboo_slab
+- blockus:charred_slab
+- blockus:white_oak_slab
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- appletreesrev:apple_slab
+- traverse:fir_slab
+
+#c:raw_tin_ores
+- indrev:raw_tin
+
+#c:palladium_ores
+- mythicmetals:palladium_ore
+
+#minecraft:small_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+
+#c:netherite_scrap_dusts
+- indrev:netherite_scrap_dust
+
+#c:saplings/starfruit
+- croptopia:starfruit_sapling
+
+#c:toasts
+- croptopia:toast
+
+#trinkets:chest/back
+- the_aether:cold_parachute
+- the_aether:golden_parachute
+- artifality:ukulele
+- artifality:forest_staff
+
+#c:fruit_salads
+- croptopia:fruit_salad
+
+#c:silver_dusts
+- indrev:silver_dust
+
+#c:adamantite_ingots
+- mythicmetals:adamantite_ingot
+
+#c:vermiculite_ores
+- mythicmetals:vermiculite_ore
+
+#c:purple_dyes
+- minecraft:purple_dye
+
+#curios:cosmetic_chestplate
+- adventurez:stone_golem_chestplate
+- #fabric:chestplates
+
+#c:fruits/nectarines
+- croptopia:nectarine
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13
+- minecraft:music_disc_cat
+- minecraft:music_disc_blocks
+- minecraft:music_disc_chirp
+- minecraft:music_disc_far
+- minecraft:music_disc_mall
+- minecraft:music_disc_mellohi
+- minecraft:music_disc_stal
+- minecraft:music_disc_strad
+- minecraft:music_disc_ward
+- minecraft:music_disc_11
+- minecraft:music_disc_wait
+
+#schmucks:farmer_likes
+- #c:plantable
+- minecraft:wheat
+- minecraft:beetroot
+- minecraft:melon_slice
+- minecraft:pumpkin
+
+#c:cashew_chickens
+- croptopia:cashew_chicken
+
+#c:sticky_toffee_pudding
+- croptopia:sticky_toffee_pudding
+
+#c:seeds/turnip
+- croptopia:turnip_seed
+
+#c:rare_loot
+- minecraft:netherite_scrap
+- minecraft:prismarine_shard
+- minecraft:prismarine_crystals
+- minecraft:nautilus_shell
+- gobber2:gobber2_ingot_nether
+- gobber2:gobber2_ring_return
+- gobber2:gobber2_ring_attraction
+- gobber2:gobber2_ring_sunshine
+
+#croptopia:nuts
+- croptopia:almond
+- croptopia:walnut
+- croptopia:pecan
+- croptopia:cashew
+- croptopia:peanut
+
+#c:olive_oils
+- croptopia:olive_oil
+
+#c:sweet_potato_friess
+- croptopia:sweet_potato_fries
+
+#c:bronze_plates
+- indrev:bronze_plate
+
+#croptopia:meat_replacements
+- minecraft:beef
+- minecraft:chicken
+- minecraft:porkchop
+- croptopia:tofu
+
+#fabric:helmets
+- mcda:archers_helmet
+- mcda:ocelot_armor_helmet
+- mcda:shadow_walker_armor_helmet
+- mcda:spelunker_armor_helmet
+- mcda:cave_crawler_helmet
+- mcda:wolf_armor_helmet
+- mcda:black_wolf_armor_helmet
+- mcda:fox_armor_helmet
+- mcda:arctic_fox_armor_helmet
+- mcda:climbing_gear_helmet
+- mcda:rugged_climbing_gear_helmet
+- mcda:squid_armor_helmet
+- mcda:glow_squid_armor_helmet
+- mcda:goat_gear_helmet
+- mcda:evocation_robe_helmet
+- mcda:ember_robe_helmet
+- mcda:verdant_robe_helmet
+- mcda:thief_armor_helmet
+- mcda:spider_armor_helmet
+- mcda:soul_robe_helmet
+- mcda:souldancer_robe_helmet
+- mcda:sprout_armor_helmet
+- mcda:living_vines_armor_helmet
+- mcda:piglin_armor_helmet
+- mcda:entertainer_garb_helmet
+- mcda:troubadour_armor_helmet
+- mcda:teleportation_robe_helmet
+- mcda:unstable_robe_helmet
+- mcda:phantom_armor_helmet
+- mcda:frost_bite_armor_helmet
+- mcda:grim_armor_helmet
+- mcda:wither_armor_helmet
+- mcda:turtle_armor_helmet
+- mcda:nimble_turtle_armor_helmet
+- mcda:highland_armor_helmet
+- mcda:beehive_armor_helmet
+- mcda:beenest_armor_helmet
+- mcda:ghostly_armor_helmet
+- mcda:ghost_kindler_helmet
+- mcda:golden_piglin_armor_helmet
+- mcda:reinforced_mail_helmet
+- mcda:stalwart_armor_helmet
+- mcda:curious_armor_helmet
+- mcda:snow_armor_helmet
+- mcda:frost_armor_helmet
+- mcda:mercenary_armor_helmet
+- mcda:renegade_armor_helmet
+- mcda:hungry_horror_helmet
+- mcda:emerald_gear_helmet
+- mcda:opulent_armor_helmet
+- mcda:dark_armor_helmet
+- mcda:titans_shroud_helmet
+- mcda:royal_guard_armor_helmet
+- mcda:plate_armor_helmet
+- mcda:full_metal_armor_helmet
+- mcda:white_mystery_armor_helmet
+- mcda:blue_mystery_armor_helmet
+- mcda:green_mystery_armor_helmet
+- mcda:purple_mystery_armor_helmet
+- mcda:red_mystery_armor_helmet
+- mcda:champions_armor_helmet
+- mcda:heros_armor_helmet
+- mcda:gilded_glory_helmet
+- mcda:shulker_armor_helmet
+- mcda:sturdy_shulker_armor_helmet
+
+#c:gold_ingots
+- minecraft:gold_ingot
+- minecraft:gold_ingot
+- minecraft:gold_ingot
+
+#c:raw_lead_ores
+- indrev:raw_lead
+
+#c:steel_dusts
+- indrev:steel_dust
+
+#c:fruits/grapefruits
+- croptopia:grapefruit
+
+#c:vegetables/turnips
+- croptopia:turnip
+
+#the_aether:aether_tall_flowers
+
+#mythicmetals:aquarium_blocks
+- mythicmetals:aquarium_block
+
+#c:light_gray_dyes
+- minecraft:light_gray_dye
+
+#c:nougats
+- croptopia:nougat
+
+#piglib:piglin_loved_items
+- mythicmetals:midas_gold_helmet
+- mythicmetals:midas_gold_chestplate
+- mythicmetals:midas_gold_leggings
+- mythicmetals:midas_gold_boots
+- mythicmetals:midas_gold_ingot
+- mythicmetals:raw_midas_gold
+
+#c:vegetables/cucumber
+- croptopia:cucumber
+
+#c:juices/apple_juice
+- croptopia:apple_juice
+
+#c:palladium_blocks
+- mythicmetals:palladium_block
+
+#c:chest
+- bewitchment:juniper_chest
+- bewitchment:cypress_chest
+- bewitchment:elder_chest
+- bewitchment:dragons_blood_chest
+- minecraft:chest
+- minecraft:trapped_chest
+
+#appletreesrev:saplings
+- appletreesrev:apple_sapling
+- appletreesrev:gapple_sapling
+- appletreesrev:eapple_sapling
+
+#c:raw_gold_ores
+- minecraft:raw_gold
+
+#extragenerators:green_items
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:birch_leaves
+- minecraft:jungle_leaves
+- minecraft:acacia_leaves
+- minecraft:dark_oak_leaves
+- minecraft:grass
+- minecraft:fern
+- minecraft:seagrass
+- minecraft:sea_pickle
+- minecraft:lime_wool
+- minecraft:green_wool
+- minecraft:sugar_cane
+- minecraft:kelp
+- minecraft:bamboo
+- minecraft:cactus
+- minecraft:melon
+- minecraft:vine
+- minecraft:lily_pad
+- minecraft:emerald_block
+- minecraft:lime_terracotta
+- minecraft:green_terracotta
+- minecraft:lime_carpet
+- minecraft:green_carpet
+- minecraft:slime_block
+- minecraft:tall_grass
+- minecraft:large_fern
+- minecraft:lime_stained_glass
+- minecraft:green_stained_glass
+- minecraft:lime_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:lime_shulker_box
+- minecraft:green_shulker_box
+- minecraft:lime_glazed_terracotta
+- minecraft:green_glazed_terracotta
+- minecraft:lime_concrete
+- minecraft:green_concrete
+- minecraft:lime_concrete_powder
+- minecraft:green_concrete_powder
+- minecraft:turtle_helmet
+- minecraft:scute
+- minecraft:wheat_seeds
+- minecraft:slime_ball
+- minecraft:lime_dye
+- minecraft:green_dye
+- minecraft:lime_bed
+- minecraft:green_bed
+- minecraft:ender_eye
+- minecraft:emerald
+- minecraft:zombie_head
+- minecraft:creeper_head
+- minecraft:lime_banner
+- minecraft:green_banner
+
+#bewitchment:juniper_logs
+- bewitchment:juniper_log
+- bewitchment:juniper_wood
+- bewitchment:stripped_juniper_log
+- bewitchment:stripped_juniper_wood
+
+#c:chicken_and_rice
+- croptopia:chicken_and_rice
+
+#bewitchment:elder_logs
+- bewitchment:elder_log
+- bewitchment:elder_wood
+- bewitchment:stripped_elder_log
+- bewitchment:stripped_elder_wood
+
+#c:diamonds
+- minecraft:diamond
+
+#c:gold_plates
+- agape_space:gold_plate
+- indrev:gold_plate
+
+#the_aether:aether_wooden_stairs
+- the_aether:skyroot_stairs
+- the_aether:golden_oak_stairs
+- the_aether:crystal_stairs
+- the_aether:wisteria_stairs
+- the_aether:orange_stairs
+
+#c:bookshelves
+- atbyw:spruce_bookshelf
+- atbyw:birch_bookshelf
+- atbyw:jungle_bookshelf
+- atbyw:acacia_bookshelf
+- atbyw:dark_oak_bookshelf
+- atbyw:crimson_bookshelf
+- atbyw:warped_bookshelf
+- atbyw:oak_bookshelf_toggle
+- atbyw:spruce_bookshelf_toggle
+- atbyw:birch_bookshelf_toggle
+- atbyw:jungle_bookshelf_toggle
+- atbyw:acacia_bookshelf_toggle
+- atbyw:dark_oak_bookshelf_toggle
+- atbyw:crimson_bookshelf_toggle
+- atbyw:warped_bookshelf_toggle
+
+#c:orichalcum_ingots
+- mythicmetals:orichalcum_ingot
+
+#c:netherite_blocks
+- minecraft:netherite_block
+
+#fabric:shields
+- mcdw:shield_royal_guard
+- mcdw:shield_vanguard
+
+#c:seeds/blackberry
+- croptopia:blackberry_seed
+
+#c:seeds/chilepepper
+- croptopia:chile_pepper_seed
+
+#trinkets:head/hat
+- artifality:balloon
+
+#c:seeds/tomatillo
+- croptopia:tomatillo_seed
+
+#c:seeds/cucumber
+- croptopia:cucumber_seed
+
+#c:jams/strawberry_jam
+- croptopia:strawberry_jam
+
+#c:saplings/banana
+- croptopia:banana_sapling
+
+#the_aether:aether_flowers
+- #the_aether:aether_small_flowers
+- #the_aether:aether_tall_flowers
+
+#c:platinum_ores
+- mythicmetals:platinum_ore
+
+#changeling:shields
+- minecraft:shield
+
+#c:beef_jerkies
+- croptopia:beef_jerky
+
+#the_aether:aether_saplings
+- the_aether:skyroot_sapling
+- the_aether:golden_oak_sapling
+- the_aether:crystal_sapling
+- the_aether:rose_wisteria_sapling
+- the_aether:frost_wisteria_sapling
+- the_aether:lavender_wisteria_sapling
+- the_aether:boreal_wisteria_sapling
+- the_aether:orange_sapling
+
+#c:raisins
+- croptopia:raisins
+
+#c:fruit_smoothies
+- croptopia:fruit_smoothie
+
+#c:mortar_and_pestles
+- croptopia:mortar_and_pestle
+
+#trinkets:feet/aglet
+- bewitchment:specter_bangle
+- bewitchment:druid_band
+- things:enchanted_wax_gland
+- things:rabbit_foot_charm
+
+#tooltiprareness:epic_item
+- adventurez:stone_golem_heart
+- adventurez:stone_golem_arm
+- adventurez:gilded_netherite_fragment
+- adventurez:prime_eye
+- adventurez:stone_golem_helmet
+- adventurez:stone_golem_chestplate
+- adventurez:stone_golem_leggings
+- adventurez:stone_golem_boots
+- dragonloot:dragon_scale
+- dragonloot:dragon_horse_armor
+- dragonloot:dragon_helmet
+- dragonloot:dragon_chestplate
+- dragonloot:dragon_leggings
+- dragonloot:dragon_boots
+- dragonloot:upgraded_dragon_chestplate
+- dragonloot:dragon_pickaxe
+- dragonloot:dragon_shovel
+- dragonloot:dragon_axe
+- dragonloot:dragon_hoe
+- dragonloot:dragon_sword
+- dragonloot:dragon_bow
+- dragonloot:dragon_crossbow
+- dragonloot:dragon_trident
+
+#c:red_dyes
+- minecraft:red_dye
+
+#mythicmetals:midas_gold_blocks
+- mythicmetals:midas_gold_block
+
+#adorn:stone_platforms
+- adorn:stone_platform
+- adorn:cobblestone_platform
+- adorn:sandstone_platform
+- adorn:andesite_platform
+- adorn:granite_platform
+- adorn:diorite_platform
+- adorn:brick_platform
+- adorn:stone_brick_platform
+- adorn:red_sandstone_platform
+- adorn:nether_brick_platform
+- adorn:basalt_platform
+- adorn:terrestria/basalt_platform?
+- adorn:terrestria/basalt_cobblestone_platform?
+- adorn:terrestria/smooth_basalt_platform?
+- adorn:terrestria/basalt_brick_platform?
+- adorn:terrestria/mossy_basalt_cobblestone_platform?
+- adorn:terrestria/mossy_basalt_brick_platform?
+- adorn:byg/dacite_platform?
+- adorn:byg/dacite_brick_platform?
+- adorn:byg/dacite_cobblestone_platform?
+- adorn:byg/mossy_stone_platform?
+- adorn:byg/rocky_stone_platform?
+- adorn:byg/scoria_stone_platform?
+- adorn:byg/scoria_cobblestone_platform?
+- adorn:byg/scoria_stonebrick_platform?
+- adorn:byg/soapstone_platform?
+- adorn:byg/polished_soapstone_platform?
+- adorn:byg/soapstone_brick_platform?
+- adorn:byg/soapstone_tile_platform?
+- adorn:byg/red_rock_platform?
+- adorn:byg/red_rock_brick_platform?
+- adorn:byg/mossy_red_rock_brick_platform?
+- adorn:byg/cracked_red_rock_brick_platform?
+- adorn:byg/chiseled_red_rock_brick_platform?
+
+#c:fruits/bellpeppers
+- croptopia:bellpepper
+
+#fabric:boots
+- mcda:archers_boots
+- mcda:ocelot_armor_boots
+- mcda:shadow_walker_armor_boots
+- mcda:spelunker_armor_boots
+- mcda:cave_crawler_boots
+- mcda:wolf_armor_boots
+- mcda:black_wolf_armor_boots
+- mcda:fox_armor_boots
+- mcda:arctic_fox_armor_boots
+- mcda:climbing_gear_boots
+- mcda:rugged_climbing_gear_boots
+- mcda:squid_armor_boots
+- mcda:glow_squid_armor_boots
+- mcda:goat_gear_boots
+- mcda:thief_armor_boots
+- mcda:spider_armor_boots
+- mcda:soul_robe_boots
+- mcda:souldancer_robe_boots
+- mcda:sprout_armor_boots
+- mcda:living_vines_armor_boots
+- mcda:piglin_armor_boots
+- mcda:entertainer_garb_boots
+- mcda:troubadour_armor_boots
+- mcda:teleportation_robe_boots
+- mcda:unstable_robe_boots
+- mcda:phantom_armor_boots
+- mcda:frost_bite_armor_boots
+- mcda:grim_armor_boots
+- mcda:wither_armor_boots
+- mcda:turtle_armor_boots
+- mcda:nimble_turtle_armor_boots
+- mcda:highland_armor_boots
+- mcda:beehive_armor_boots
+- mcda:beenest_armor_boots
+- mcda:ghostly_armor_boots
+- mcda:ghost_kindler_boots
+- mcda:golden_piglin_armor_boots
+- mcda:reinforced_mail_boots
+- mcda:stalwart_armor_boots
+- mcda:curious_armor_boots
+- mcda:snow_armor_boots
+- mcda:frost_armor_boots
+- mcda:mercenary_armor_boots
+- mcda:renegade_armor_boots
+- mcda:hungry_horror_boots
+- mcda:emerald_gear_boots
+- mcda:opulent_armor_boots
+- mcda:dark_armor_boots
+- mcda:titans_shroud_boots
+- mcda:royal_guard_armor_boots
+- mcda:plate_armor_boots
+- mcda:full_metal_armor_boots
+- mcda:white_mystery_armor_boots
+- mcda:blue_mystery_armor_boots
+- mcda:green_mystery_armor_boots
+- mcda:purple_mystery_armor_boots
+- mcda:red_mystery_armor_boots
+- mcda:champions_armor_boots
+- mcda:heros_armor_boots
+- mcda:gilded_glory_boots
+- mcda:shulker_armor_boots
+- mcda:sturdy_shulker_armor_boots
+
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- betternether:stalagnate_planks
+- betternether:willow_planks
+- betternether:wart_planks
+- betternether:mushroom_planks
+- betternether:mushroom_fir_planks
+- betternether:rubeus_planks
+- betternether:anchor_tree_planks
+- bewitchment:juniper_planks
+- bewitchment:cypress_planks
+- bewitchment:elder_planks
+- bewitchment:dragons_blood_planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- #the_aether:aether_planks
+- blockus:bamboo_planks
+- blockus:charred_planks
+- blockus:white_oak_planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- appletreesrev:apple_planks
+- traverse:fir_planks
+
+#minecraft:fox_food
+- minecraft:sweet_berries
+- minecraft:glow_berries
+
+#c:seeds/kale
+- croptopia:kale_seed
+
+#c:fruits/figs
+- croptopia:fig
+
+#c:grains/oats
+- croptopia:oat
+
+#c:seeds/hops
+- croptopia:hops_seed
+
+#minecraft:candles
+- minecraft:candle
+- minecraft:white_candle
+- minecraft:orange_candle
+- minecraft:magenta_candle
+- minecraft:light_blue_candle
+- minecraft:yellow_candle
+- minecraft:lime_candle
+- minecraft:pink_candle
+- minecraft:gray_candle
+- minecraft:light_gray_candle
+- minecraft:cyan_candle
+- minecraft:purple_candle
+- minecraft:blue_candle
+- minecraft:brown_candle
+- minecraft:green_candle
+- minecraft:red_candle
+- minecraft:black_candle
+
+#c:hoppers
+- minecraft:hopper
+
+#c:raw_food
+- minecraft:beef
+- minecraft:porkchop
+- minecraft:chicken
+- minecraft:rabbit
+- minecraft:mutton
+- minecraft:cod
+- minecraft:salmon
+
+#mythicmetals:kyber_ores
+- mythicmetals:kyber_ore
+- mythicmetals:calcite_kyber_ore
+
+#c:seeds/greenonion
+- croptopia:greenonion_seed
+
+#c:steel_boots
+- mythicmetals:steel_boots
+- indrev:steel_boots
+- astromine:steel_boots?
+
+#c:pecan_pies
+- croptopia:pecan_pie
+
+#c:saucy_chips
+- croptopia:saucy_chips

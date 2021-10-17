@@ -1,0 +1,14 @@
+name = "Open2Lan"
+filename = "open2lan-0.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3434/498/open2lan-0.2.2.jar"
+hash-format = "murmur2"
+hash = "1349696963"
+
+[update]
+[update.curseforge]
+file-id = 3434498
+project-id = 393156
+release-channel = "beta"

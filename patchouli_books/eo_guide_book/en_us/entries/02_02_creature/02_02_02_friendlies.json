@@ -1,0 +1,14 @@
+{
+    "name": "friendlies",
+    "icon": "minecraft:ocelot_spawn_egg",
+    "category": "patchouli:sub_02/02_02_creature",
+  
+    "sortnum": 2,
+  
+    "pages": 
+    [{
+      "type": "patchouli:text",
+      "text": "focus on indrev or any ore that technically required"
+    }]
+  }
+  

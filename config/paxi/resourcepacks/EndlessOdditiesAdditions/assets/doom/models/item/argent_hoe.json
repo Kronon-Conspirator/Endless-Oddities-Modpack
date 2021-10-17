@@ -1,0 +1,224 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"Marauder": "doom:items/laser_war_axe",
+		"crucible": "doom:items/crucible",
+		"hoe": "doom:items/argent_hoe"
+	},
+	"elements": [
+		{
+			"name": "LongHandle",
+			"from": [6.5, -4, 6.5],
+			"to": [8.5, 2, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14.5, -1, 15.5]},
+			"faces": {
+				"north": {"uv": [4, 3.5, 5.5, 10.5], "texture": "#Marauder"},
+				"east": {"uv": [4, 3.5, 5.5, 10.5], "texture": "#Marauder"},
+				"south": {"uv": [4, 3.5, 5.5, 10.5], "texture": "#Marauder"},
+				"west": {"uv": [4, 3.5, 5.5, 10.5], "texture": "#Marauder"},
+				"up": {"uv": [4, 0, 5.5, 10.5], "texture": "#Marauder"},
+				"down": {"uv": [4, 0, 5.5, 10.5], "texture": "#Marauder"}
+			}
+		},
+		{
+			"name": "LongHandle",
+			"from": [6.6, 2, 6.6],
+			"to": [8.4, 6, 8.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14.5, 5, 15.5]},
+			"faces": {
+				"north": {"uv": [4, 3.5, 5.5, 10.5], "texture": "#Marauder"},
+				"east": {"uv": [4, 3.5, 5.5, 10.5], "texture": "#Marauder"},
+				"south": {"uv": [4, 3.5, 5.5, 10.5], "texture": "#Marauder"},
+				"west": {"uv": [4, 3.5, 5.5, 10.5], "texture": "#Marauder"},
+				"up": {"uv": [4, 0, 5.5, 10.5], "texture": "#Marauder"},
+				"down": {"uv": [4, 0, 5.5, 10.5], "texture": "#Marauder"}
+			}
+		},
+		{
+			"name": "LongHandle",
+			"from": [6.75, 5.25, 7.5],
+			"to": [8.25, 10.25, 9],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.5, 7.75, 8.25]},
+			"faces": {
+				"north": {"uv": [5.5, 3.5, 4, 10.5], "texture": "#Marauder"},
+				"east": {"uv": [5.5, 3.5, 4, 10.5], "texture": "#Marauder"},
+				"south": {"uv": [5.5, 3.5, 4, 10.5], "texture": "#Marauder"},
+				"west": {"uv": [5.5, 3.5, 4, 10.5], "texture": "#Marauder"},
+				"up": {"uv": [4, 10.5, 5.5, 0], "texture": "#Marauder"},
+				"down": {"uv": [4, 10.5, 5.5, 0], "texture": "#Marauder"}
+			}
+		},
+		{
+			"from": [5.8, 9.5, 9],
+			"to": [9.2, 12.5, 12],
+			"rotation": {"angle": 45, "axis": "x", "origin": [7.5, 12, 9.5]},
+			"faces": {
+				"north": {"uv": [2.5, 13.5, 0, 16], "texture": "#crucible"},
+				"east": {"uv": [2.5, 13.5, 0, 16], "texture": "#crucible"},
+				"south": {"uv": [2.5, 13.5, 0, 16], "texture": "#crucible"},
+				"west": {"uv": [2.5, 13.5, 0, 16], "texture": "#crucible"},
+				"up": {"uv": [2.5, 16, 0, 13.5], "rotation": 180, "texture": "#crucible"},
+				"down": {"uv": [0, 16, 2.5, 13.5], "texture": "#crucible"}
+			}
+		},
+		{
+			"from": [6, -1, 6],
+			"to": [9, 0, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 7, 16]},
+			"faces": {
+				"north": {"uv": [0, 7, 1.5, 7.5], "texture": "#crucible"},
+				"east": {"uv": [0, 7, 1.5, 7.5], "texture": "#crucible"},
+				"south": {"uv": [0, 7, 1.5, 7.5], "texture": "#crucible"},
+				"west": {"uv": [0, 7, 1.5, 7.5], "texture": "#crucible"},
+				"up": {"uv": [1.5, 7, 4, 7.5], "texture": "#crucible"},
+				"down": {"uv": [0, 9.5, 1.5, 10], "texture": "#crucible"}
+			}
+		},
+		{
+			"from": [6, 7.5, 6.75],
+			"to": [9, 8.5, 9.75],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.5, 8, 8.25]},
+			"faces": {
+				"north": {"uv": [1.5, 7, 4, 8.5], "texture": "#crucible"},
+				"east": {"uv": [0, 7.5, 1.5, 8], "texture": "#crucible"},
+				"south": {"uv": [0, 7.5, 1.5, 8], "texture": "#crucible"},
+				"west": {"uv": [0, 7.5, 1.5, 8], "texture": "#crucible"},
+				"up": {"uv": [1.5, 7, 4, 7.5], "texture": "#crucible"},
+				"down": {"uv": [0, 9.5, 1.5, 10], "texture": "#crucible"}
+			}
+		},
+		{
+			"from": [5.5, -4, 5.4],
+			"to": [9.4, -3, 9.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.9, 4, 18.4]},
+			"faces": {
+				"north": {"uv": [0, 7.5, 1.5, 8], "texture": "#crucible"},
+				"east": {"uv": [0, 7.5, 1.5, 8], "texture": "#crucible"},
+				"south": {"uv": [0, 7.5, 1.5, 8], "texture": "#crucible"},
+				"west": {"uv": [0, 7.5, 1.5, 8], "texture": "#crucible"},
+				"up": {"uv": [0, 7.5, 1.5, 8], "texture": "#crucible"},
+				"down": {"uv": [0, 9.5, 1.5, 10], "texture": "#crucible"}
+			}
+		},
+		{
+			"from": [6, -11, 6],
+			"to": [9, -4, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, -1, 15]},
+			"faces": {
+				"north": {"uv": [4, 7, 5.5, 10.5], "texture": "#Marauder"},
+				"east": {"uv": [4, 7, 5.5, 10.5], "texture": "#Marauder"},
+				"south": {"uv": [4, 7, 5.5, 10.5], "texture": "#Marauder"},
+				"west": {"uv": [4, 7, 5.5, 10.5], "texture": "#Marauder"},
+				"up": {"uv": [4, 9, 5.5, 10.5], "texture": "#Marauder"},
+				"down": {"uv": [4, 7, 5.5, 10.5], "texture": "#Marauder"}
+			}
+		},
+		{
+			"from": [5, -13, 5],
+			"to": [10, -11, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, -5, 15]},
+			"faces": {
+				"north": {"uv": [0, 13.5, 2.5, 15.5], "texture": "#crucible"},
+				"east": {"uv": [0, 13.5, 2.5, 15.5], "texture": "#crucible"},
+				"south": {"uv": [0, 13.5, 2.5, 15.5], "texture": "#crucible"},
+				"west": {"uv": [0, 13.5, 2.5, 15.5], "texture": "#crucible"},
+				"up": {"uv": [0, 13.5, 2.5, 14], "texture": "#crucible"},
+				"down": {"uv": [0.5, 15, 2, 16], "texture": "#crucible"}
+			}
+		},
+		{
+			"name": "Shovelblade_3",
+			"from": [7.5, 6, -1.25],
+			"to": [7.51, 14, 14.25],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [7.505, 10, 6.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#hoe"},
+				"east": {"uv": [9.5, 0, 0, 5.5], "texture": "#hoe"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#hoe"},
+				"west": {"uv": [0, 0, 9.5, 5.5], "texture": "#hoe"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#hoe"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#hoe"}
+			}
+		},
+		{
+			"from": [5.3, 9.6, 8.4],
+			"to": [9.7, 11.6, 10.4],
+			"rotation": {"angle": -45, "axis": "x", "origin": [7.5, 10.6, 9.4]},
+			"faces": {
+				"north": {"uv": [13.5, 13, 16, 15.5], "rotation": 180, "texture": "#Marauder"},
+				"east": {"uv": [10, 13, 12.5, 15.5], "rotation": 270, "texture": "#Marauder"},
+				"south": {"uv": [11, 10.5, 13.5, 13], "texture": "#Marauder"},
+				"west": {"uv": [5, 13, 7.5, 15.5], "rotation": 90, "texture": "#Marauder"},
+				"up": {"uv": [2.5, 13, 5, 15.5], "rotation": 180, "texture": "#Marauder"},
+				"down": {"uv": [7.5, 13, 10, 15.5], "texture": "#Marauder"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0.5, 10.5, 2],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-0.25, 10.5, 2],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [4, 11, -9],
+			"translation": [-1.5, 8, 3],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [4, 11, -9],
+			"translation": [-1.5, 8, 3],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"translation": [0, 9, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [56, 34, -58],
+			"translation": [1.6, 0.75, 0],
+			"scale": [0.47, 0.47, 0.47]
+		},
+		"head": {
+			"rotation": [0, 90, 0],
+			"translation": [-0.5, 10.25, 0.75],
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0.25, 4, -0.5],
+			"scale": [0.38, 0.38, 0.38]
+		}
+	},
+	"groups": [
+		{
+			"name": "Hoe",
+			"origin": [-1, 24, -1],
+			"color": 0,
+			"children": [
+				{
+					"name": "handle",
+					"origin": [-1, 24, -1],
+					"color": 0,
+					"children": [0, 1, 2,
+						{
+							"name": "Head",
+							"origin": [7.5, 24.5, 7.5],
+							"color": 0,
+							"children": [3]
+						},
+						{
+							"name": "handle",
+							"origin": [-1, 24, -1],
+							"color": 0,
+							"children": [4, 5, 6, 7, 8]
+						}
+					]
+				}, 9, 10]
+		}
+	]
+}

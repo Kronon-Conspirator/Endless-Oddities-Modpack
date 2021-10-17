@@ -1,0 +1,14 @@
+name = "StorageBox (Fabric)"
+filename = "storagebox-1.0.4-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3478/738/storagebox-1.0.4-1.17.1.jar"
+hash-format = "murmur2"
+hash = "51536540"
+
+[update]
+[update.curseforge]
+file-id = 3478738
+project-id = 517673
+release-channel = "beta"

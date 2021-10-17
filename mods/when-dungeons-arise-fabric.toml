@@ -1,0 +1,14 @@
+name = "When Dungeons Arise - Fabric!"
+filename = "DungeonsArise-1.17.1-2.1.47-fabric-release.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3414/936/DungeonsArise-1.17.1-2.1.47-fabric-release.jar"
+hash-format = "murmur2"
+hash = "1638066007"
+
+[update]
+[update.curseforge]
+file-id = 3414936
+project-id = 511812
+release-channel = "beta"

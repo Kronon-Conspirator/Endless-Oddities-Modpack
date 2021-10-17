@@ -1,0 +1,14 @@
+name = "Seamless Loading Screen"
+filename = "seamless-loading-screen-1.3.6+1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3403/66/seamless-loading-screen-1.3.6+1.17.1.jar"
+hash-format = "murmur2"
+hash = "2092690676"
+
+[update]
+[update.curseforge]
+file-id = 3403066
+project-id = 429926
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "XP Storage - Trinkets"
+filename = "xpstorage_trinkets-0.1+1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3408/633/xpstorage_trinkets-0.1+1.17.1.jar"
+hash-format = "murmur2"
+hash = "3204797788"
+
+[update]
+[update.curseforge]
+file-id = 3408633
+project-id = 508696
+release-channel = "beta"

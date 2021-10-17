@@ -1,0 +1,14 @@
+name = "Quilt Loading Screen"
+filename = "quilt-loading-screen-2.2.1+1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3405/213/quilt-loading-screen-2.2.1+1.17.jar"
+hash-format = "murmur2"
+hash = "4048314138"
+
+[update]
+[update.curseforge]
+file-id = 3405213
+project-id = 509338
+release-channel = "beta"

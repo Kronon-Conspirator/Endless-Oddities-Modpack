@@ -1,0 +1,14 @@
+name = "Hookshot"
+filename = "hookshot-r20.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3453/341/hookshot-r20.jar"
+hash-format = "murmur2"
+hash = "71622617"
+
+[update]
+[update.curseforge]
+file-id = 3453341
+project-id = 396512
+release-channel = "beta"

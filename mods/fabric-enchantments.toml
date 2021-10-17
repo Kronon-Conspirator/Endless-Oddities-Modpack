@@ -1,0 +1,14 @@
+name = "Fabric Enchantments"
+filename = "fabric-enchantments-0.4.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3419/703/fabric-enchantments-0.4.2.jar"
+hash-format = "murmur2"
+hash = "3738825018"
+
+[update]
+[update.curseforge]
+file-id = 3419703
+project-id = 498465
+release-channel = "beta"

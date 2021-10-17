@@ -1,0 +1,14 @@
+name = "light fix (MC-228802)"
+filename = "light-fix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3353/312/light-fix-1.0.0.jar"
+hash-format = "murmur2"
+hash = "4139144342"
+
+[update]
+[update.curseforge]
+file-id = 3353312
+project-id = 494542
+release-channel = "beta"

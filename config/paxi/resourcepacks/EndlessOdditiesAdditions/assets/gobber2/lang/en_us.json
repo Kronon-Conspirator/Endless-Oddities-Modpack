@@ -1,0 +1,16 @@
+{
+	"enchantment.gobber2.smithblade": "Reforged",
+	"enchantment.gobber2.smithblade.desc": "Adds attack damage to weapon",
+	"enchantment.gobber2.rebuffing": "Rebuffing",
+	"enchantment.gobber2.rebuffing.desc": "Pushes attackers away when hit, dealing a small amount of damage in the process.",
+	"enchantment.gobber2.faster_obsidian": "Diamond Tipped",
+	"enchantment.gobber2.faster_obsidian.desc": "Break Obsidian with greater ease.",
+	"enchantment.gobber2.untouchable": "Untouchable",
+	"enchantment.gobber2.untouchable.desc": "Deals damage to attackers.",
+	"enchantment.gobber2.quickuse": "Quickening",
+	"enchantment.gobber2.quickuse.desc": "Bypasses the cooldown on certain items.",
+	"enchantment.gobber2.blinders": "Blinders",
+	"enchantment.gobber2.blinders.desc": "Staring at an Enderman will not cause them to attack.",
+	"enchantment.gobber2.solidfooting": "Solid Footing",
+	"enchantment.gobber2.solidfooting.desc": "Removes mining penalty while airborne."
+}

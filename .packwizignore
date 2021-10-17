@@ -1,0 +1,6 @@
+/.git/**
+/.upload/**
+/.vscode/**
+/.gitignore
+packwiz.exe
+*.zip

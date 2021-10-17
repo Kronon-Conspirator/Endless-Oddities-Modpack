@@ -1,0 +1,160 @@
+{
+    "hidden": false,
+	"name": "Blazeborn Form",
+	"description": "Your Blazeborn form is fireproof, although it doesn't draw strength from flames like a true Blazeborn. Additionally, it can only tolerate the extreme temperatures of lava for a limited time. While in this form you are vulnerable to water.",
+	"type": "origins:multiple",
+	"meter": {
+		"type": "origins:resource",
+		"min": 0,
+		"max": 300,
+		"start_value": 300,
+		"hud_render": {
+			"should_render": true,
+			"sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_01.png",
+			"bar_index": 3,
+			"condition": {
+				"type": "origins:resource",
+				"inverted": false,
+				"comparison": "==",
+				"resource": "changeling:change_current_form",
+				"compare_to": 3
+			}
+		}
+	},
+	"fire_immunity": {
+	    "type": "origins:invulnerability",
+	    "damage_condition": {
+			"type": "origins:fire"
+		},
+		"condition": {
+			"type": "origins:and",
+			"conditions": [
+				{
+					"type": "origins:resource",
+					"comparison": "==",
+					"resource": "changeling:change_current_form",
+					"compare_to": 3
+				},
+				{
+					"type": "origins:resource",
+					"comparison": ">",
+					"resource": "changeling:blazeborn_meter",
+					"compare_to": 0
+				}
+			]
+		}
+	},
+	"tick": {
+		"type": "origins:action_over_time",
+		"entity_action": {
+			"type": "origins:if_else",
+			"condition": {
+				"type": "origins:and",
+				"conditions": [
+					{
+						"type": "origins:fluid_height",
+						"comparison": ">",
+						"fluid": "minecraft:lava",
+						"compare_to": 0.0
+					},
+					{
+					"type": "origins:resource",
+					"comparison": "==",
+					"resource": "changeling:change_current_form",
+					"compare_to": 3
+					}
+				]
+			},
+			"if_action": {
+				"type": "origins:change_resource",
+				"resource": "changeling:blazeborn_meter",
+				"change": -1
+			},
+			"else_action": {
+				"type": "origins:change_resource",
+				"resource": "changeling:blazeborn_meter",
+				"change": 1
+			}
+		},
+		"interval": 1
+	},
+	"fire_saturation":
+	{
+		"type": "origins:action_over_time",
+		"entity_action": {
+			"type": "origins:apply_effect",
+			"effect": {
+				"effect": "minecraft:saturation",
+				"duration": 40,
+				"show_particles": true,
+				"show_icon": false
+			}
+		},
+		"interval": 20,
+		"condition": {
+		  "type": "origins:and",
+		  "conditions": [
+			{
+			  "type": "origins:on_fire"
+			},
+			{      
+			  	"type": "origins:resource",
+				"comparison": "==",
+				"resource": "changeling:change_current_form",
+				"compare_to": 3
+			}
+		  ]
+		}
+	},
+	"no_food":{
+		"type": "origins:prevent_item_use",
+		"item_condition": {
+			"type": "origins:food"
+		},
+		"condition":{
+			"type": "origins:resource",
+			"comparison": "==",
+			"resource": "changeling:change_current_form",
+			"compare_to": 3
+		}
+	},
+	"water_vulnerability": {
+		"type": "origins:damage_over_time",
+		"interval": 20,
+		"onset_delay": 1,
+		"damage": 2,
+		"damage_easy": 1,
+		"damage_source": {
+			"name": "hurt_by_water",
+			"unblockable": true,
+			"bypasses_armor": true
+		},
+		"protection_enchantment": "origins:water_protection",
+		"protection_effectiveness": 1.0,
+		"condition": {
+			"type": "origins:and",
+			"conditions": [
+				{
+					"type": "origins:resource",
+					"comparison": "==",
+					"resource": "changeling:change_current_form",
+					"compare_to": 3
+				},
+				{
+					"type": "origins:or",
+					"conditions": [
+						{
+							"type": "origins:fluid_height",
+							"fluid": "minecraft:water",
+							"comparison": ">",
+							"compare_to": 0.0
+						},
+						{
+							"type": "origins:in_rain"
+						}
+					]
+				}
+			]
+		}
+	}
+}
