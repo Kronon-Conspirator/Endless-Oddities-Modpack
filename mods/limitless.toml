@@ -1,13 +1,13 @@
 name = "limitless"
-filename = "limitless-1.5.12.jar"
+filename = "limitless-1.5.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Qx0jUYY8/versions/1.5.12/limitless-1.5.12.jar"
+url = "https://cdn.modrinth.com//data/Qx0jUYY8/versions/1.5.7/limitless-1.5.7.jar"
 hash-format = "sha512"
-hash = "c988b8702651bb48997f12bdc5fcb74ec3e295c6894e281baf2ff681b2437c790c2dc19c3c6d1f9a0748d810ceee594814a7213ab483d89fd50a2a70568b7849"
+hash = "df63fec407d368643b9563d8de8930f27e802e7c75491b0d2dc470a35faae0db2a9d54685cd7a7ce691422568ef8f9e9edad06bee8672feca761d6d5f3dee1e1"
 
 [update]
 [update.modrinth]
 mod-id = "Qx0jUYY8"
-version = "l7i4VbBN"
+version = "ad4RZ2yY"

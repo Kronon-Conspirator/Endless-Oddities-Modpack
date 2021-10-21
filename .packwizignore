@@ -2,5 +2,6 @@
 /.upload/**
 /.vscode/**
 /.gitignore
+/.misc
 packwiz.exe
 *.zip

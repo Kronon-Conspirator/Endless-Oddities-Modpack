@@ -1,14 +1,14 @@
 name = "Enderscape"
-filename = "enderscape-0.1.0.jar"
+filename = "enderscape-0.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3490/466/enderscape-0.1.0.jar"
+url = "https://edge.forgecdn.net/files/3495/451/enderscape-0.1.1.jar"
 hash-format = "murmur2"
-hash = "1000129659"
+hash = "3965345648"
 
 [update]
 [update.curseforge]
-file-id = 3490466
+file-id = 3495451
 project-id = 536638
 release-channel = "beta"
