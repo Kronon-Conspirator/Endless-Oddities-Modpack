@@ -4,4 +4,6 @@
 /.gitignore
 /.misc
 packwiz.exe
-*.zip
+/*.zip
+.build/**
+build/EndlessOddities.zip

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "85f68f4a974872bbe22e3d716b3bcfa53f5a447d532b3ea1d0ca74f387c05795"
+hash = "bf0ac6b3585978769a8925a50a26c4a19653773b34753b94a0be79731f18f916"
 
 [[files]]
 file = "compile.sh"
@@ -2940,10 +2940,6 @@ metafile = true
 file = "mods/light-fix-mc-228802.toml"
 hash = "05dc7d1a92d6713ac5b7eb31ebbfcd289e7a7c85f9111fa4d82ed06b1559bc06"
 metafile = true
-
-[[files]]
-file = "mods/limitless-1.5.7.jar"
-hash = "1b46fefe27aa5d1bd76879acc4a82a7d6e346fcd8f9544a499e8490ade5d1c05"
 
 [[files]]
 file = "mods/limitless.toml"

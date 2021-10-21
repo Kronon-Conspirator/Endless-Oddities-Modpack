@@ -1,5 +1,5 @@
 
-![logo](config/paxi/resourcepacks/Graphics/logo.png)s
+![logo](config/paxi/resourcepacks/Graphics/logo.png)
 
 **Discord server:** [link](https://discord.gg/YXm7vSBjdW)
 
