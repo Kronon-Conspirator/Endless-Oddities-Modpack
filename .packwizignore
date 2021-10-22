@@ -6,4 +6,5 @@
 packwiz.exe
 /*.zip
 .build/**
-build/EndlessOddities.zip
+*.sh
+*.md

@@ -5,10 +5,6 @@ file = "README.md"
 hash = "bf0ac6b3585978769a8925a50a26c4a19653773b34753b94a0be79731f18f916"
 
 [[files]]
-file = "compile.sh"
-hash = "7517a11384df20b5dd3f264ddf24311c33243dddc02994c3b3fc7d86fc64ba4c"
-
-[[files]]
 file = "config/Adorn.json5"
 hash = "b275477496fee01b0a5c7cfbc87c0a22b1148b2cf36cdb795472a94ceb4ae306"
 
@@ -2001,10 +1997,6 @@ file = "config/waystones/config.json"
 hash = "1a42e078e5112d24c10980745a1cd1fcef1b70cb32007cb87f92f92251fdc375"
 
 [[files]]
-file = "config/winged.json5"
-hash = "78243546755de22f5113d459a38cccd5026a9782fd8bc7864092c6448296f475"
-
-[[files]]
 file = "config/xaerominimap.txt"
 hash = "55bd4f5a01cba127ffb956dd5e26e6682f486aefab0c463cecf4682a22790937"
 
@@ -3450,7 +3442,7 @@ hash = "ff23b75a5ae1d0fad276f52adb77f26a79e5523b705092887da08d7811bf9115"
 
 [[files]]
 file = "patchouli_books/eo_guide_book/en_us/entries/02_01_material/02_01_02_gem.json"
-hash = "a9d5b2ac5db7186123e535dc1ca1844fce3a8e524b71f4f31a643ff899d1b8c2"
+hash = "01ba7e3387118ec10f0558e9220b94bbbb03c99ed2236efb7c8849978aa779c2"
 
 [[files]]
 file = "patchouli_books/eo_guide_book/en_us/entries/02_01_material/02_01_03_machineore.json"
@@ -3490,11 +3482,15 @@ hash = "1e5d3c187b4d41f3e3c45d76c69f591ba0d6c6023f3adee0f2aa9864d0a7354a"
 
 [[files]]
 file = "patchouli_books/eo_guide_book/en_us/entries/03_01_machine/03_01_01_slotlink.json"
-hash = "7b9ddac7b7b07726d010990862fa0d98a4d058e90aae597664bdd214e302691e"
+hash = "02318d2bfab814b5a9c6d1851e11bcea9181e646902f3721978c4e44cce8e026"
 
 [[files]]
 file = "patchouli_books/eo_guide_book/en_us/entries/03_03_transportation/03_03_01_portals.json"
-hash = "9fbd08445c4c51a3156504735b3c45032111c0fc4205ac8bd042fb1dba14ea30"
+hash = "a4f2709758eff7dde69237934eb7c1926b733f5d35db57d57ec4c8566f491d44"
+
+[[files]]
+file = "patchouli_books/eo_guide_book/en_us/entries/04_othersources.json"
+hash = "5a8cd2e0b41c1e366318c0d6d144761351a026a03aeccdcd4496acd69d8ac232"
 
 [[files]]
 file = "patchouli_books/eo_guide_book/en_us/entries/old/basics/01_first_steps.json"
