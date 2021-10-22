@@ -42,7 +42,9 @@ updated:
 - MCdoom
 - ninjaPhenix's Container Lib
 - Rhino (finally 1.17 proper support)
+- limitless
 
+> moved mcdoom enchantable to modrinth
 ### 0.1.9.1
 
 Removed:

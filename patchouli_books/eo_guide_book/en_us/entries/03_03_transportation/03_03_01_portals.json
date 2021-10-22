@@ -1,5 +1,5 @@
 {
-  "name": "Portals",
+  "name": "thinking with Portals",
   "icon": "customportals:purple_portal_catalyst",
   "category": "patchouli:03_advance/03_03_transportation",
 
@@ -7,8 +7,25 @@
 
   "pages": 
   [{
-    "type": "patchouli:spotlight",
-    "item":"slotlink:request",
-    "text": "Simple sets of machines that allows connecting between multiple chest so easily use it as a item storage bank. Its useful to not think about item sorting when its totally automated."
+    "type": "patchouli:text",
+    "text": "Other than the typical portal to hell, you can also make portal frames out of any block. portals can only appear when both sides are lit using the portal catalyst. only caveat is they have a range limit. yes by default its already big enough of a range but if you want more and fast then you need portal runes."
+  } ,
+  {
+    "type": "patchouli:multiblock",
+    "name": "Portal Frames",
+    "multiblock": {
+      "pattern": [
+        [
+          " SS ",
+          "S  S",
+          "S  S",
+          "S  S",
+          " SS "
+        ]
+      ],
+      "mapping": {
+        "S": "minecraft:stone"
+      }
+    }
   }]
 }

@@ -1,0 +1,49 @@
+{
+  "name": "Other Sources",
+  "icon": "minecraft:book",
+  "category": "patchouli:04_extra",
+
+  "sortnum": 0,
+
+  "pages": 
+  [{
+    "type": "patchouli:spotlight",
+    "item":"indrev:guide_book",
+    "text": "Indrev book"
+  },
+  {
+    "type": "patchouli:spotlight",
+    "item":"croptopia:guide",
+    "text": "croptopia book"
+  },
+  {
+    "type": "patchouli:spotlight",
+    "item":"agape_space:space_guide",
+    "text": "agape_space book"
+  },
+  {
+    "type": "patchouli:spotlight",
+    "item":"things:things_guide",
+    "text": "things book"
+  },
+  {
+    "type": "patchouli:spotlight",
+    "item":"hwg:hwgbook",
+    "text": "hwg book"
+  },
+  {
+    "type": "patchouli:spotlight",
+    "item":"adventurez:adventurez",
+    "text": "adventurez book"
+  },
+  {
+    "type": "patchouli:spotlight",
+    "item":"doom:doom",
+    "text": "doom book"
+  },
+  {
+    "type": "patchouli:spotlight",
+    "item":"bewitchment:book_of_shadows",
+    "text": "bewitchment book"
+  }]
+}

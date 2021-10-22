@@ -1,14 +1,14 @@
 name = "Bewitchment"
-filename = "bewitchment-1.17-11.jar"
+filename = "bewitchment-1.17-12.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3485/800/bewitchment-1.17-11.jar"
+url = "https://edge.forgecdn.net/files/3498/221/bewitchment-1.17-12.jar"
 hash-format = "murmur2"
-hash = "1981793760"
+hash = "1742894092"
 
 [update]
 [update.curseforge]
-file-id = 3485800
+file-id = 3498221
 project-id = 394915
 release-channel = "beta"

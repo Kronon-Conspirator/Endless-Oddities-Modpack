@@ -2029,14 +2029,6 @@ file = "config/xp_storage_trinkets.json"
 hash = "da01b2c98f8c89ca6858c0a1cfa91cb7b0c9e254d8f182e7dc4be25e6dd78515"
 
 [[files]]
-file = "include/.minecraft/options.amecsapi.txt"
-hash = "5a29f5cf10f51a4bdbe58cfe15376cb74928ded3b1664b285d7c8bf21f1832fa"
-
-[[files]]
-file = "include/.minecraft/options.txt"
-hash = "810249c186b66c40081c3b5e5059d3c4380a93760ec4c67531fb851057758ad8"
-
-[[files]]
 file = "include/instance.cfg"
 hash = "9c64ab950d88f0030f6bec7e528c071295a48f756469aa1993a36ee59b2d60de"
 
@@ -2398,7 +2390,7 @@ hash = "33172103ed36c5b38debdc3e6dce3e27498e305fccbc31ab7ceeb31c8f478760"
 
 [[files]]
 file = "misc/CHANGELOG.md"
-hash = "72dbdd3f4ade5aa4fbec9964a2baf9f5da3fbde00e451473ed6a38f3ea98fe3f"
+hash = "8aa19845deb75cbc6bde4fec46034a54e8b37131ef3b03b4851d8437a1200beb"
 
 [[files]]
 file = "misc/MODLIST.md"
@@ -2503,7 +2495,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment.toml"
-hash = "46a2b7cb9be8138b31198bc3184d323bc75af7e3d830792ff1a6b92fcff1b339"
+hash = "25e8906547ad14c536185593b13fd9a7196534e0129a32b61ab6898dae7fb417"
 metafile = true
 
 [[files]]
@@ -2943,7 +2935,7 @@ metafile = true
 
 [[files]]
 file = "mods/limitless.toml"
-hash = "34fccbf11000a2beddff650218b8ded05513abc4941440acc5c177d044abeada"
+hash = "6fd7c3b3e71e2e78c69cf81c49f7d7ddf963df9d78be3859ebce13dfea6c4364"
 metafile = true
 
 [[files]]
@@ -2963,7 +2955,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "3f7b1c6adb6a9549d23493bcde6bed81c40248d7ad0ae5763317074de740e7f0"
+hash = "01e8252fcaa9657249a071fb0225b030b552d276e81695c7d2e18e211120f986"
 metafile = true
 
 [[files]]
@@ -2987,8 +2979,9 @@ hash = "8e98b46ca8ba013900ef671283856c3de88936388aae52b15908b03fb1736fbb"
 metafile = true
 
 [[files]]
-file = "mods/mcdoomenchant-1.0.0.jar"
-hash = "96d2b2c65598aff01e2e56cbb4708bd16dc44ddd4ece11e72f3407d9b61ca0fa"
+file = "mods/mcdoomenchants.toml"
+hash = "4039d6e84892f8ba5e2be7d76d17ee8ff5c474e836525fb7570b3a8a30e44c94"
+metafile = true
 
 [[files]]
 file = "mods/mcdw.toml"
@@ -3132,7 +3125,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "807468c7b0103fc7fabc3ed06ca14cd0782c28b2be604bf6c15ab880568025e3"
+hash = "bf041da39f135d9db78edc478c2fe2f5fb1fb9d4ffcf065a6f90f29b2bbdd181"
 metafile = true
 
 [[files]]
@@ -3147,7 +3140,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "3556ce0056005dc9bb88c32e045528dda63d0291555f2d6f3a84899b9c8dc854"
+hash = "6af49367ad22fb8b7815cdab131c7b984bb65cf05197cee033184c1c9fe14728"
 metafile = true
 
 [[files]]
@@ -3376,6 +3369,14 @@ hash = "1c35e1ca09d86fb7300c17aa8e9ff064e5fa358ca333d6ca3abb9df45537f4c6"
 metafile = true
 
 [[files]]
+file = "options.amecsapi.txt"
+hash = "5a29f5cf10f51a4bdbe58cfe15376cb74928ded3b1664b285d7c8bf21f1832fa"
+
+[[files]]
+file = "options.txt"
+hash = "810249c186b66c40081c3b5e5059d3c4380a93760ec4c67531fb851057758ad8"
+
+[[files]]
 file = "patchouli_books/eo_guide_book/book.json"
 hash = "7abd6deebf6a7dbd36f264f349e23db605a9f7f122019b460f665c1876d65dc4"
 
@@ -3445,7 +3446,7 @@ hash = "f4a1073b0587d843d7c7230e3f38698bc789cd2896ae1bddbb2c9bc4ade368df"
 
 [[files]]
 file = "patchouli_books/eo_guide_book/en_us/entries/02_01_material/02_01_01_ore.json"
-hash = "d767e5b8ff3bfa1c64f7a8c8c80703e05c1f65d6a431777600fddabdb5436217"
+hash = "ff23b75a5ae1d0fad276f52adb77f26a79e5523b705092887da08d7811bf9115"
 
 [[files]]
 file = "patchouli_books/eo_guide_book/en_us/entries/02_01_material/02_01_02_gem.json"

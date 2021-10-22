@@ -10,5 +10,40 @@
     "type": "patchouli:spotlight",
     "item":"slotlink:request",
     "text": "Simple sets of machines that allows connecting between multiple chest so easily use it as a item storage bank. Its useful to not think about item sorting when its totally automated."
+  },
+  {
+    "type": "patchouli:crafting",
+    "item":"slotlink:master",
+    "text": "main controller of your whole storage network. place it with somewhere theres easy access/cabling to other storages for future expansion"
+  },
+  {
+    "type": "patchouli:crafting",
+    "item":"slotlink:cable",
+    "text": "main cabling use for this system. it can only connect to Slotlink objects."
+  },
+  {
+    "type": "patchouli:crafting",
+    "item":"slotlink:link",
+    "text": "interface use to connect storages the system. has configurations for filtration when right-click with empty hand"
+  },
+  {
+    "type": "patchouli:crafting",
+    "item":"slotlink:import",
+    "text": "alternate interface that connects to storages for Importing items into the system. Useful for dumping items in bulk into storage. has multiple configurations when right-click with empty hand. Off by Default"
+  },
+  {
+    "type": "patchouli:crafting",
+    "item":"slotlink:export",
+    "text": "alternate interface opposite to import cable as it connects to storages for Exporting items into the system. Useful for sorting some items you want out of the system such as for bulk storage.has multiple configurations when right-click with empty hand. Off by Default"
+  },
+  {
+    "type": "patchouli:crafting",
+    "item":"slotlink:request",
+    "text": "main Access point for your network. essential to make it work locally without needing a remote. connect this to the master block directly or via cable."
+  },
+  {
+    "type": "patchouli:crafting",
+    "item":"slotlink:remote",
+    "text": "wireless Access point for your network. allows access to the network for 512 blocks away. shift right-clicking to connect this to the master block"
   }]
 }
