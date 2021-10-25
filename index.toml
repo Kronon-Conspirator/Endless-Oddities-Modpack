@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "bf0ac6b3585978769a8925a50a26c4a19653773b34753b94a0be79731f18f916"
-
-[[files]]
-file = "config/Adorn.json5"
-hash = "b275477496fee01b0a5c7cfbc87c0a22b1148b2cf36cdb795472a94ceb4ae306"
-
-[[files]]
 file = "config/InventoryHUD/curios.json"
 hash = "a2c119bcdf76fa0f0c6958a4be9e6771398a18b24a9c6555d77e68fe17053905"
 
@@ -2381,12 +2373,8 @@ file = "kubejs/startup_scripts/packversion.js"
 hash = "33172103ed36c5b38debdc3e6dce3e27498e305fccbc31ab7ceeb31c8f478760"
 
 [[files]]
-file = "misc/CHANGELOG.md"
-hash = "8aa19845deb75cbc6bde4fec46034a54e8b37131ef3b03b4851d8437a1200beb"
-
-[[files]]
-file = "misc/MODLIST.md"
-hash = "ce38fbe87b42248ece8bfc35aff8b959825a0db3f93ba7e856391edff06b9d18"
+file = "modlistgen.jar"
+hash = "680d3597cf89e73a7340519e8441d090995b46ba10cc70d552744a8438368a13"
 
 [[files]]
 file = "mods/FastTransferLib-0.5.7.jar"
@@ -2401,13 +2389,13 @@ file = "mods/[EndlessOddities]noenchantcap-1.0.0.jar"
 hash = "211b80b232aae9997a698cfef6f400bf9bf5ab823ff8e449b0ccad1853f863f0"
 
 [[files]]
-file = "mods/additional-enchanted-miner.toml"
-hash = "d84902588edfb8d2c93c8770e65b4b5b4e5aa44a649b6e644333a2c2729b4ce4"
+file = "mods/additional-additions.toml"
+hash = "fccc345fd7ff7ac67d74713cdc0ba6b69eb68823d8c629ec5a6c27bf451faf1a"
 metafile = true
 
 [[files]]
-file = "mods/adorn.toml"
-hash = "9764eb3debcbd45608adfffba63bfd4681669bf2d3be9c39394e651987a12498"
+file = "mods/additional-enchanted-miner.toml"
+hash = "d84902588edfb8d2c93c8770e65b4b5b4e5aa44a649b6e644333a2c2729b4ce4"
 metafile = true
 
 [[files]]
@@ -2427,7 +2415,7 @@ metafile = true
 
 [[files]]
 file = "mods/apple-trees-revived.toml"
-hash = "79533e527a7c96840cc763f5f88406714da5be6d6e36d0a9ed43996ab6e6ef1d"
+hash = "961115bc5662927c36e3945d858ce2785c787013c6d99a8fe0d7f749999562fe"
 metafile = true
 
 [[files]]
@@ -2437,7 +2425,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "2f084a168e35bc5a46a9b4d60401ffcb4ab228a61bfc8f7a651dc5724a285b76"
+hash = "c1ac0ea5003f230698651f3ea3a3a1d53e87de3add18c41409bf29d7f1d53f3a"
 metafile = true
 
 [[files]]
@@ -2567,7 +2555,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective-fabric.toml"
-hash = "64f51e5de9d1eedec08b2f8530b1ddbca0afd156cfc72d827055845acb180713"
+hash = "7a33504eccc97876f076f8c9efe08366ee469748e1301b7e713f157c10a36142"
 metafile = true
 
 [[files]]
@@ -2762,7 +2750,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.toml"
-hash = "96da6a3373dc7d9ef0e2742934478d933b726515b659b3dd61884a164cbe0fbe"
+hash = "2d99ebbc4df31ad78475bf08695a47d4c20f9cbf4a3010bf8942e38cf0dae7df"
 metafile = true
 
 [[files]]
@@ -2772,7 +2760,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "32572be108ffc17d2e532564c6b65177afb9cf99c4260e392aaffb9a964f04f0"
+hash = "4c39c717e9fd3928d5afb8290831d4ad257fc349f929123de14b277a0a4fe8f4"
 metafile = true
 
 [[files]]
@@ -2857,7 +2845,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-revolution.toml"
-hash = "bd9dc4ed12788e0e019ad7477f6d338ee42f95b3b528e0bbb69a2bf506cf9bfc"
+hash = "0310c95fa312ed6447b771cb0c1765d42eff07ad6774737f63462743c13fa45d"
 metafile = true
 
 [[files]]
@@ -2903,6 +2891,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs-fabric.toml"
 hash = "2ae909d3c851d68591933438088965fac312e8d92b541317b12a15ea379c9cb8"
+metafile = true
+
+[[files]]
+file = "mods/lacrimis.toml"
+hash = "e0a5819822789604cc15dd14ecd5af4daa62e3a333a92343cf30871047383687"
 metafile = true
 
 [[files]]
@@ -2967,7 +2960,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdoom.toml"
-hash = "8e98b46ca8ba013900ef671283856c3de88936388aae52b15908b03fb1736fbb"
+hash = "498fab287fe9a0b1db6b59ea78840bcaee6af35aecf157c20e43ebcc26643c30"
 metafile = true
 
 [[files]]
@@ -3022,7 +3015,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.toml"
-hash = "4cc631d311069a2c3f72b1839f1e1d3368636f11908597036f438bede9f3e8ea"
+hash = "da847c31e21dec7c9f58e4e323ed1b719d9a06f811fd25a43e668ba4a49451a5"
 metafile = true
 
 [[files]]
@@ -3043,6 +3036,11 @@ metafile = true
 [[files]]
 file = "mods/ninjaphenixs-container-library.toml"
 hash = "27e3218bf76edc0383469e4fd824aebf27c164df25e9ac445f5b05e1f0bc81cf"
+metafile = true
+
+[[files]]
+file = "mods/nmuk.toml"
+hash = "08c24705eddca6c4be7b1ae3ce4e2ffad94af6d08edafb63b83f04fc73686dd3"
 metafile = true
 
 [[files]]
@@ -3087,7 +3085,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.toml"
-hash = "02bc1832ed0de8b93654dc146b2c1308d75ff4791993b3da8c6556bcfcbd1a82"
+hash = "23b163e328e666ee5b29fa748d9c59f8ae8be0950600901d6f00f514c00aac58"
 metafile = true
 
 [[files]]
@@ -3132,7 +3130,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "6af49367ad22fb8b7815cdab131c7b984bb65cf05197cee033184c1c9fe14728"
+hash = "b5b81d048e58776665818a72a1b841105f3db5069211a95fced944b16d515734"
 metafile = true
 
 [[files]]
@@ -3327,12 +3325,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "6643b341a15a6f0bf1c05b1bfdcf44835272f9b2ea039e611022359f0094f2a9"
+hash = "db729bbcaf032d6cfb9adc5b3c25ed93844a00990247cb1c4ecbc33b1c16ee2a"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "7c7b13ecbd2ebfe11ca78730e7ff6af5aa8f6de6d739a1d21303747d9a6bcda2"
+hash = "890bbaa44746d391b236fa859afde06defb8fe503d4676d3d5787103d15b2ff9"
 metafile = true
 
 [[files]]

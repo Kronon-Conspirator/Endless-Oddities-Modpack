@@ -1,3 +1,17 @@
+### 0.2.0 Beta 2
+
+Updated:
+
+- Apple Trees Revived [Forge & Fabric][1.12.x - 1.17.1]: AppleTreesRev-Fabric-1.17.1-v2.5.jar -> AppleTreesRev-Fabric-1.17.1-v2.6.jar
+- Architectury API (Fabric): architectury-2.5.32.jar -> architectury-2.6.35.jar
+- Collective (Fabric): collective-fabric-1.17.x-1.44.jar -> collective-fabric-1.17.x-1.50.jar
+- FancyMenu [Fabric]: fancymenu_fabric_2.3.4_MC_1.17-1.17.1.jar -> fancymenu_fabric_2.3.5_MC_1.17-1.17.1.jar
+- GeckoLib: geckolib-fabric-1.17-3.0.18.jar -> geckolib-fabric-1.17-3.0.19.jar
+- MCDoom: MCDoom-Fabric-1.17-4.0.28.jar -> MCDoom-Fabric-1.17-4.0.30.jar
+- Pehkui: Pehkui-2.5.2+1.14.4-1.18.jar -> Pehkui-2.5.3+1.14.4-1.18.jar
+- Roughly Enough Items Fabric (REI): RoughlyEnoughItems-6.0.306-alpha.jar -> RoughlyEnoughItems-6.0.307-alpha.jar
+- Xaero's Minimap: Xaeros_Minimap_21.19.0_Fabric_1.17.1.jar -> Xaeros_Minimap_21.20.0_Fabric_1.17.1.jar
+- Xaero's World Map: XaerosWorldMap_1.17.3_Fabric_1.17.1.jar -> XaerosWorldMap_1.18.0_Fabric_1.17.1.jar
 ### 0.2.0
 
 Note :
@@ -10,6 +24,7 @@ Removed:
 - Awesome Dungeons, too erratic in spawning behavior
 - improved Stations, cool concept but ultimately unused
 - BetterEnd + BC lib, causing way to many issues
+- adorn, currently unlaunchable with, will add after fixed
 
 added:
 
@@ -17,10 +32,12 @@ added:
 - end Remastered
 - endscape
 - Artifacts
+- Lacrimis
+- No More Useless Keys - NMUK (Fabric)
+- additional addtions
 
 updated:
 
-- adorn
 - Boss of mass destruction
 - cull leaves
 - enderscape

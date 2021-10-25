@@ -1,14 +1,14 @@
 name = "MCDoom"
-filename = "MCDoom-Fabric-1.17-4.0.28.jar"
+filename = "MCDoom-Fabric-1.17-4.0.30.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3495/881/MCDoom-Fabric-1.17-4.0.28.jar"
+url = "https://edge.forgecdn.net/files/3504/193/MCDoom-Fabric-1.17-4.0.30.jar"
 hash-format = "murmur2"
-hash = "4257390396"
+hash = "891728604"
 
 [update]
 [update.curseforge]
-file-id = 3495881
+file-id = 3504193
 project-id = 368765
 release-channel = "beta"

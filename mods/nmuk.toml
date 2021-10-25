@@ -1,0 +1,14 @@
+name = "No More Useless Keys - NMUK (Fabric)"
+filename = "nmuk-1.0.1+mc1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3375/435/nmuk-1.0.1+mc1.17.jar"
+hash-format = "murmur2"
+hash = "1433603883"
+
+[update]
+[update.curseforge]
+file-id = 3375435
+project-id = 438172
+release-channel = "beta"
