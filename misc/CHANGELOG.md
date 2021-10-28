@@ -1,3 +1,5 @@
+# Endless Oddities changelog
+
 ### 0.2.0 Beta 2
 
 Updated:
@@ -7,11 +9,23 @@ Updated:
 - Collective (Fabric): collective-fabric-1.17.x-1.44.jar -> collective-fabric-1.17.x-1.50.jar
 - FancyMenu [Fabric]: fancymenu_fabric_2.3.4_MC_1.17-1.17.1.jar -> fancymenu_fabric_2.3.5_MC_1.17-1.17.1.jar
 - GeckoLib: geckolib-fabric-1.17-3.0.18.jar -> geckolib-fabric-1.17-3.0.19.jar
-- MCDoom: MCDoom-Fabric-1.17-4.0.28.jar -> MCDoom-Fabric-1.17-4.0.30.jar
 - Pehkui: Pehkui-2.5.2+1.14.4-1.18.jar -> Pehkui-2.5.3+1.14.4-1.18.jar
 - Roughly Enough Items Fabric (REI): RoughlyEnoughItems-6.0.306-alpha.jar -> RoughlyEnoughItems-6.0.307-alpha.jar
 - Xaero's Minimap: Xaeros_Minimap_21.19.0_Fabric_1.17.1.jar -> Xaeros_Minimap_21.20.0_Fabric_1.17.1.jar
 - Xaero's World Map: XaerosWorldMap_1.17.3_Fabric_1.17.1.jar -> XaerosWorldMap_1.18.0_Fabric_1.17.1.jar
+- Alloy Forgery: wraith-alloy-forgery-2.0.4.jar -> wraith-alloy-forgery-2.0.5.jar
+- Carrier: carrier-1.8.0.jar -> carrier-1.8.1.jar
+- Collective (Fabric): collective-fabric-1.17.x-1.50.jar -> collective-fabric-1.17.x-1.61.jar
+- Conjuring [Fabric/Forge]: conjuring-1.0.12.jar -> conjuring-1.0.13.jar
+- DimensionalDoors: DimensionalDoors-4.0.0+beta.4-10.10.2021.jar -> DimensionalDoors-4.0.0+beta.6-27.10.2021.jar
+- Happiness (is a) Warm Gun: HWGMod-1.17-1.0.21.jar -> HWGMod-1.17-1.0.22.jar
+- Hookshot: hookshot-r20.jar -> hookshot-r22.jar
+- Inventory HUD+: InventoryHUD-fabric-[1.17.x]-3.4.0.jar -> InventoryHUD-fabric-[1.17.x]-3.4.1.jar
+- MCDoom: MCDoom-Fabric-1.17-4.0.30.jar -> MCDoom-Fabric-1.17-4.0.31.jar
+- oωo (owo-lib): owo-0.3.0.jar -> owo-0.3.1.jar
+- Simple Discord RPC [Forge/Fabric]: simple-rpc-1.17-2.4-fabric.jar -> simple-rpc-1.17-2.5-fabric.jar
+- Wireless Networks: wirelessnetworks-1.3.0.jar -> wirelessnetworks-1.3.1.jar
+
 ### 0.2.0
 
 Note :

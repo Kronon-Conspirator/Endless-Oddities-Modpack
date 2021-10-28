@@ -2410,7 +2410,7 @@ metafile = true
 
 [[files]]
 file = "mods/alloy-forgery.toml"
-hash = "6cb22f4cd6d5fcd881d5b8c204fd414a0774f47b9103376e7cbeef559bfae288"
+hash = "4e6aa934cf27dfee30d402ab25b87867526f9ff90fd819fc1ce04d487fc25e78"
 metafile = true
 
 [[files]]
@@ -2520,7 +2520,7 @@ metafile = true
 
 [[files]]
 file = "mods/carrier.toml"
-hash = "3cf707c48658551283b6534df565f5bb45b3cb32e486550a16282b9061d179c0"
+hash = "c76126866aa7445d46dfd3e5a70c659261c4b1930976366be287e5eca355baf4"
 metafile = true
 
 [[files]]
@@ -2555,7 +2555,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective-fabric.toml"
-hash = "7a33504eccc97876f076f8c9efe08366ee469748e1301b7e713f157c10a36142"
+hash = "f13f0fd0aea2fa35cac3238e334f60f9b91bf8f6a8949dc94ab1e37a85dbe1ec"
 metafile = true
 
 [[files]]
@@ -2565,7 +2565,7 @@ metafile = true
 
 [[files]]
 file = "mods/conjuring.toml"
-hash = "fc661aaaf3cd7508eb728c39bc361c89c0db24dfe138a7ac14930c58d0e7522c"
+hash = "964d19db2acaff294ec46451f8fcb5a7b4897cce692be77e513e72bc491fa58f"
 metafile = true
 
 [[files]]
@@ -2615,7 +2615,7 @@ metafile = true
 
 [[files]]
 file = "mods/dimensionaldoors.toml"
-hash = "75235e74ff4f32292a953f1636e80bacfd37e35ec299060a9ff2b6e69085c992"
+hash = "05cf71bfca496668523aefe7b636be42cd7d1fdf6917d6d71fe3a312116620fc"
 metafile = true
 
 [[files]]
@@ -2785,7 +2785,7 @@ metafile = true
 
 [[files]]
 file = "mods/happiness-is-a-warm-gun.toml"
-hash = "026f393a9a890ed64509a6ec1d2b171a65038efc756ec9ed753f0ef4a89daa33"
+hash = "36664b879c303272ed09001e777c5b7ec286f955563ca2f69a0c444f6632463d"
 metafile = true
 
 [[files]]
@@ -2815,7 +2815,7 @@ metafile = true
 
 [[files]]
 file = "mods/hookshot.toml"
-hash = "2ed176d03b8584618e948ef8a3be2927bbd6ce57382d01f1761c54431e11a6de"
+hash = "8d0f306c451f04b134a1f186398a67e920ddcadd5ab1ff6b11f81d50c9027296"
 metafile = true
 
 [[files]]
@@ -2860,7 +2860,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.toml"
-hash = "8a00edbe33d27b8978e2037378457e06c5134a7902b0c1c2b01f86d6d4931613"
+hash = "07ccc97f506c23edf34a06055f95ec7d60ee4f51bfc509ce918a0f14c380eaf5"
 metafile = true
 
 [[files]]
@@ -2960,7 +2960,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdoom.toml"
-hash = "498fab287fe9a0b1db6b59ea78840bcaee6af35aecf157c20e43ebcc26643c30"
+hash = "67cdd6aa9ba1ac87e570525197001d43ad14e9ad54b388dbd64f18a129f273ad"
 metafile = true
 
 [[files]]
@@ -3065,7 +3065,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.toml"
-hash = "d525073d3612168def3b0d9ee307aa3812163d2b345defa85ec3d7f687be7275"
+hash = "61a3eacb72b9b2c4086352d9f8727fc958078eea101580d3c7958a2046c8443d"
 metafile = true
 
 [[files]]
@@ -3160,7 +3160,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.toml"
-hash = "3af31ada8ba5fb657b93e7d5e31e7029d572dce80c41c3c2ccc368b12c319453"
+hash = "9e5ea35b290837c10a94aacf7e3d8a1c00ba1ea2b85779a1eba46df998b89db0"
 metafile = true
 
 [[files]]
@@ -3310,7 +3310,7 @@ metafile = true
 
 [[files]]
 file = "mods/wireless-networks.toml"
-hash = "12dd4295c22853c875381024ead99758459788e0c9de3dc75bdfa4a25255764c"
+hash = "c264a0cf54a76ddc6b37dacb678c1b602b8bbc9b934b5f4814d801f8e07f0708"
 metafile = true
 
 [[files]]
